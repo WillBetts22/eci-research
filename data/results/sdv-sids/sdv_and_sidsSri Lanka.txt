@@ -1,0 +1,314 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.68189671843507 
+Chemicals: 11.314759092525756 
+Chemical Manufacturing: 7.298134961710214 
+Raw Manufacturing: 0 
+Wood Products: 87.26641389860586 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.077833541499603 
+Machinery and Construction: 149.21437022986572 
+Transportation: 1.9208624447036822 
+Weapons: 659.4321466470775 
+Daily Instruments: 11.566064535488273 
+Precious Stones	: 0 
+High-complexity Products: 2.3390677873424077 
+Services and Utilities: 15.918044586693409 
+ 
+increase Weapons in Sri Lanka by 5791282.870061519 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.299753804511453 
+Chemicals: 10.758786017162711 
+Chemical Manufacturing: 6.86052306319851 
+Raw Manufacturing: 0 
+Wood Products: 94.04561665858212 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.39786440117634 
+Machinery and Construction: 138.72166389611738 
+Transportation: 1.612673199941062 
+Weapons: 0 
+Daily Instruments: 9.982983668371123 
+Precious Stones	: 0 
+High-complexity Products: 1.9205404848302934 
+Services and Utilities: 13.416160817969246 
+ 
+increase Machinery and Construction in Sri Lanka by 27340866.206411302 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.528058145762626 
+Chemicals: 9.986829443199195 
+Chemical Manufacturing: 5.5500709816913245 
+Raw Manufacturing: 0 
+Wood Products: 87.67773512212851 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.69131733451725 
+Machinery and Construction: 0 
+Transportation: 0.9480723545146984 
+Weapons: 0 
+Daily Instruments: 6.811246451928698 
+Precious Stones	: 0 
+High-complexity Products: 1.0856167517884796 
+Services and Utilities: 9.394883851194722 
+ 
+increase Wood Products in Sri Lanka by 44482715.2736384 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.524367964834675 
+Chemicals: 9.868658608126356 
+Chemical Manufacturing: 5.246453776190779 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.573567351187262 
+Machinery and Construction: 0 
+Transportation: 0.7090818362563934 
+Weapons: 0 
+Daily Instruments: 5.847065154408295 
+Precious Stones	: 0 
+High-complexity Products: 0.749821009463636 
+Services and Utilities: 7.957113995075812 
+ 
+increase Chemicals in Sri Lanka by 354110264.3282504 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.955505244086777 
+Chemicals: 0 
+Chemical Manufacturing: 3.622149923481932 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.124987246512825 
+Machinery and Construction: 0 
+Transportation: 0.1745205369955553 
+Weapons: 0 
+Daily Instruments: 3.2624360319465078 
+Precious Stones	: 0 
+High-complexity Products: -0.03411141096432202 
+Services and Utilities: 5.0686440833319475 
+ 
+increase Energy Drilling and Mining in Sri Lanka by 1347929421.8676758 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.8035659176863583 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.597360754797063 
+Machinery and Construction: 0 
+Transportation: 0.20575827214880243 
+Weapons: 0 
+Daily Instruments: 3.2408219582597946 
+Precious Stones	: 337.72606063043065 
+High-complexity Products: 0.016458975586293643 
+Services and Utilities: 5.922026778405403 
+ 
+increase Precious Stones	 in Sri Lanka by 27936346.5557006 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.392244983232662 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.947679379074863 
+Machinery and Construction: 0 
+Transportation: 0.19132168064950805 
+Weapons: 0 
+Daily Instruments: 3.788392506508529 
+Precious Stones	: 0 
+High-complexity Products: -0.06773833006399907 
+Services and Utilities: 4.6169862741700545 
+ 
+increase Metals in Sri Lanka by 720537416.5515705 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.8319802754958245 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.05519367241337383 
+Weapons: 0 
+Daily Instruments: 2.7899935072745956 
+Precious Stones	: 0 
+High-complexity Products: -0.4490060597969718 
+Services and Utilities: 2.5325726315828416 
+ 
+increase Chemical Manufacturing in Sri Lanka by 845444692.6739845 USD 
+Iteration 8:  
+Animals and By-products: 1859.5902035587123 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 357.7384723023002 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 521.8821279468758 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 1920.0930273577667 
+Transportation: 1.4203763144649943 
+Weapons: 16739.446938007422 
+Daily Instruments: 6.497676050412035 
+Precious Stones	: 0 
+High-complexity Products: 0.9273564067526496 
+Services and Utilities: 9.172161984125337 
+ 
+increase Weapons in Sri Lanka by 331299.8552409597 USD 
+Iteration 9:  
+Animals and By-products: 1939.374663620386 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 333.1681285354626 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 558.6204006963596 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 1728.2704862880616 
+Transportation: 1.1263214604334408 
+Weapons: 0 
+Daily Instruments: 5.169596796369759 
+Precious Stones	: 0 
+High-complexity Products: 0.5205601773055439 
+Services and Utilities: 6.612656089212801 
+ 
+increase Animals and By-products in Sri Lanka by 5638172.827539444 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 288.0096788627661 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 614.7820034481161 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 1570.52462805046 
+Transportation: 1.0793088935149442 
+Weapons: 0 
+Daily Instruments: 5.30335116396863 
+Precious Stones	: 0 
+High-complexity Products: 0.3830783669543809 
+Services and Utilities: 5.436120165124245 
+ 
+increase Machinery and Construction in Sri Lanka by 2450362.1901903152 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 38040.39094978558 
+Chemicals: 207.05403616026908 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 438.7728141550251 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.433726924118216 
+Weapons: 0 
+Daily Instruments: 1.9197057041399714 
+Precious Stones	: 0 
+High-complexity Products: -0.39216932546343153 
+Services and Utilities: 1.7662897958526718 
+ 
+increase Energy Drilling and Mining in Sri Lanka by 386517.06058883667 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 124.64129672829395 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 317.4488595236491 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.45261391373490545 
+Weapons: 0 
+Daily Instruments: 2.629760975452103 
+Precious Stones	: 0 
+High-complexity Products: -0.4234633373818734 
+Services and Utilities: 1.3081440348795417 
+ 
+increase Wood Products in Sri Lanka by 24522668.813679874 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 112.22512546091511 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.22955620316805084 
+Weapons: 0 
+Daily Instruments: 1.8624883004385402 
+Precious Stones	: 0 
+High-complexity Products: -0.7436589821484741 
+Services and Utilities: -0.15462570213388463 
+ 
+increase Chemicals in Sri Lanka by 35856480.6261574 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2589899669436737 
+Weapons: 0 
+Daily Instruments: -0.09801498894727807 
+Precious Stones	: 0 
+High-complexity Products: -1.5028633173414772 
+Services and Utilities: -3.160285739276629 
+ 
+Sri Lanka completed

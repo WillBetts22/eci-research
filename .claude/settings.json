@@ -1,0 +1,18 @@
+{
+  "agent": "research-pm",
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/run_notebook.py *)",
+      "Bash(python3 scripts/build_catalog.py)",
+      "Bash(python3 scripts/docx_to_md.py*)",
+      "Bash(git status*)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Read(./**)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Bash(git push --force*)"
+    ]
+  }
+}

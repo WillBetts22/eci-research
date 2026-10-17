@@ -1,0 +1,230 @@
+Before Iteration: Animals and By-products: 146.83368226369376 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -49.34383576673284 
+Wood Products: 4.38548673266543 
+Clothing and Accessories: 2.8385273324105587 
+Textile: 76.18225928401063 
+Metals: -2.213506493600738 
+Machinery and Construction: -198.77557821621238 
+Transportation: -3.9555849204746094 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in USA by 3921325740.1065063 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -21.342642727317106 
+Wood Products: 124.08782285951081 
+Clothing and Accessories: 7.175880356324399 
+Textile: 117.50616892625091 
+Metals: 0.694542005368337 
+Machinery and Construction: -188.88558071885814 
+Transportation: -4.034364014852194 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Wood Products in USA by 1751230525.462677 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -13.244191097996433 
+Wood Products: 0 
+Clothing and Accessories: 9.360082378113157 
+Textile: 145.12944394486905 
+Metals: 2.1281603469527286 
+Machinery and Construction: -210.41343709859916 
+Transportation: -4.640161763857117 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Textile in USA by 5638603415.91465 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 16.2380069159724 
+Wood Products: 0 
+Clothing and Accessories: 15.261963692929346 
+Textile: 0 
+Metals: 4.825817241993678 
+Machinery and Construction: -184.37762418652352 
+Transportation: -4.996941433163893 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in USA by 6687381403.247208 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 18.101856838539053 
+Textile: 0 
+Metals: 5.832666693772954 
+Machinery and Construction: -138.82097406335208 
+Transportation: -3.886743649548597 
+Weapons: 0 
+Daily Instruments: -450.9521834512442 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in USA by 58677249095.36551 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 771.7985876020527 
+Energy Drilling and Mining: 0 
+Chemicals: 122.76554932204621 
+Chemical Manufacturing: -77.89340530986965 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.690997949065327 
+Machinery and Construction: -62.67225982617093 
+Transportation: -2.0030561781129075 
+Weapons: 0 
+Daily Instruments: -28.811416685534915 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Food and Preparations in USA by 1710028566.0895844 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 82.70325140695938 
+Chemical Manufacturing: -41.769480248224255 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 9.328953197041033 
+Machinery and Construction: -56.05675436505962 
+Transportation: -2.15880803019016 
+Weapons: 0 
+Daily Instruments: -21.583863658507614 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Chemicals in USA by 1988121823.0590515 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -66.41690094266433 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.55310654279673 
+Machinery and Construction: -85.56444394123294 
+Transportation: -3.472512117607903 
+Weapons: 0 
+Daily Instruments: -45.633615820950226 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Metals in USA by 68656682769.24899 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 20.65003922757604 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 78.2221821045966 
+Transportation: -0.8188164438181879 
+Weapons: 0 
+Daily Instruments: 4.4679365880665705 
+Precious Stones	: 0 
+High-complexity Products: -48.525452845543995 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in USA by 3162035338.5722675 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.5990310063019506 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -2.1872769383058035 
+Weapons: 0 
+Daily Instruments: -17.377076339560002 
+Precious Stones	: 0 
+High-complexity Products: -74.26960618988193 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in USA by 12463160939.384491 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -2.458918380163619 
+Weapons: 0 
+Daily Instruments: -32.72667859712938 
+Precious Stones	: 0 
+High-complexity Products: -66.12522034177852 
+Services and Utilities: 0 
+ 
+USA completed

@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.018491087784656 
+Raw Manufacturing: 5.189159766487827 
+Wood Products: 0 
+Clothing and Accessories: 9.84952857712545 
+Textile: 24.524410421633583 
+Metals: 0 
+Machinery and Construction: 98.83093924665819 
+Transportation: 1.526928300340763 
+Weapons: 5672.902887114468 
+Daily Instruments: 5.8277021885425855 
+Precious Stones	: 17.064754061227443 
+High-complexity Products: 2.420025213046471 
+Services and Utilities: 13.57337287025116 
+ 
+increase Weapons in Chile by 4708576.316196017 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.61522265559004 
+Raw Manufacturing: 5.154834169047134 
+Wood Products: 0 
+Clothing and Accessories: 11.148482365548356 
+Textile: 28.719000298073237 
+Metals: 0 
+Machinery and Construction: 91.14375059679135 
+Transportation: 1.2737256470106988 
+Weapons: 0 
+Daily Instruments: 4.8886469316324055 
+Precious Stones	: 19.030311024252565 
+High-complexity Products: 1.7764349533554242 
+Services and Utilities: 11.020436427447683 
+ 
+increase Machinery and Construction in Chile by 295367260.29832935 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.4114446262569302 
+Raw Manufacturing: 3.8558904520455664 
+Wood Products: 0 
+Clothing and Accessories: 11.016330573995946 
+Textile: 31.358413722640893 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.7316390105818107 
+Weapons: 0 
+Daily Instruments: 3.024376084999192 
+Precious Stones	: 19.198205995760613 
+High-complexity Products: 0.4947113158528495 
+Services and Utilities: 6.925784881729048 
+ 
+increase Textile in Chile by 991825954.4976151 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.838522133670501 
+Raw Manufacturing: 5.9864091133937585 
+Wood Products: 0 
+Clothing and Accessories: 16.755428171221105 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.6785369200103883 
+Weapons: 0 
+Daily Instruments: 3.2536923811028022 
+Precious Stones	: 25.665359251359927 
+High-complexity Products: 0.41553135437866034 
+Services and Utilities: 6.686237564741584 
+ 
+increase Precious Stones	 in Chile by 2239482561.3034844 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.359229311599466 
+Raw Manufacturing: 7.030656488960626 
+Wood Products: 0 
+Clothing and Accessories: 20.62224715562824 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.6668623982985885 
+Weapons: 0 
+Daily Instruments: 3.6096582796664203 
+Precious Stones	: 0 
+High-complexity Products: 0.28280191303521296 
+Services and Utilities: 5.4113335361062385 
+ 
+increase Clothing and Accessories in Chile by 2649205316.0000553 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.2928246628962485 
+Raw Manufacturing: 8.04028619594294 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5150084824457031 
+Weapons: 0 
+Daily Instruments: 3.32441542535881 
+Precious Stones	: 0 
+High-complexity Products: 0.03861342092311634 
+Services and Utilities: 4.223840980209992 
+ 
+increase Raw Manufacturing in Chile by 4385881863.767293 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.529290088081601 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.01223007913125186 
+Weapons: 0 
+Daily Instruments: 1.9292705680350617 
+Precious Stones	: 0 
+High-complexity Products: -0.6560361691412749 
+Services and Utilities: 2.531175430763957 
+ 
+increase Chemical Manufacturing in Chile by 6340063979.204855 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 414.64296005414184 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.1223755312318379 
+Weapons: 0 
+Daily Instruments: -0.03417939145575449 
+Precious Stones	: 0 
+High-complexity Products: -1.8291542587676326 
+Services and Utilities: -1.3753502245317084 
+ 
+increase Food and Preparations in Chile by 208020456.7780943 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.1961014290173711 
+Weapons: 0 
+Daily Instruments: -0.08609901126038018 
+Precious Stones	: 0 
+High-complexity Products: -2.091601971310597 
+Services and Utilities: -3.137301809047139 
+ 
+Chile completed

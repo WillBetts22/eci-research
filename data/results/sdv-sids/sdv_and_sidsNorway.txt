@@ -1,0 +1,146 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: -6.841372496173829 
+Food and Preparations: -2.7160239903225496 
+Energy Drilling and Mining: 0 
+Chemicals: 16.45990470338482 
+Chemical Manufacturing: 5.808385161722136 
+Raw Manufacturing: 2.905954060690489 
+Wood Products: 3.244126536900101 
+Clothing and Accessories: -2.7761223014894716 
+Textile: -15.369834970893496 
+Metals: 2.0450447086163033 
+Machinery and Construction: 110.05422383421903 
+Transportation: 2.5888024139088364 
+Weapons: 350.2287806058941 
+Daily Instruments: 11.066987200864473 
+Precious Stones	: -2.533631202000121 
+High-complexity Products: 3.570630287668393 
+Services and Utilities: 63.78503225307436 
+ 
+increase Weapons in Norway by 129016117.1982814 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -4.509398173905823 
+Food and Preparations: -1.7374272837918068 
+Energy Drilling and Mining: 0 
+Chemicals: 15.803377039150035 
+Chemical Manufacturing: 5.519285475681251 
+Raw Manufacturing: 2.8577352328578343 
+Wood Products: 5.100026630332207 
+Clothing and Accessories: -1.6313561680438167 
+Textile: -11.731273829805101 
+Metals: 3.274507758623129 
+Machinery and Construction: 103.00865165483457 
+Transportation: 2.3266798813844827 
+Weapons: 0 
+Daily Instruments: 9.851083599576722 
+Precious Stones	: -1.1459106960674534 
+High-complexity Products: 3.151969218825985 
+Services and Utilities: 57.0368026123648 
+ 
+increase Machinery and Construction in Norway by 843154910.4539115 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -3.7370001843037133 
+Food and Preparations: -1.6753992343249968 
+Energy Drilling and Mining: 0 
+Chemicals: 14.740737306131953 
+Chemical Manufacturing: 4.515057329590467 
+Raw Manufacturing: 1.6900641809642418 
+Wood Products: 3.2475617507238366 
+Clothing and Accessories: -1.855439293857033 
+Textile: -9.710799880251006 
+Metals: -0.029259414869259055 
+Machinery and Construction: 0 
+Transportation: 1.7641596982971748 
+Weapons: 0 
+Daily Instruments: 7.400365800284813 
+Precious Stones	: -1.0002955207970912 
+High-complexity Products: 2.283372512836348 
+Services and Utilities: 45.56038083935633 
+ 
+increase Services and Utilities in Norway by 3269894448.3924465 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -5.678157644647493 
+Food and Preparations: -3.5674134289171207 
+Energy Drilling and Mining: 0 
+Chemicals: 9.363909605203185 
+Chemical Manufacturing: 1.309308806651603 
+Raw Manufacturing: 0.34455253637424804 
+Wood Products: -1.4709556569381288 
+Clothing and Accessories: -3.536833161349528 
+Textile: -11.102098121736432 
+Metals: -6.68527932225437 
+Machinery and Construction: 0 
+Transportation: 0.7893218335814423 
+Weapons: 0 
+Daily Instruments: 2.140548865480904 
+Precious Stones	: -2.4589489886201537 
+High-complexity Products: -0.10909595636322299 
+Services and Utilities: 0 
+ 
+increase Chemicals in Norway by 5369942059.549282 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -5.023054927567598 
+Food and Preparations: -3.4771565082582163 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.01905764863377739 
+Raw Manufacturing: -0.3581642389089488 
+Wood Products: -1.8968932227756932 
+Clothing and Accessories: -3.6145400286236598 
+Textile: -10.335067385133264 
+Metals: -7.587474487148148 
+Machinery and Construction: 0 
+Transportation: 0.3413379554062014 
+Weapons: 0 
+Daily Instruments: 0.13020725395352373 
+Precious Stones	: -1.7153386147021539 
+High-complexity Products: -0.9513662549586113 
+Services and Utilities: 0 
+ 
+increase Transportation in Norway by 53080440090.08005 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -9.10150725969195 
+Food and Preparations: -5.093794646323739 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.6642858252485462 
+Raw Manufacturing: -1.980600819022016 
+Wood Products: -5.61159896886519 
+Clothing and Accessories: -6.085943821543313 
+Textile: -18.086794010773 
+Metals: -5.829330529136886 
+Machinery and Construction: 3210.648992151882 
+Transportation: 0 
+Weapons: -218.68366009160135 
+Daily Instruments: -0.6661898665435407 
+Precious Stones	: -3.3729991017278222 
+High-complexity Products: -0.4727445295178604 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Norway by 6289681.347284794 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -8.048635367847034 
+Food and Preparations: -4.923255115984933 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.24560491022466605 
+Raw Manufacturing: -2.861148782266639 
+Wood Products: -6.7245906010093695 
+Clothing and Accessories: -6.088168312510147 
+Textile: -15.500496173698819 
+Metals: -7.03544526919674 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: -5364.794746291601 
+Daily Instruments: -2.7367671067240575 
+Precious Stones	: -3.185441154811776 
+High-complexity Products: -1.258703747064736 
+Services and Utilities: 0 
+ 
+Norway completed

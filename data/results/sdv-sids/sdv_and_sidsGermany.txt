@@ -1,0 +1,20 @@
+Before Iteration: Animals and By-products: -47.96250363701302 
+Vegetables, Fruits and Plants: -24.296012912984757 
+Food and Preparations: -23.7385084715787 
+Energy Drilling and Mining: -1.5665568886487826 
+Chemicals: -67.64543228832191 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: -21.449880637775948 
+Textile: -17.809484647993912 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -9.48374423178858 
+High-complexity Products: 0 
+Services and Utilities: -204.4667744778281 
+ 
+Germany completed

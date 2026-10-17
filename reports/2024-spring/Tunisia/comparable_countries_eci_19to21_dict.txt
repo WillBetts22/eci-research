@@ -1,0 +1,8 @@
+Tunisia
+-172.19
+Morocco
+nan
+Senegal
+191.47
+Libya
+nan

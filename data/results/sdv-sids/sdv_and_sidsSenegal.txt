@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.64130545123775 
+Raw Manufacturing: 6.063291562963705 
+Wood Products: 17.342576995135612 
+Clothing and Accessories: 16.045918559795314 
+Textile: 141.85954402518027 
+Metals: 10.681214477305918 
+Machinery and Construction: 110.58279236834234 
+Transportation: 2.069311041694257 
+Weapons: 549.3873365891945 
+Daily Instruments: 7.362087571646841 
+Precious Stones	: 0 
+High-complexity Products: 3.8584741157271703 
+Services and Utilities: 16.732653214336644 
+ 
+increase Weapons in Senegal by 2996698.384675812 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.141313578748038 
+Raw Manufacturing: 6.000493936699377 
+Wood Products: 18.901735839361383 
+Clothing and Accessories: 18.121171359799234 
+Textile: 164.7937386053553 
+Metals: 11.273078403772812 
+Machinery and Construction: 103.39806256403448 
+Transportation: 1.794582739218034 
+Weapons: 0 
+Daily Instruments: 6.412377514506653 
+Precious Stones	: 0 
+High-complexity Products: 3.1327983191244098 
+Services and Utilities: 14.05335066791663 
+ 
+increase Textile in Senegal by 10208036.103391021 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.636274565806649 
+Raw Manufacturing: 8.181382888457978 
+Wood Products: 23.943209078724713 
+Clothing and Accessories: 27.520105813135373 
+Textile: 0 
+Metals: 14.524460134937646 
+Machinery and Construction: 111.29131623364837 
+Transportation: 1.7365558174408922 
+Weapons: 0 
+Daily Instruments: 6.630446478739249 
+Precious Stones	: 0 
+High-complexity Products: 3.029705634954248 
+Services and Utilities: 13.786953954395358 
+ 
+increase Machinery and Construction in Senegal by 19303938.180599943 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.184142647332168 
+Raw Manufacturing: 6.882540377218761 
+Wood Products: 22.730739053405422 
+Clothing and Accessories: 27.281907029649748 
+Textile: 0 
+Metals: 12.953595982390109 
+Machinery and Construction: 0 
+Transportation: 1.1561202523732668 
+Weapons: 0 
+Daily Instruments: 4.778344722370312 
+Precious Stones	: 0 
+High-complexity Products: 1.5898768618862404 
+Services and Utilities: 9.468224580949812 
+ 
+increase Clothing and Accessories in Senegal by 91915868.10444611 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.085143039980483 
+Raw Manufacturing: 7.982332651414488 
+Wood Products: 26.41652884905168 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 14.802372492565768 
+Machinery and Construction: 0 
+Transportation: 0.9942641936275232 
+Weapons: 0 
+Daily Instruments: 4.509106652022746 
+Precious Stones	: 0 
+High-complexity Products: 1.2800172721649596 
+Services and Utilities: 8.205342911279233 
+ 
+increase Wood Products in Senegal by 91607877.70153102 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.71256392177221 
+Raw Manufacturing: 8.364359828184458 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 16.15433662004211 
+Machinery and Construction: 0 
+Transportation: 0.7888312772657392 
+Weapons: 0 
+Daily Instruments: 3.9732518350095827 
+Precious Stones	: 0 
+High-complexity Products: 0.7047883306220495 
+Services and Utilities: 6.6435259300674465 
+ 
+increase Metals in Senegal by 146618422.69544208 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.063582345788388 
+Raw Manufacturing: 8.422988222898017 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5671755273920298 
+Weapons: 0 
+Daily Instruments: 3.383667777473291 
+Precious Stones	: 0 
+High-complexity Products: 0.053311764210552 
+Services and Utilities: 4.418612148219963 
+ 
+increase Raw Manufacturing in Senegal by 258591018.59347254 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.133411863418863 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.012675188985467626 
+Weapons: 0 
+Daily Instruments: 2.016214166355259 
+Precious Stones	: 0 
+High-complexity Products: -0.7082560120225291 
+Services and Utilities: 2.625853057248099 
+ 
+increase Chemical Manufacturing in Senegal by 328455227.0565673 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.1816803002444215 
+Weapons: 0 
+Daily Instruments: 0.003596730665123093 
+Precious Stones	: 0 
+High-complexity Products: -2.294072546990667 
+Services and Utilities: -3.3551417558740506 
+ 
+increase Daily Instruments in Senegal by 371110816.16404796 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.027635157302779 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.2956519705099723 
+Services and Utilities: -9.229461575045093 
+ 
+Senegal completed

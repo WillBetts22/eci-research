@@ -1,0 +1,20 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: -11.44916431649594 
+Food and Preparations: -14.525957308684584 
+Energy Drilling and Mining: -1.6292948234343998 
+Chemicals: -6.510209267503681 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -13.049707878029492 
+Wood Products: 0 
+Clothing and Accessories: -10.378334567337934 
+Textile: -12.229586438236284 
+Metals: 0 
+Machinery and Construction: -326.55270089836176 
+Transportation: -1.5559534496401684 
+Weapons: 0 
+Daily Instruments: -12.973868990272088 
+Precious Stones	: -7.023672731577604 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+Sweden completed

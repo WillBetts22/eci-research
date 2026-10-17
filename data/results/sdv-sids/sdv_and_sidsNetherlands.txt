@@ -1,0 +1,230 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 30.737032217274276 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -888.9573652538799 
+Wood Products: -17.377111366800804 
+Clothing and Accessories: -10.184510043519227 
+Textile: -2.2631116876974198 
+Metals: -16.341453776563824 
+Machinery and Construction: -106.56467434998345 
+Transportation: -1.8645532287247228 
+Weapons: -1245.0965289436763 
+Daily Instruments: 0 
+Precious Stones	: 0.10484221017766619 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Netherlands by 4510649459.257065 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -50.526422102973044 
+Wood Products: 2.3555865557438245 
+Clothing and Accessories: 7.086537392856212 
+Textile: 13.202668436731761 
+Metals: -4.092522483727773 
+Machinery and Construction: -88.32250697423831 
+Transportation: -1.8943727014173875 
+Weapons: -409.5407562642989 
+Daily Instruments: 0 
+Precious Stones	: 7.4948840860441885 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Textile in Netherlands by 6702726368.310635 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -4.289561458894054 
+Wood Products: 17.284016627482295 
+Clothing and Accessories: 31.174797102435605 
+Textile: 0 
+Metals: 1.6330782082549706 
+Machinery and Construction: -73.42813753265264 
+Transportation: -2.002249986003334 
+Weapons: 30.365342614341344 
+Daily Instruments: 0 
+Precious Stones	: 12.455075844069468 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Netherlands by 5434453723.064808 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 8.015538832754752 
+Wood Products: 25.911082999140763 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.659110074792414 
+Machinery and Construction: -79.25064264651094 
+Transportation: -2.353267417612749 
+Weapons: 577.7578854041432 
+Daily Instruments: 0 
+Precious Stones	: 15.540895234120157 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Weapons in Netherlands by 96467446.39499354 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 7.954704390966159 
+Wood Products: 29.99407170485708 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.697356214076936 
+Machinery and Construction: -90.6546182309946 
+Transportation: -2.847195142301329 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 17.26325182055812 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Wood Products in Netherlands by 4935852030.40358 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 9.89173382409874 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.785515071553741 
+Machinery and Construction: -104.56315494640555 
+Transportation: -3.250875327015325 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 19.081353138220724 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Netherlands by 30221506208.59031 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 40.52270017155553 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 17.043192180370156 
+Machinery and Construction: 19.77322081725949 
+Transportation: -1.3317686787533833 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -221.4093735628608 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Netherlands by 5058346879.876671 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 16.479389315714105 
+Machinery and Construction: -22.881739718092746 
+Transportation: -2.3033840475179814 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -97.53707547788196 
+Services and Utilities: 0 
+ 
+increase Metals in Netherlands by 17393833650.616585 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 51.81453570405509 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 54.7921002996695 
+Transportation: -0.8215354738361019 
+Weapons: 0 
+Daily Instruments: -1.203299821179365 
+Precious Stones	: 0 
+High-complexity Products: -25.648196071008606 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Netherlands by 1992206899.585137 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.355314580054001 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.8008210123973432 
+Weapons: 0 
+Daily Instruments: -127.31710249329561 
+Precious Stones	: 0 
+High-complexity Products: -37.49179703584818 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Netherlands by 1871034762.7182312 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -2.041794184317514 
+Weapons: 0 
+Daily Instruments: -112.86464509887504 
+Precious Stones	: 0 
+High-complexity Products: -41.131590900310925 
+Services and Utilities: 0 
+ 
+Netherlands completed

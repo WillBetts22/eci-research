@@ -1,0 +1,20 @@
+Before Iteration: Animals and By-products: -25.979670307269114 
+Vegetables, Fruits and Plants: -23.567817145724195 
+Food and Preparations: -13.148227337329669 
+Energy Drilling and Mining: -2.765696914295916 
+Chemicals: 0 
+Chemical Manufacturing: -16.01629596893061 
+Raw Manufacturing: 0 
+Wood Products: -20.379852660926588 
+Clothing and Accessories: -10.083507653612239 
+Textile: -47.378684002953925 
+Metals: 0 
+Machinery and Construction: -150.21822605274727 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -23.373235428215263 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+Japan completed

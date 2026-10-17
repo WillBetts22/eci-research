@@ -1,0 +1,251 @@
+Before Iteration: Animals and By-products: 51.305116223826104 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 16.91612318683735 
+Chemical Manufacturing: 12.517441708632138 
+Raw Manufacturing: 41.48513573948872 
+Wood Products: 15.258864657342455 
+Clothing and Accessories: 8.154466879008 
+Textile: 16.141508913511004 
+Metals: 12.275247096133196 
+Machinery and Construction: 151.59887804701214 
+Transportation: 2.5515336947077554 
+Weapons: 505.8439358934338 
+Daily Instruments: 9.454471872668233 
+Precious Stones	: 0 
+High-complexity Products: 3.120950644844544 
+Services and Utilities: 19.86339182963069 
+ 
+increase Weapons in Colombia by 27760916.330344807 USD 
+Iteration 1:  
+Animals and By-products: 57.24429766091336 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 16.248150971650865 
+Chemical Manufacturing: 11.909341760833504 
+Raw Manufacturing: 40.978385749166854 
+Wood Products: 17.44545296862356 
+Clothing and Accessories: 10.06762057033065 
+Textile: 21.898478492644657 
+Metals: 13.23378043433433 
+Machinery and Construction: 142.42936973450045 
+Transportation: 2.2870288077416374 
+Weapons: 0 
+Daily Instruments: 8.460955373198145 
+Precious Stones	: 0 
+High-complexity Products: 2.7238903627956423 
+Services and Utilities: 17.44119910934384 
+ 
+increase Machinery and Construction in Colombia by 131021090.8789635 USD 
+Iteration 2:  
+Animals and By-products: 58.45415335867283 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.25960431735514 
+Chemical Manufacturing: 9.945323652203099 
+Raw Manufacturing: 30.563347964799952 
+Wood Products: 15.493445255566552 
+Clothing and Accessories: 9.768047742126251 
+Textile: 25.286591404075427 
+Metals: 10.756259162339282 
+Machinery and Construction: 0 
+Transportation: 1.7162107962682938 
+Weapons: 0 
+Daily Instruments: 6.482121971430195 
+Precious Stones	: 0 
+High-complexity Products: 1.914262779011479 
+Services and Utilities: 13.460307167008118 
+ 
+increase Animals and By-products in Colombia by 275109921.3907862 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.737364398986989 
+Chemical Manufacturing: 10.356010858221556 
+Raw Manufacturing: 35.64757548198597 
+Wood Products: 24.757794507534335 
+Clothing and Accessories: 16.060708920388112 
+Textile: 41.93572804727664 
+Metals: 15.46008226797209 
+Machinery and Construction: 0 
+Transportation: 1.6768786013957453 
+Weapons: 0 
+Daily Instruments: 6.608775589580671 
+Precious Stones	: 0 
+High-complexity Products: 1.7701704262665126 
+Services and Utilities: 12.270713837127296 
+ 
+increase Textile in Colombia by 382209016.22533894 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 16.261525651023767 
+Chemical Manufacturing: 10.957635913831522 
+Raw Manufacturing: 47.07516632332198 
+Wood Products: 31.693146487730704 
+Clothing and Accessories: 24.57704443240244 
+Textile: 0 
+Metals: 19.927153970601875 
+Machinery and Construction: 0 
+Transportation: 1.6205932435626396 
+Weapons: 0 
+Daily Instruments: 6.850430351748411 
+Precious Stones	: 0 
+High-complexity Products: 1.7168142318915207 
+Services and Utilities: 12.01832687389693 
+ 
+increase Raw Manufacturing in Colombia by 351230123.2829218 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.836772669390168 
+Chemical Manufacturing: 9.593289312547231 
+Raw Manufacturing: 0 
+Wood Products: 32.80919570153843 
+Clothing and Accessories: 26.97187375411101 
+Textile: 0 
+Metals: 19.223657953860812 
+Machinery and Construction: 0 
+Transportation: 1.0604827715391911 
+Weapons: 0 
+Daily Instruments: 5.358995621133308 
+Precious Stones	: 0 
+High-complexity Products: 1.228411285423029 
+Services and Utilities: 10.354877659581852 
+ 
+increase Wood Products in Colombia by 612394945.4535435 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.593522181669663 
+Chemical Manufacturing: 9.043702319951628 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 30.01956276369223 
+Textile: 0 
+Metals: 21.05171234820073 
+Machinery and Construction: 0 
+Transportation: 0.860913644452849 
+Weapons: 0 
+Daily Instruments: 4.796209365758433 
+Precious Stones	: 0 
+High-complexity Products: 0.895755155598384 
+Services and Utilities: 8.8737666727314 
+ 
+increase Clothing and Accessories in Colombia by 991589143.1605608 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.484628300169533 
+Chemical Manufacturing: 8.807358630781984 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 22.910505132455356 
+Machinery and Construction: 0 
+Transportation: 0.7062543422137981 
+Weapons: 0 
+Daily Instruments: 4.5208366170223 
+Precious Stones	: 0 
+High-complexity Products: 0.7305952806897618 
+Services and Utilities: 7.670435488298557 
+ 
+increase Metals in Colombia by 1030032495.802175 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 13.620450398690135 
+Chemical Manufacturing: 7.8417681617619746 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.48785757443377337 
+Weapons: 0 
+Daily Instruments: 3.8824971080122532 
+Precious Stones	: 0 
+High-complexity Products: 0.33962466643981365 
+Services and Utilities: 5.540905224237078 
+ 
+increase Chemicals in Colombia by 1322576916.1225758 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.550396228708489 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.02387821000131291 
+Weapons: 0 
+Daily Instruments: 2.283906655622185 
+Precious Stones	: 0 
+High-complexity Products: -0.4376406702910373 
+Services and Utilities: 2.519855252954147 
+ 
+increase Chemical Manufacturing in Colombia by 2299115683.7038794 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.17098885784180012 
+Weapons: 0 
+Daily Instruments: 0.1310776318776335 
+Precious Stones	: 0 
+High-complexity Products: -1.5088179543052889 
+Services and Utilities: -3.2620541877454907 
+ 
+increase Daily Instruments in Colombia by 3114621549.118148 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.0192603987211053 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.249579800602241 
+Services and Utilities: -8.980138947096993 
+ 
+Colombia completed

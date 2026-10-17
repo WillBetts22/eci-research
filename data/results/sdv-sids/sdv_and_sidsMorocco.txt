@@ -1,0 +1,335 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.2769481622069354 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0.7854352180302548 
+Wood Products: 6.89468865219948 
+Clothing and Accessories: 0 
+Textile: 18.718230436414217 
+Metals: 0.22210724484014213 
+Machinery and Construction: 58.64961057531295 
+Transportation: 0 
+Weapons: 255.55409151465028 
+Daily Instruments: 1.0450405440267352 
+Precious Stones	: 4.781581118308464 
+High-complexity Products: 0.8295787840752664 
+Services and Utilities: 5.545649177789738 
+ 
+increase Weapons in Morocco by 23349011.81288999 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.077773529953701 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0.7109898891320479 
+Wood Products: 8.43863691854281 
+Clothing and Accessories: 0 
+Textile: 24.725455931713636 
+Metals: 0.531392512498364 
+Machinery and Construction: 49.26996844411557 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -0.055023789778495986 
+Precious Stones	: 6.16573013915985 
+High-complexity Products: -0.40217849185689364 
+Services and Utilities: 2.8910834897251503 
+ 
+increase Machinery and Construction in Morocco by 117145216.65713301 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.34167663200212 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -0.8876439954914183 
+Wood Products: 6.9233583856425085 
+Clothing and Accessories: 0 
+Textile: 28.140262336943355 
+Metals: -0.38602814574317645 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.2037661033776383 
+Precious Stones	: 6.330204126789484 
+High-complexity Products: -2.814089546590543 
+Services and Utilities: -1.3293573211778413 
+ 
+increase Textile in Morocco by 320468437.14494383 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.908891133209226 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.5595398359587196 
+Wood Products: 12.129362419299055 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 1.4657494681612828 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.956768252387336 
+Precious Stones	: 11.010607432231172 
+High-complexity Products: -2.904250540544342 
+Services and Utilities: -1.5937964260753306 
+ 
+increase Wood Products in Morocco by 682879786.4989195 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 458.7898981520744 
+Energy Drilling and Mining: 4.664437863911598 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0.8389771114665772 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0.6132664591274103 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.5831499763664154 
+Precious Stones	: 8.362172978841324 
+High-complexity Products: -3.1449108493148885 
+Services and Utilities: -1.3239906019864371 
+ 
+increase Food and Preparations in Morocco by 27542122.96206975 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.089134258917175 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.9344157774131732 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 2.402919058407952 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.589351528124778 
+Precious Stones	: 12.728270267466698 
+High-complexity Products: -3.6015531512544854 
+Services and Utilities: -3.0781124131545052 
+ 
+increase Precious Stones	 in Morocco by 1531075009.7985914 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 9.733888701685844 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 3.26773271635568 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.039171266748413 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.1325503022088514 
+Precious Stones	: 0 
+High-complexity Products: -3.5559430895054573 
+Services and Utilities: -4.438125897601802 
+ 
+increase Energy Drilling and Mining in Morocco by 4111384199.986884 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 4.809700685584162 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.167258934433385 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.5253354996037238 
+Precious Stones	: 0 
+High-complexity Products: -3.094896283348963 
+Services and Utilities: -4.972537335045345 
+ 
+increase Metals in Morocco by 2381194156.2081585 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 4.802251002830689 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.1756212591216713 
+Precious Stones	: 0 
+High-complexity Products: -3.6419853876816775 
+Services and Utilities: -7.122969235876641 
+ 
+increase Raw Manufacturing in Morocco by 2199380954.1404123 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 1662.553343121207 
+Clothing and Accessories: 0 
+Textile: 2522.6485489986826 
+Metals: 0 
+Machinery and Construction: 1209.6323041125704 
+Transportation: 0 
+Weapons: 20179.28505458736 
+Daily Instruments: -0.23914580034264343 
+Precious Stones	: 0 
+High-complexity Products: -1.305932097139895 
+Services and Utilities: -0.07734471908998289 
+ 
+increase Weapons in Morocco by 753459.0763950683 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 1762.1220424556213 
+Clothing and Accessories: 0 
+Textile: 2691.7917422893306 
+Metals: 0 
+Machinery and Construction: 901.9702554565183 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.278665562235699 
+Precious Stones	: 0 
+High-complexity Products: -2.089034685273096 
+Services and Utilities: -2.768902986043657 
+ 
+increase Textile in Morocco by 13682898.579770207 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 1614.2571512315876 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 1057.857366297958 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.0445016304738624 
+Precious Stones	: 0 
+High-complexity Products: -2.177368877910005 
+Services and Utilities: -3.033257129417056 
+ 
+increase Wood Products in Morocco by 15724841.078548908 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 680.2985519504105 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.6587455393102923 
+Precious Stones	: 0 
+High-complexity Products: -2.7731590984954275 
+Services and Utilities: -4.54629984641181 
+ 
+increase Machinery and Construction in Morocco by 6593780.304808438 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 45065.19694862246 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -3.654454012010424 
+Precious Stones	: 0 
+High-complexity Products: -3.926013941112311 
+Services and Utilities: -7.023447206222017 
+ 
+increase Food and Preparations in Morocco by 981240.659371376 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -4.096061032413731 
+Precious Stones	: 14779.027008404337 
+High-complexity Products: -4.083069159977234 
+Services and Utilities: -7.40977831860895 
+ 
+increase Precious Stones	 in Morocco by 3143508.0377554893 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -3.6837702821930227 
+Precious Stones	: 0 
+High-complexity Products: -4.205237661294055 
+Services and Utilities: -8.83856227733765 
+ 
+Morocco completed

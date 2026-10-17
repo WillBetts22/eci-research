@@ -1,0 +1,377 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 11.074214882256369 
+Energy Drilling and Mining: 2.4568136099366695 
+Chemicals: 5.909619194296545 
+Chemical Manufacturing: 2.8705840916589302 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 9.479031922423191 
+Machinery and Construction: 158.35486588694403 
+Transportation: 0 
+Weapons: 329.7532300500922 
+Daily Instruments: 0 
+Precious Stones	: 7.414454105342806 
+High-complexity Products: 1.1013807229144887 
+Services and Utilities: 12.36991405806596 
+ 
+increase Weapons in Viet Nam by 156559926.37238085 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 12.537933838399743 
+Energy Drilling and Mining: 3.0151726680802406 
+Chemicals: 5.091600464950642 
+Chemical Manufacturing: 2.484199282937482 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 11.225583069090208 
+Machinery and Construction: 112.49447884156044 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 8.87158616386414 
+High-complexity Products: 0.4437110111801203 
+Services and Utilities: 7.594485110962969 
+ 
+increase Machinery and Construction in Viet Nam by 187270723.72997737 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 12.649310565851927 
+Energy Drilling and Mining: 3.215705210998428 
+Chemicals: 3.94566355573648 
+Chemical Manufacturing: 1.333055230952645 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.674793851956139 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 9.046308739808433 
+High-complexity Products: -0.8565036551581049 
+Services and Utilities: -0.012814311469328037 
+ 
+increase Food and Preparations in Viet Nam by 7825811939.271631 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.911954350074535 
+Chemicals: 4.271545228614076 
+Chemical Manufacturing: 1.4933910205399166 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 13.596594554603179 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 13.485402790258005 
+High-complexity Products: -1.1353674890469767 
+Services and Utilities: -3.060131200843938 
+ 
+increase Metals in Viet Nam by 3039241386.0608864 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.1464662475087675 
+Chemicals: 3.6197930273345906 
+Chemical Manufacturing: 1.057445437293585 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 15.588177171555603 
+High-complexity Products: -1.687100829651501 
+Services and Utilities: -6.667049075434463 
+ 
+increase Precious Stones	 in Viet Nam by 11178968422.931858 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.27331367132674 
+Chemicals: 4.314686752624499 
+Chemical Manufacturing: 1.3572716405723801 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.7735685824107488 
+Services and Utilities: -8.795117757001224 
+ 
+increase Energy Drilling and Mining in Viet Nam by 43682670288.91563 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.180782898158752 
+Chemical Manufacturing: 4.954266579827813 
+Raw Manufacturing: 69.97668462058125 
+Wood Products: 400.4590256539615 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 142.91727345614612 
+Precious Stones	: 0 
+High-complexity Products: 0.5023632062669693 
+Services and Utilities: 5.40204621678706 
+ 
+increase Wood Products in Viet Nam by 433395385.17801666 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 10.942128147846853 
+Chemical Manufacturing: 4.66176637275622 
+Raw Manufacturing: 69.63997825608689 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 70.74784069762556 
+Precious Stones	: 0 
+High-complexity Products: 0.04679626990979873 
+Services and Utilities: 3.0245381632284674 
+ 
+increase Daily Instruments in Viet Nam by 461267747.2866974 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 7.200594836581361 
+Chemical Manufacturing: 2.7993629189503295 
+Raw Manufacturing: 43.86014687781433 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.0205398785990754 
+Services and Utilities: -6.163623685407576 
+ 
+increase Raw Manufacturing in Viet Nam by 2077271232.0310097 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 4558.282767867835 
+Energy Drilling and Mining: 0 
+Chemicals: 6.407593849753848 
+Chemical Manufacturing: 2.4202263217577435 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 51635.89679852347 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.8306074619861123 
+Services and Utilities: -1.9183317757585372 
+ 
+increase Weapons in Viet Nam by 2191210.2031778693 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 4535.633166429713 
+Energy Drilling and Mining: 0 
+Chemicals: 6.603902448965405 
+Chemical Manufacturing: 3.066519557403156 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 199327.31877717908 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.31554189293091045 
+Services and Utilities: 0.34470017912689677 
+ 
+increase Machinery and Construction in Viet Nam by 187861.67431545258 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 3685.006191058994 
+Energy Drilling and Mining: 0 
+Chemicals: 5.553391132868518 
+Chemical Manufacturing: 2.0324785587684553 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.3908358098014606 
+Services and Utilities: -5.953676156952379 
+ 
+increase Food and Preparations in Viet Nam by 85104851.17272186 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 5.690091951658236 
+Chemical Manufacturing: 2.1175276106886436 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.6500149814128948 
+Services and Utilities: -8.598597802491373 
+ 
+increase Chemicals in Viet Nam by 10180268221.787462 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.1747318313845723 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 759.6103050290237 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.1507474180729402 
+Services and Utilities: -10.08085104028781 
+ 
+increase Metals in Viet Nam by 202494357.284523 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.23632520306536328 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 2153.2966915705547 
+High-complexity Products: -2.5170604606823703 
+Services and Utilities: -11.07381576673557 
+ 
+increase Precious Stones	 in Viet Nam by 164416395.46029663 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.7376978348418617 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.618675827465988 
+Services and Utilities: -13.062980693379771 
+ 
+increase Chemical Manufacturing in Viet Nam by 29395986875.435726 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 149.32531007642945 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.8387409440277374 
+Services and Utilities: -20.063795857356094 
+ 
+increase Energy Drilling and Mining in Viet Nam by 3627616776.4240036 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.8571214854439595 
+Services and Utilities: -20.79557708616206 
+ 
+Viet Nam completed

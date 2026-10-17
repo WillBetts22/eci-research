@@ -1,0 +1,377 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0.7211960909851522 
+Chemicals: 8.21616210869641 
+Chemical Manufacturing: 4.487366104591286 
+Raw Manufacturing: 2.7595619295796157 
+Wood Products: 3.435229731000646 
+Clothing and Accessories: 0.29199164565345237 
+Textile: -5.646591662147503 
+Metals: -0.5182867578884672 
+Machinery and Construction: 64.87113933958643 
+Transportation: 1.9383531204169198 
+Weapons: 182.5156477928354 
+Daily Instruments: 4.060348560855344 
+Precious Stones	: -1.9912864800575618 
+High-complexity Products: 8.07925358027618 
+Services and Utilities: 0 
+ 
+increase Weapons in Argentina by 54731161.91859016 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.5348617174336847 
+Chemicals: 7.536713687866085 
+Chemical Manufacturing: 3.7973439371743796 
+Raw Manufacturing: 2.686039148758961 
+Wood Products: 4.887643835226507 
+Clothing and Accessories: 1.3774823262410225 
+Textile: -0.7837455422105889 
+Metals: -0.30786512555667606 
+Machinery and Construction: 57.36794179930338 
+Transportation: 1.5929008786381258 
+Weapons: 0 
+Daily Instruments: 3.1133132843438016 
+Precious Stones	: -0.2324116115316101 
+High-complexity Products: 4.319396631397305 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Argentina by 331595269.2846758 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.7895304328244557 
+Chemicals: 6.574823814684481 
+Chemical Manufacturing: 1.7546730970135038 
+Raw Manufacturing: 1.261699482826253 
+Wood Products: 3.3400719304931688 
+Clothing and Accessories: 1.1437844444053153 
+Textile: 1.8965161459691118 
+Metals: -0.9647036748470599 
+Machinery and Construction: 0 
+Transportation: 0.8521519909736724 
+Weapons: 0 
+Daily Instruments: 1.2609204003879053 
+Precious Stones	: -0.05799988113322353 
+High-complexity Products: -2.9483700396004338 
+Services and Utilities: 0 
+ 
+increase Chemicals in Argentina by 2572824112.411803 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.2872207584775706 
+Chemicals: 0 
+Chemical Manufacturing: -0.5937755120874829 
+Raw Manufacturing: 0.5021144633524017 
+Wood Products: 3.046097111457382 
+Clothing and Accessories: 1.1328011613508122 
+Textile: 3.2406856803545554 
+Metals: -1.2611993725268669 
+Machinery and Construction: 0 
+Transportation: 0.28913029226946246 
+Weapons: 0 
+Daily Instruments: -0.15173260046915224 
+Precious Stones	: 0.9545400497820619 
+High-complexity Products: -7.5194271450450305 
+Services and Utilities: 0 
+ 
+increase Textile in Argentina by 914899793.6922963 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.891121146427118 
+Chemicals: 0 
+Chemical Manufacturing: 0.13819479323388983 
+Raw Manufacturing: 2.6812197770391433 
+Wood Products: 8.066303076622743 
+Clothing and Accessories: 6.1498883786514975 
+Textile: 0 
+Metals: 0.04698667559909284 
+Machinery and Construction: 0 
+Transportation: 0.2194867873114571 
+Weapons: 0 
+Daily Instruments: 0.08940341204611899 
+Precious Stones	: 6.899666031278157 
+High-complexity Products: -7.29003112691963 
+Services and Utilities: 0 
+ 
+increase Wood Products in Argentina by 1659635002.468299 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.151311262998575 
+Chemicals: 0 
+Chemical Manufacturing: -0.27491868672808956 
+Raw Manufacturing: 3.0191853962014634 
+Wood Products: 0 
+Clothing and Accessories: 8.054305151752375 
+Textile: 0 
+Metals: 0.7259021110259265 
+Machinery and Construction: 0 
+Transportation: -0.03904181929906357 
+Weapons: 0 
+Daily Instruments: -0.4549341255459974 
+Precious Stones	: 9.059624801953328 
+High-complexity Products: -8.362236332200903 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Argentina by 2784302269.2044134 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.929617496182534 
+Chemicals: 0 
+Chemical Manufacturing: 0.6057418771020356 
+Raw Manufacturing: 4.156210155813366 
+Wood Products: 0 
+Clothing and Accessories: 11.616287019447862 
+Textile: 0 
+Metals: 1.922028593007496 
+Machinery and Construction: 0 
+Transportation: -0.060220604036224146 
+Weapons: 0 
+Daily Instruments: -0.09357516641785314 
+Precious Stones	: 0 
+High-complexity Products: -7.540113768970273 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Argentina by 3318208213.755665 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.926718573275874 
+Chemicals: 0 
+Chemical Manufacturing: 0.5554007712630433 
+Raw Manufacturing: 5.151899867979934 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 2.822675493571296 
+Machinery and Construction: 0 
+Transportation: -0.26067534883986354 
+Weapons: 0 
+Daily Instruments: -0.38052768686853183 
+Precious Stones	: 0 
+High-complexity Products: -7.21110276068453 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Argentina by 9729473130.271103 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.59195070698353 
+Raw Manufacturing: 6.791469189814139 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.259177868273482 
+Machinery and Construction: 0 
+Transportation: -0.24670397047079204 
+Weapons: 0 
+Daily Instruments: 0.036626226034445764 
+Precious Stones	: 0 
+High-complexity Products: -5.439655877745743 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Argentina by 5393154082.654161 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 447.0699329884905 
+Chemical Manufacturing: 4.545548125963213 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.162439566831955 
+Machinery and Construction: 2380.0592644688472 
+Transportation: 0.5994337990208659 
+Weapons: 22782.78821969531 
+Daily Instruments: 2.7786169169994612 
+Precious Stones	: 0 
+High-complexity Products: -0.5604773698712321 
+Services and Utilities: 0 
+ 
+increase Weapons in Argentina by 1811784.202835828 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 410.2498722319624 
+Chemical Manufacturing: 3.96609640758559 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.416258604470725 
+Machinery and Construction: 2096.7160254974838 
+Transportation: 0.2679910017049585 
+Weapons: 0 
+Daily Instruments: 1.7862958207846913 
+Precious Stones	: 0 
+High-complexity Products: -1.695602970153504 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Argentina by 11422724.762036324 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 352.29114328208175 
+Chemical Manufacturing: 2.4191655803447336 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.928740795201166 
+Machinery and Construction: 0 
+Transportation: -0.4092702619097453 
+Weapons: 0 
+Daily Instruments: -0.03492057972946307 
+Precious Stones	: 0 
+High-complexity Products: -3.903696948204244 
+Services and Utilities: 0 
+ 
+increase Chemicals in Argentina by 82758147.43941307 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.4426043505592385 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.61699549186497 
+Machinery and Construction: 0 
+Transportation: -0.966653865640915 
+Weapons: 0 
+Daily Instruments: -1.5616005040182228 
+Precious Stones	: 0 
+High-complexity Products: -5.904495771837096 
+Services and Utilities: 0 
+ 
+increase Metals in Argentina by 7953665823.342019 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.9704178545942306 
+Raw Manufacturing: 0 
+Wood Products: 198.94479900163896 
+Clothing and Accessories: 1567.9021982789106 
+Textile: 423.2668598436471 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.6502436164722305 
+Weapons: 0 
+Daily Instruments: -1.7638609851012272 
+Precious Stones	: 296.5263806289796 
+High-complexity Products: -4.652299121603808 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Argentina by 21097041.632371902 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -1.0167835008596326 
+Raw Manufacturing: 0 
+Wood Products: 222.24975696939669 
+Clothing and Accessories: 0 
+Textile: 553.6128315098345 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.844311306190564 
+Weapons: 0 
+Daily Instruments: -2.087036663072018 
+Precious Stones	: 310.96338148119304 
+High-complexity Products: -4.9509025433729725 
+Services and Utilities: 0 
+ 
+increase Textile in Argentina by 124364636.1086781 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.48565491471331923 
+Raw Manufacturing: 0 
+Wood Products: 271.53720114387056 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9287848323233536 
+Weapons: 0 
+Daily Instruments: -1.9008671746781274 
+Precious Stones	: 376.9174004961667 
+High-complexity Products: -5.032839192587566 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Argentina by 250235086.84940052 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.20397932333211308 
+Raw Manufacturing: 0 
+Wood Products: 274.57796769319475 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9545368156825565 
+Weapons: 0 
+Daily Instruments: -1.5595288800182667 
+Precious Stones	: 0 
+High-complexity Products: -5.139632043282898 
+Services and Utilities: 0 
+ 
+increase Wood Products in Argentina by 217866183.86000395 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.1678797811810092 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.2023015872962677 
+Weapons: 0 
+Daily Instruments: -2.1611705015600307 
+Precious Stones	: 0 
+High-complexity Products: -5.821758102534505 
+Services and Utilities: 0 
+ 
+Argentina completed

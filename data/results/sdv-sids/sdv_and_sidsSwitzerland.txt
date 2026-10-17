@@ -1,0 +1,83 @@
+Before Iteration: Animals and By-products: -21.67352491922072 
+Vegetables, Fruits and Plants: -33.04449699844766 
+Food and Preparations: -13.321528506620153 
+Energy Drilling and Mining: -2.3999895175567665 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -5.538338381169278 
+Wood Products: -17.02904287613426 
+Clothing and Accessories: -10.897666587856657 
+Textile: -24.50872460211069 
+Metals: -8.142183518373127 
+Machinery and Construction: -23.859619642732678 
+Transportation: 0.1361695205268414 
+Weapons: -207.85139483865993 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -7.105581343378465 
+ 
+increase Transportation in Switzerland by 81461542417.17702 USD 
+Iteration 1:  
+Animals and By-products: -19.177824120510603 
+Vegetables, Fruits and Plants: -29.162538934276117 
+Food and Preparations: -11.280059420226625 
+Energy Drilling and Mining: -2.220308150025223 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -5.033445022114917 
+Wood Products: -13.690045788566293 
+Clothing and Accessories: -10.048325493493406 
+Textile: -24.14485022291404 
+Metals: -6.1761837265269675 
+Machinery and Construction: 12.047738942310689 
+Transportation: 0 
+Weapons: -83.8320635025495 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 3.5815753583971133 
+Services and Utilities: 3.9658229750195213 
+ 
+increase Machinery and Construction in Switzerland by 1577816605.2642257 USD 
+Iteration 2:  
+Animals and By-products: -18.737754587444837 
+Vegetables, Fruits and Plants: -27.77169460215403 
+Food and Preparations: -11.118537676650465 
+Energy Drilling and Mining: -2.0247673877764907 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -6.331663946199304 
+Wood Products: -14.913026304253279 
+Clothing and Accessories: -10.17412945251097 
+Textile: -21.768076941642573 
+Metals: -6.887861750752669 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: -126.51149934990109 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -10.039939456508998 
+Services and Utilities: 0.22013742016790303 
+ 
+increase Services and Utilities in Switzerland by 19099175592.0156 USD 
+Iteration 3:  
+Animals and By-products: -21.699335279936932 
+Vegetables, Fruits and Plants: -30.417108274623477 
+Food and Preparations: -13.16325168441557 
+Energy Drilling and Mining: -2.2501874359385363 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -8.41562854046855 
+Wood Products: -18.783169044053608 
+Clothing and Accessories: -12.337607058763226 
+Textile: -23.485732946433643 
+Metals: -8.570213147329637 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: -335.8711971434742 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -28.044537279975973 
+Services and Utilities: 0 
+ 
+Switzerland completed

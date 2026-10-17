@@ -1,0 +1,314 @@
+Before Iteration: Animals and By-products: -5.70880356512471 
+Vegetables, Fruits and Plants: -1.6130919068897112 
+Food and Preparations: 0 
+Energy Drilling and Mining: -0.11393813269294134 
+Chemicals: 0.44657194550231705 
+Chemical Manufacturing: -1.2535207556273356 
+Raw Manufacturing: 0 
+Wood Products: -4.8505417021600685 
+Clothing and Accessories: 0 
+Textile: 4.814074977999053 
+Metals: -3.9263631271880723 
+Machinery and Construction: -35.542934704123475 
+Transportation: 0 
+Weapons: -103.08173683684235 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.4532657468724708 
+Services and Utilities: 0 
+ 
+increase Textile in China by 15404927.658367438 USD 
+Iteration 1:  
+Animals and By-products: 1.2996681220371749 
+Vegetables, Fruits and Plants: 6.898273110235441 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0.8576016587836223 
+Chemicals: 0.9282965905353567 
+Chemical Manufacturing: -0.4880737906728681 
+Raw Manufacturing: 0 
+Wood Products: -0.550097599830022 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: -2.055441631371049 
+Machinery and Construction: -25.424587891266942 
+Transportation: 0 
+Weapons: 303.4484374167509 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.50853350558886 
+Services and Utilities: 0 
+ 
+increase Weapons in China by 142428.693199947 USD 
+Iteration 2:  
+Animals and By-products: 3.1769820633499863 
+Vegetables, Fruits and Plants: 9.433921430660055 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.3447452882030222 
+Chemicals: 0.33805834254357076 
+Chemical Manufacturing: -1.1933741946057699 
+Raw Manufacturing: 0 
+Wood Products: 0.640135627517346 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: -1.790877193797522 
+Machinery and Construction: -36.3605537246032 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.037549099532844 
+Services and Utilities: 0 
+ 
+increase Vegetables, Fruits and Plants in China by 24060730.85261107 USD 
+Iteration 3:  
+Animals and By-products: 16.16423806935138 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.1820874296470825 
+Chemicals: 0.9056821753465951 
+Chemical Manufacturing: -0.5492627441138896 
+Raw Manufacturing: 0 
+Wood Products: 6.006355756717333 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0.6044173978920123 
+Machinery and Construction: -28.77101640758581 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.126334340083837 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in China by 23429913.340938188 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.036770756929077 
+Chemicals: 4.464783906189415 
+Chemical Manufacturing: 1.0758298238795287 
+Raw Manufacturing: 0 
+Wood Products: 13.868004385055754 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.5642880521377345 
+Machinery and Construction: 25.801892551663112 
+Transportation: -73.62390407484821 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.2786920210484864 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in China by 3260841.0118022077 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.199547952920812 
+Chemicals: 3.6264026501033726 
+Chemical Manufacturing: -0.9615866311601029 
+Raw Manufacturing: 0 
+Wood Products: 12.500518378529282 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 2.6029071025723405 
+Machinery and Construction: 0 
+Transportation: -129.05242024521223 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.322434491696502 
+Services and Utilities: 0 
+ 
+increase Wood Products in China by 24856678.62118128 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.993819034454075 
+Chemicals: 3.5065387544199633 
+Chemical Manufacturing: -1.4266989367274392 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.4544199397300623 
+Machinery and Construction: 0 
+Transportation: -36.600856836128926 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.712294802348661 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in China by 185779074.65837148 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 4.8365522381874255 
+Chemical Manufacturing: -0.0319674218618691 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.5670921007478045 
+Machinery and Construction: 0 
+Transportation: -6.117522023440357 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.63002457341479 
+Services and Utilities: 0 
+ 
+increase Metals in China by 71029873.40820122 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 3.777170331254717 
+Chemical Manufacturing: -1.2649472168563585 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 4345.012772146831 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -5.471943291970357 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.9727771877499793 
+Services and Utilities: 0 
+ 
+increase Textile in China by 273630.1207633354 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 14167.036273586207 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 4.370718272501007 
+Chemical Manufacturing: -0.5869171313033583 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -4.24257187259201 
+Weapons: 118449.09350543824 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.439806035420598 
+Services and Utilities: 0 
+ 
+increase Weapons in China by 2854.5760135157034 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 14259.024810750974 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 3.7297503584514073 
+Chemical Manufacturing: -1.1516191108768745 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -5.523286917038809 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.9289799295252497 
+Services and Utilities: 0 
+ 
+increase Vegetables, Fruits and Plants in China by 103443.78705312312 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 4.18986078198711 
+Chemical Manufacturing: -0.7217568250440441 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -5.632869243527908 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.027028728611493 
+Services and Utilities: 0 
+ 
+increase Chemicals in China by 49860614.167366676 USD 
+Iteration 12:  
+Animals and By-products: 1855.1560972511325 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -2.977160098785897 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -6.7080987055502375 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.7096171359130334 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in China by 705620.4459678903 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.5983188656035927 
+Raw Manufacturing: 0 
+Wood Products: 10358.352610293028 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 1060.3822247839305 
+Transportation: -3.5730411813009195 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.531996926028912 
+Services and Utilities: 0 
+ 
+increase Wood Products in China by 66791.58929663897 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -1.0028208364286575 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -218.3545140109602 
+Transportation: -4.357755802143304 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.9073430659668804 
+Services and Utilities: 0 
+ 
+China completed

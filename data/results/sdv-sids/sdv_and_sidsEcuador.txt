@@ -1,0 +1,335 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.317245086943199 
+Chemical Manufacturing: 5.740972236184682 
+Raw Manufacturing: 6.23867210026757 
+Wood Products: 0 
+Clothing and Accessories: 7.584209201283862 
+Textile: 16.75026022214735 
+Metals: 5.023116904040999 
+Machinery and Construction: 117.0945349544628 
+Transportation: 2.143747373308457 
+Weapons: 532.4749716802048 
+Daily Instruments: 7.749407688387566 
+Precious Stones	: 46.72796905756448 
+High-complexity Products: 2.3759345001726553 
+Services and Utilities: 18.847341226930894 
+ 
+increase Weapons in Ecuador by 16536725.268876731 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.79361134274006 
+Chemical Manufacturing: 5.43658593260378 
+Raw Manufacturing: 6.223234124102905 
+Wood Products: 0 
+Clothing and Accessories: 8.859800889849524 
+Textile: 21.165296676739608 
+Metals: 5.360964799321204 
+Machinery and Construction: 109.76756167517026 
+Transportation: 1.898889816037278 
+Weapons: 0 
+Daily Instruments: 6.854025857802319 
+Precious Stones	: 53.71689744394221 
+High-complexity Products: 2.023604990587979 
+Services and Utilities: 16.332235158489436 
+ 
+increase Machinery and Construction in Ecuador by 97002968.59598346 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.049645322900783 
+Chemical Manufacturing: 4.476811331962194 
+Raw Manufacturing: 4.854553137887272 
+Wood Products: 0 
+Clothing and Accessories: 8.73066133915049 
+Textile: 23.903475573186206 
+Metals: 4.6068172799439235 
+Machinery and Construction: 0 
+Transportation: 1.3690418923385121 
+Weapons: 0 
+Daily Instruments: 5.052462055232624 
+Precious Stones	: 53.570427857935464 
+High-complexity Products: 1.312810801863186 
+Services and Utilities: 12.254446305377598 
+ 
+increase Precious Stones	 in Ecuador by 200859078.6020167 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.963474302660735 
+Chemical Manufacturing: 4.938763543917437 
+Raw Manufacturing: 5.989456936645701 
+Wood Products: 0 
+Clothing and Accessories: 12.56449191147739 
+Textile: 39.154611455721664 
+Metals: 6.044632554860056 
+Machinery and Construction: 0 
+Transportation: 1.3608442753611687 
+Weapons: 0 
+Daily Instruments: 5.409833209501909 
+Precious Stones	: 0 
+High-complexity Products: 1.2397457253686168 
+Services and Utilities: 10.956822058322567 
+ 
+increase Textile in Ecuador by 312628643.565315 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.406093316353173 
+Chemical Manufacturing: 5.289569735599165 
+Raw Manufacturing: 8.23720998904437 
+Wood Products: 0 
+Clothing and Accessories: 18.116751000033588 
+Textile: 0 
+Metals: 7.677625057834322 
+Machinery and Construction: 0 
+Transportation: 1.3094314100083133 
+Weapons: 0 
+Daily Instruments: 5.626765041662921 
+Precious Stones	: 0 
+High-complexity Products: 1.1955689247255907 
+Services and Utilities: 10.70105773102012 
+ 
+increase Clothing and Accessories in Ecuador by 870567176.9573045 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.40018910370136 
+Chemical Manufacturing: 5.2562894114681695 
+Raw Manufacturing: 9.305531148844024 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.74934108472998 
+Machinery and Construction: 0 
+Transportation: 1.1614230138087975 
+Weapons: 0 
+Daily Instruments: 5.355330935470116 
+Precious Stones	: 0 
+High-complexity Products: 1.0534692068781373 
+Services and Utilities: 9.493976840408843 
+ 
+increase Chemicals in Ecuador by 957692348.9367965 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.080221073354486 
+Raw Manufacturing: 8.435246340605094 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.293536757530411 
+Machinery and Construction: 0 
+Transportation: 0.7387794214294586 
+Weapons: 0 
+Daily Instruments: 3.9203579739376515 
+Precious Stones	: 0 
+High-complexity Products: 0.3765861707612278 
+Services and Utilities: 6.505212281599073 
+ 
+increase Raw Manufacturing in Ecuador by 1378563783.1371303 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.7454091615323115 
+Raw Manufacturing: 0 
+Wood Products: 1139.561422192028 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.5034092517827675 
+Machinery and Construction: 0 
+Transportation: 0.4190393967075683 
+Weapons: 0 
+Daily Instruments: 3.1620103306110448 
+Precious Stones	: 0 
+High-complexity Products: 0.25287737936295507 
+Services and Utilities: 6.3496076372794725 
+ 
+increase Wood Products in Ecuador by 12649480.784196734 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.4670710447066457 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.258163955918917 
+Machinery and Construction: 0 
+Transportation: 0.21571980333684587 
+Weapons: 0 
+Daily Instruments: 2.548610306772848 
+Precious Stones	: 0 
+High-complexity Products: -0.052527160631894276 
+Services and Utilities: 4.773590828093407 
+ 
+increase Metals in Ecuador by 1726341133.1145978 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.066899489367939 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.010523910182317565 
+Weapons: 0 
+Daily Instruments: 1.9627418062532564 
+Precious Stones	: 0 
+High-complexity Products: -0.39430181391174274 
+Services and Utilities: 2.6175358252143184 
+ 
+increase Chemical Manufacturing in Ecuador by 2628326592.4999075 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 77865.17060417328 
+Metals: 0 
+Machinery and Construction: 2625.511712230085 
+Transportation: 0.6896393054917673 
+Weapons: 26379.057281681675 
+Daily Instruments: 2.1659359625189065 
+Precious Stones	: 1035.7165779375712 
+High-complexity Products: -0.11708180266204479 
+Services and Utilities: 5.379119269271278 
+ 
+increase Textile in Ecuador by 273048.30717504025 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 2581.151029734821 
+Transportation: 0.6351829032644246 
+Weapons: 26260.827788718958 
+Daily Instruments: 2.388386960876129 
+Precious Stones	: 1083.42837671198 
+High-complexity Products: -0.1598005471506179 
+Services and Utilities: 5.12858433033376 
+ 
+increase Weapons in Ecuador by 524837.4366188683 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 2252.7435479726305 
+Transportation: 0.3816834029554151 
+Weapons: 0 
+Daily Instruments: 1.4590581802194509 
+Precious Stones	: 1141.6805203023202 
+High-complexity Products: -0.5322136552622907 
+Services and Utilities: 2.4612229188173163 
+ 
+increase Machinery and Construction in Ecuador by 3323497.8586542904 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.15863816012737106 
+Weapons: 0 
+Daily Instruments: -0.38771446287069444 
+Precious Stones	: 1092.7519469892454 
+High-complexity Products: -1.2704988642417219 
+Services and Utilities: -1.801589805898939 
+ 
+increase Precious Stones	 in Ecuador by 29469759.41023183 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 5486.317043540562 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.020085160261701002 
+Weapons: 0 
+Daily Instruments: 0.258909392647444 
+Precious Stones	: 0 
+High-complexity Products: -1.2020840602815461 
+Services and Utilities: -1.9470932490924855 
+ 
+increase Clothing and Accessories in Ecuador by 4521392.8419315815 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.17195033523805722 
+Weapons: 0 
+Daily Instruments: -0.01921082141823946 
+Precious Stones	: 0 
+High-complexity Products: -1.3456513092262818 
+Services and Utilities: -3.1739557295965692 
+ 
+Ecuador completed

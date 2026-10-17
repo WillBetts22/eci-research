@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: -13.76392075315348 
+Vegetables, Fruits and Plants: -26.257081147211004 
+Food and Preparations: -16.96617827657876 
+Energy Drilling and Mining: 0 
+Chemicals: 11.313822403440719 
+Chemical Manufacturing: 9.584944734445642 
+Raw Manufacturing: 2.0139948805381143 
+Wood Products: -3.108911965480938 
+Clothing and Accessories: -6.341340498294746 
+Textile: -25.379084540414862 
+Metals: -1.0225792186558453 
+Machinery and Construction: 106.9659709657067 
+Transportation: 2.437118161620354 
+Weapons: 267.3795219972506 
+Daily Instruments: 10.597423312566049 
+Precious Stones	: -6.102931557866856 
+High-complexity Products: 2.9927578251937867 
+Services and Utilities: 23.782863406085323 
+ 
+increase Weapons in Nigeria by 30440786.056113858 USD 
+Iteration 1:  
+Animals and By-products: -12.091707012143189 
+Vegetables, Fruits and Plants: -22.94355406917785 
+Food and Preparations: -14.904243440570243 
+Energy Drilling and Mining: 0 
+Chemicals: 10.896274841983063 
+Chemical Manufacturing: 9.095244517098502 
+Raw Manufacturing: 1.920756768718208 
+Wood Products: -2.015002600879413 
+Clothing and Accessories: -5.309343344998948 
+Textile: -21.999059324888535 
+Metals: -0.7861918944507779 
+Machinery and Construction: 99.4249006861091 
+Transportation: 2.1903948499070642 
+Weapons: 0 
+Daily Instruments: 9.400442484370862 
+Precious Stones	: -4.731008824932696 
+High-complexity Products: 2.661694226381703 
+Services and Utilities: 21.46978906007736 
+ 
+increase Machinery and Construction in Nigeria by 186526582.7447042 USD 
+Iteration 2:  
+Animals and By-products: -11.750040827527469 
+Vegetables, Fruits and Plants: -21.925765704297202 
+Food and Preparations: -14.788835480127988 
+Energy Drilling and Mining: 0 
+Chemicals: 10.118233917898163 
+Chemical Manufacturing: 7.297509167028328 
+Raw Manufacturing: 0.720650991596101 
+Wood Products: -3.2648726628980818 
+Clothing and Accessories: -5.572975779514421 
+Textile: -20.14628394566684 
+Metals: -1.542996782632137 
+Machinery and Construction: 0 
+Transportation: 1.6663736519199985 
+Weapons: 0 
+Daily Instruments: 7.002343234135505 
+Precious Stones	: -4.613595820987561 
+High-complexity Products: 1.9595053760865726 
+Services and Utilities: 17.470373065192597 
+ 
+increase Services and Utilities in Nigeria by 2020795980.4009528 USD 
+Iteration 3:  
+Animals and By-products: -14.404409045295678 
+Vegetables, Fruits and Plants: -24.708715554348995 
+Food and Preparations: -18.072003719349468 
+Energy Drilling and Mining: 0 
+Chemicals: 6.158988190260313 
+Chemical Manufacturing: 1.5504647299823873 
+Raw Manufacturing: -0.7227388555140428 
+Wood Products: -6.380012833695219 
+Clothing and Accessories: -7.301862947225895 
+Textile: -21.612175439781392 
+Metals: -3.1797950954489025 
+Machinery and Construction: 0 
+Transportation: 0.769170679069043 
+Weapons: 0 
+Daily Instruments: 1.8796666555768253 
+Precious Stones	: -6.245898908891064 
+High-complexity Products: 0.02957098628732501 
+Services and Utilities: 0 
+ 
+increase Chemicals in Nigeria by 1680516219.6909359 USD 
+Iteration 4:  
+Animals and By-products: -13.939461889158157 
+Vegetables, Fruits and Plants: -23.52318869907397 
+Food and Preparations: -17.22071565209488 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.6164428637787641 
+Raw Manufacturing: -1.4304056961460472 
+Wood Products: -6.705232541216326 
+Clothing and Accessories: -7.391983868167577 
+Textile: -20.740811129220805 
+Metals: -3.5678777292835284 
+Machinery and Construction: 0 
+Transportation: 0.35259418672426246 
+Weapons: 0 
+Daily Instruments: -0.05075922123470671 
+Precious Stones	: -5.5342052997483515 
+High-complexity Products: -0.6483014750885793 
+Services and Utilities: 0 
+ 
+increase Transportation in Nigeria by 12946431706.910465 USD 
+Iteration 5:  
+Animals and By-products: -13.656326667059064 
+Vegetables, Fruits and Plants: -23.59378967972554 
+Food and Preparations: -12.984541789498007 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.35135791769255 
+Raw Manufacturing: -1.5746104704505202 
+Wood Products: -6.0314904558023095 
+Clothing and Accessories: -7.8598906287197945 
+Textile: -26.200707360947852 
+Metals: -2.301918554607791 
+Machinery and Construction: 1676.8800517982368 
+Transportation: 0 
+Weapons: 3522.7197010017635 
+Daily Instruments: 4.057097859573968 
+Precious Stones	: -5.254985153393124 
+High-complexity Products: 1.6872895328643975 
+Services and Utilities: 511.85191780454096 
+ 
+increase Weapons in Nigeria by 1477572.6261677593 USD 
+Iteration 6:  
+Animals and By-products: -11.964239971390676 
+Vegetables, Fruits and Plants: -20.544104542237744 
+Food and Preparations: -11.481085900968015 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.857641042801256 
+Raw Manufacturing: -1.5048991133562926 
+Wood Products: -4.736216350510072 
+Clothing and Accessories: -6.663305757751435 
+Textile: -22.773356172452484 
+Metals: -2.025573268940511 
+Machinery and Construction: 1498.3473313746438 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 2.986012135997724 
+Precious Stones	: -3.9695946367607315 
+High-complexity Products: 1.32147313684872 
+Services and Utilities: 426.40738118217456 
+ 
+increase Machinery and Construction in Nigeria by 9435835.332723975 USD 
+Iteration 7:  
+Animals and By-products: -11.54628506693246 
+Vegetables, Fruits and Plants: -19.518374774836563 
+Food and Preparations: -11.37777335115533 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.3805015323690606 
+Raw Manufacturing: -2.4992258468865884 
+Wood Products: -5.835021318483487 
+Clothing and Accessories: -6.7757746571180055 
+Textile: -20.7627283162732 
+Metals: -2.695911102100538 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0.8187882495298798 
+Precious Stones	: -3.862811719175568 
+High-complexity Products: 0.5987127505563011 
+Services and Utilities: 285.4168468510003 
+ 
+increase Services and Utilities in Nigeria by 89388139.34030485 USD 
+Iteration 8:  
+Animals and By-products: -14.632603887971802 
+Vegetables, Fruits and Plants: -23.098466116690734 
+Food and Preparations: -14.50421115670318 
+Energy Drilling and Mining: 0 
+Chemicals: 810.5403714376524 
+Chemical Manufacturing: 0.5312519594125548 
+Raw Manufacturing: -3.2908798796954026 
+Wood Products: -8.701964430397892 
+Clothing and Accessories: -8.437340752096683 
+Textile: -22.89353131858245 
+Metals: -3.9070205175499706 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.170391174077279 
+Precious Stones	: -6.137284119933309 
+High-complexity Products: -0.665817396834813 
+Services and Utilities: 0 
+ 
+increase Chemicals in Nigeria by 8024151.344502449 USD 
+Iteration 9:  
+Animals and By-products: -14.188437564574448 
+Vegetables, Fruits and Plants: -22.252460989115292 
+Food and Preparations: -14.318598107222801 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -1.2619219444591117 
+Raw Manufacturing: -3.8908039359211486 
+Wood Products: -8.983957495420587 
+Clothing and Accessories: -8.489350651460958 
+Textile: -22.17479438993271 
+Metals: -4.274262780918335 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -3.898789496735189 
+Precious Stones	: -5.450643371472195 
+High-complexity Products: -1.3382252233298828 
+Services and Utilities: 0 
+ 
+Nigeria completed

@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: -1.8608655696233465 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -0.7945060054715066 
+Energy Drilling and Mining: 0 
+Chemicals: 11.755086782023662 
+Chemical Manufacturing: 5.255375930649146 
+Raw Manufacturing: 2.9961980412535447 
+Wood Products: 1.8657178545951068 
+Clothing and Accessories: -2.0654077690073507 
+Textile: -12.472098349189993 
+Metals: 0.7827520388482155 
+Machinery and Construction: 105.98470847996708 
+Transportation: 2.4585233310620733 
+Weapons: 183041.53041139428 
+Daily Instruments: 8.586412968610565 
+Precious Stones	: -0.7226916235435908 
+High-complexity Products: 3.1651148181290427 
+Services and Utilities: 22.71704517504632 
+ 
+increase Weapons in Timor-Leste by 436.5286707470077 USD 
+Iteration 1:  
+Animals and By-products: -0.21699937455432933 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0.1820517275785497 
+Energy Drilling and Mining: 0 
+Chemicals: 11.314604006130569 
+Chemical Manufacturing: 5.005141419100397 
+Raw Manufacturing: 2.9615329113174726 
+Wood Products: 3.1252191476552715 
+Clothing and Accessories: -0.9231284482057668 
+Textile: -8.773362676098412 
+Metals: 1.0453261599578958 
+Machinery and Construction: 99.44965720275634 
+Transportation: 2.213277965282609 
+Weapons: 0 
+Daily Instruments: 7.660926846523338 
+Precious Stones	: 0.5222932849506536 
+High-complexity Products: 2.8041673524048787 
+Services and Utilities: 20.3844269462718 
+ 
+increase Machinery and Construction in Timor-Leste by 1464369.324544588 USD 
+Iteration 2:  
+Animals and By-products: 0.21019592721677752 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0.25482984677338305 
+Energy Drilling and Mining: 0 
+Chemicals: 10.59459642254365 
+Chemical Manufacturing: 4.109304420688978 
+Raw Manufacturing: 1.8519789698948004 
+Wood Products: 1.9250207929607677 
+Clothing and Accessories: -1.1291078868737323 
+Textile: -6.713834130730142 
+Metals: 0.3746811922733622 
+Machinery and Construction: 0 
+Transportation: 1.6806186982790396 
+Weapons: 0 
+Daily Instruments: 5.787352134390207 
+Precious Stones	: 0.6550401375048868 
+High-complexity Products: 2.0503841341460176 
+Services and Utilities: 16.460030440864344 
+ 
+increase Services and Utilities in Timor-Leste by 15080922.930898605 USD 
+Iteration 3:  
+Animals and By-products: -2.05046031124641 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -1.5768341900317917 
+Energy Drilling and Mining: 0 
+Chemicals: 6.8109829202053165 
+Chemical Manufacturing: 1.1839546773025396 
+Raw Manufacturing: 0.5609770069098715 
+Wood Products: -1.114084874808226 
+Clothing and Accessories: -2.743672003577723 
+Textile: -7.859274210558067 
+Metals: -1.1139221052197037 
+Machinery and Construction: 0 
+Transportation: 0.7744529442948852 
+Weapons: 0 
+Daily Instruments: 1.7906105451800884 
+Precious Stones	: -0.686200878172964 
+High-complexity Products: -0.032245677980560106 
+Services and Utilities: 0 
+ 
+increase Chemicals in Timor-Leste by 12593991.67897204 USD 
+Iteration 4:  
+Animals and By-products: -1.5793672379953891 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -1.491669520286354 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.0012687732134026933 
+Raw Manufacturing: -0.11384192911385511 
+Wood Products: -1.4150216337116923 
+Clothing and Accessories: -2.816886501417484 
+Textile: -6.912598270120154 
+Metals: -1.4793362736664193 
+Machinery and Construction: 0 
+Transportation: 0.34041513152313324 
+Weapons: 0 
+Daily Instruments: 0.22714458344356422 
+Precious Stones	: -0.025572007060360023 
+High-complexity Products: -0.7674121794043862 
+Services and Utilities: 0 
+ 
+increase Transportation in Timor-Leste by 93977376.6068626 USD 
+Iteration 5:  
+Animals and By-products: -1.79073226532841 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -1.0783465014904172 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.728369329424686 
+Raw Manufacturing: 0.08482117085539338 
+Wood Products: -0.598237708462445 
+Clothing and Accessories: -3.258654499309599 
+Textile: -12.714052581120844 
+Metals: -0.34354895877201974 
+Machinery and Construction: 2179.5379888265775 
+Transportation: 0 
+Weapons: 7187.379989939573 
+Daily Instruments: 3.778542141609739 
+Precious Stones	: -0.09355805936486578 
+High-complexity Products: 1.7218162924938758 
+Services and Utilities: 569.4446231307307 
+ 
+increase Weapons in Timor-Leste by 9344.687655991525 USD 
+Iteration 6:  
+Animals and By-products: -0.1804178938180565 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -0.17346340394383766 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.402046688550331 
+Raw Manufacturing: 0.05806215976863039 
+Wood Products: 0.6388909602311794 
+Clothing and Accessories: -2.116422001337449 
+Textile: -8.981197115681356 
+Metals: -0.1154219800314066 
+Machinery and Construction: 1946.14752451214 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 2.8244349145581946 
+Precious Stones	: 1.1119685987045944 
+High-complexity Products: 1.3326598609951643 
+Services and Utilities: 467.9988525085222 
+ 
+increase Machinery and Construction in Timor-Leste by 60671.719239921076 USD 
+Iteration 7:  
+Animals and By-products: 0.21805167607434472 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -0.12439035651498602 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.442638770945148 
+Raw Manufacturing: -1.0448312147413679 
+Wood Products: -0.5708840667838283 
+Clothing and Accessories: -2.309741772401248 
+Textile: -6.833573685616088 
+Metals: -0.7924603323019623 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0.9286664372611134 
+Precious Stones	: 1.2108380889622776 
+High-complexity Products: 0.5641440018730085 
+Services and Utilities: 300.83061408584376 
+ 
+increase Services and Utilities in Timor-Leste by 561577.8617976122 USD 
+Iteration 8:  
+Animals and By-products: -2.123598387675052 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: -1.9392847235255573 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.5222950373456625 
+Raw Manufacturing: -2.427400247705924 
+Wood Products: -3.681335906278547 
+Clothing and Accessories: -3.9782094549068683 
+Textile: -8.076602099222914 
+Metals: -2.2789543485542003 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -3.103982283278946 
+Precious Stones	: -0.16651988612133517 
+High-complexity Products: -1.4835511038481688 
+Services and Utilities: 0 
+ 
+Timor-Leste completed

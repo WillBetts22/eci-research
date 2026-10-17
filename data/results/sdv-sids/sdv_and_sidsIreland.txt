@@ -1,0 +1,41 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: -19.122722753744206 
+Food and Preparations: -17.243106392779982 
+Energy Drilling and Mining: -2.074234110312588 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -4.757471819469009 
+Wood Products: -12.826121653014278 
+Clothing and Accessories: -8.212741254331418 
+Textile: -23.833114525696462 
+Metals: -5.283438322739346 
+Machinery and Construction: -22.235087801169428 
+Transportation: 0.12207886919516454 
+Weapons: -178.91465336685806 
+Daily Instruments: 0 
+Precious Stones	: -8.357562288304203 
+High-complexity Products: 0 
+Services and Utilities: -6.7805647936847775 
+ 
+increase Transportation in Ireland by 46211645609.81952 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: -20.414880319831852 
+Food and Preparations: -15.714060563027902 
+Energy Drilling and Mining: -2.327504735839689 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -6.059474103554673 
+Wood Products: -14.260743065357506 
+Clothing and Accessories: -9.293153951360107 
+Textile: -27.03432192923114 
+Metals: -5.671158064884997 
+Machinery and Construction: -31.058960004096765 
+Transportation: 0 
+Weapons: -219.62112187264353 
+Daily Instruments: -72.00737825388788 
+Precious Stones	: -8.954242603899507 
+High-complexity Products: 0 
+Services and Utilities: -6.695271424227755 
+ 
+Ireland completed

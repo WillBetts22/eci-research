@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 284.30796843573023 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.539527505758606 
+Chemical Manufacturing: 7.505453717000016 
+Raw Manufacturing: 4.843787715686426 
+Wood Products: 18.93110060454303 
+Clothing and Accessories: 6.266485827521465 
+Textile: 13.967169447994745 
+Metals: 14.365858858849675 
+Machinery and Construction: 102.07922569246908 
+Transportation: 2.050759542330075 
+Weapons: 0 
+Daily Instruments: 7.571738514096492 
+Precious Stones	: 0 
+High-complexity Products: 2.3732764930027805 
+Services and Utilities: 17.162478902196167 
+ 
+increase Animals and By-products in Bolivia by 12811066.52411583 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 16.06317941851543 
+Chemical Manufacturing: 7.833250599200611 
+Raw Manufacturing: 5.775764909442804 
+Wood Products: 28.915392594258094 
+Clothing and Accessories: 10.215138937751856 
+Textile: 24.57731728198121 
+Metals: 19.54458987070702 
+Machinery and Construction: 105.06466791170428 
+Transportation: 2.0169762735181402 
+Weapons: 0 
+Daily Instruments: 7.68714587876621 
+Precious Stones	: 0 
+High-complexity Products: 2.2511008714076075 
+Services and Utilities: 16.01931491941222 
+ 
+increase Machinery and Construction in Bolivia by 42626262.2236843 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.102703031211078 
+Chemical Manufacturing: 6.607048018435765 
+Raw Manufacturing: 4.632082114521194 
+Wood Products: 26.775876742915028 
+Clothing and Accessories: 10.059468924456592 
+Textile: 26.835881244971524 
+Metals: 16.79435908794071 
+Machinery and Construction: 0 
+Transportation: 1.500472829162339 
+Weapons: 0 
+Daily Instruments: 5.8980148685808516 
+Precious Stones	: 0 
+High-complexity Products: 1.5400008430170515 
+Services and Utilities: 12.063683667283915 
+ 
+increase Textile in Bolivia by 139135354.3855128 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.61364319369956 
+Chemical Manufacturing: 7.03893500546327 
+Raw Manufacturing: 6.530533856003971 
+Wood Products: 34.11452991248034 
+Clothing and Accessories: 15.472122267491772 
+Textile: 0 
+Metals: 21.338238290098825 
+Machinery and Construction: 0 
+Transportation: 1.4505864363013032 
+Weapons: 0 
+Daily Instruments: 6.116515250222469 
+Precious Stones	: 0 
+High-complexity Products: 1.4952645176060777 
+Services and Utilities: 11.817214617561707 
+ 
+increase Wood Products in Bolivia by 127170602.3614293 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.394362209106621 
+Chemical Manufacturing: 6.738937993363034 
+Raw Manufacturing: 6.874724623228481 
+Wood Products: 0 
+Clothing and Accessories: 17.5426218252131 
+Textile: 0 
+Metals: 23.202882964307822 
+Machinery and Construction: 0 
+Transportation: 1.267306635204677 
+Weapons: 0 
+Daily Instruments: 5.59343024756733 
+Precious Stones	: 0 
+High-complexity Products: 1.2055837426646863 
+Services and Utilities: 10.373076108292521 
+ 
+increase Metals in Bolivia by 190767130.6593423 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.561621160836511 
+Chemical Manufacturing: 6.182210512232833 
+Raw Manufacturing: 6.954675049957054 
+Wood Products: 0 
+Clothing and Accessories: 19.442341969999756 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.0681720274896156 
+Weapons: 0 
+Daily Instruments: 5.010773408195519 
+Precious Stones	: 0 
+High-complexity Products: 0.8615596219182576 
+Services and Utilities: 8.292228536053793 
+ 
+increase Clothing and Accessories in Bolivia by 361792077.18193316 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.448233316463982 
+Chemical Manufacturing: 6.1005493329777645 
+Raw Manufacturing: 7.918828174863244 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.925112785192742 
+Weapons: 0 
+Daily Instruments: 4.747807845140169 
+Precious Stones	: 0 
+High-complexity Products: 0.7177016012457602 
+Services and Utilities: 7.109872340372231 
+ 
+increase Chemicals in Bolivia by 312862941.7087932 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.611032351176286 
+Raw Manufacturing: 7.234853009109909 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5100881333558899 
+Weapons: 0 
+Daily Instruments: 3.3171190504942647 
+Precious Stones	: 0 
+High-complexity Products: 0.031810400370174845 
+Services and Utilities: 4.160126007441726 
+ 
+increase Raw Manufacturing in Bolivia by 654223720.2047015 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.814877409242317 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.0006341308862062389 
+Weapons: 0 
+Daily Instruments: 1.9630546743062474 
+Precious Stones	: 0 
+High-complexity Products: -0.40132985184084546 
+Services and Utilities: 2.459130952151399 
+ 
+increase Chemical Manufacturing in Bolivia by 811314060.9958643 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.17785704855023016 
+Weapons: 0 
+Daily Instruments: -0.00031922627903076446 
+Precious Stones	: 0 
+High-complexity Products: -1.3597254162086554 
+Services and Utilities: -3.230397021960689 
+ 
+Bolivia completed

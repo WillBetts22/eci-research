@@ -1,0 +1,20 @@
+Before Iteration: Animals and By-products: -126.54361146217514 
+Vegetables, Fruits and Plants: -15.456743125736155 
+Food and Preparations: 0 
+Energy Drilling and Mining: -1.1973894908350042 
+Chemicals: -6.353194781515581 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -242.14530865394997 
+Wood Products: 0 
+Clothing and Accessories: -19.51547796579001 
+Textile: -29.38909575751274 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -5.613485208527688 
+Weapons: -1015.86495729531 
+Daily Instruments: -20.027719263752637 
+Precious Stones	: -11.868891311741871 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+Austria completed

@@ -1,0 +1,419 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.5518980032584482 
+Chemicals: 11.39424898844719 
+Chemical Manufacturing: 17.213543074483404 
+Raw Manufacturing: 5.204817686120662 
+Wood Products: 0 
+Clothing and Accessories: 4.363361716074205 
+Textile: 15.838659202487827 
+Metals: 4.035255709872408 
+Machinery and Construction: 124.35167771962132 
+Transportation: 2.422277770242599 
+Weapons: 442.18748158920533 
+Daily Instruments: 12.24525055091694 
+Precious Stones	: 2.2589658428196837 
+High-complexity Products: 3.235534941479576 
+Services and Utilities: 93.94863422129262 
+ 
+increase Weapons in New Zealand by 20639007.516138587 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.1134113672455395 
+Chemicals: 10.828188482749026 
+Chemical Manufacturing: 16.121394175014796 
+Raw Manufacturing: 5.1782866365480675 
+Wood Products: 0 
+Clothing and Accessories: 5.723773408238214 
+Textile: 33.81958360415517 
+Metals: 4.734847575816436 
+Machinery and Construction: 115.96542663009022 
+Transportation: 2.143181533520411 
+Weapons: 0 
+Daily Instruments: 10.714865038513905 
+Precious Stones	: 4.198854257608712 
+High-complexity Products: 2.7571770978890453 
+Services and Utilities: 81.39420940817577 
+ 
+increase Machinery and Construction in New Zealand by 115202482.61180347 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.3060821802859373 
+Chemicals: 10.017577581362819 
+Chemical Manufacturing: 12.649969718813258 
+Raw Manufacturing: 3.624991309704662 
+Wood Products: 0 
+Clothing and Accessories: 5.504217986443608 
+Textile: 43.66095339662199 
+Metals: 2.9725763398465785 
+Machinery and Construction: 0 
+Transportation: 1.5354346743299814 
+Weapons: 0 
+Daily Instruments: 7.624936902431942 
+Precious Stones	: 4.433953056225298 
+High-complexity Products: 1.794104908742903 
+Services and Utilities: 60.65373020630395 
+ 
+increase Services and Utilities in New Zealand by 309826140.0974653 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.2253719634426803 
+Chemicals: 6.079068135999248 
+Chemical Manufacturing: 2.0523093363421627 
+Raw Manufacturing: 1.762624755905863 
+Wood Products: 0 
+Clothing and Accessories: 3.602134870856738 
+Textile: 36.369887690223116 
+Metals: -1.0147697655250545 
+Machinery and Construction: 0 
+Transportation: 0.5108986783992725 
+Weapons: 0 
+Daily Instruments: 1.1758855151157632 
+Precious Stones	: 2.5859441524014044 
+High-complexity Products: -0.7837875193990811 
+Services and Utilities: 0 
+ 
+increase Textile in New Zealand by 110128623.4267785 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.3791850880053853 
+Chemicals: 6.637524239059266 
+Chemical Manufacturing: 3.2488760162887793 
+Raw Manufacturing: 4.183556659407809 
+Wood Products: 0 
+Clothing and Accessories: 9.616517219547493 
+Textile: 0 
+Metals: 2.504530382919164 
+Machinery and Construction: 0 
+Transportation: 0.447566077513141 
+Weapons: 0 
+Daily Instruments: 1.5586127423841865 
+Precious Stones	: 9.208362796443735 
+High-complexity Products: -0.8343046516504147 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in New Zealand by 1075794456.7834795 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.225581504094569 
+Chemicals: 6.671510488908139 
+Chemical Manufacturing: 2.9521246915628567 
+Raw Manufacturing: 5.235084339980911 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.63500681243596 
+Machinery and Construction: 0 
+Transportation: 0.26545571442810645 
+Weapons: 0 
+Daily Instruments: 1.0200043692258316 
+Precious Stones	: 13.55325815118029 
+High-complexity Products: -1.010011909626477 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in New Zealand by 1070834525.2794516 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.3477951298785555 
+Chemicals: 7.737323253336306 
+Chemical Manufacturing: 4.246942637190632 
+Raw Manufacturing: 6.5401906877673435 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.451977201349626 
+Machinery and Construction: 0 
+Transportation: 0.25401358388618156 
+Weapons: 0 
+Daily Instruments: 1.6488105385880096 
+Precious Stones	: 0 
+High-complexity Products: -1.0898765616245478 
+Services and Utilities: 0 
+ 
+increase Chemicals in New Zealand by 1252121232.0781753 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.742280401594452 
+Chemicals: 0 
+Chemical Manufacturing: 0.8069740355162609 
+Raw Manufacturing: 5.5852324676285106 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.382501672273183 
+Machinery and Construction: 0 
+Transportation: -0.23673315781380722 
+Weapons: 0 
+Daily Instruments: -0.6862649386789883 
+Precious Stones	: 0 
+High-complexity Products: -1.9577779261817747 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in New Zealand by 5497316160.02598 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.3091771552529026 
+Raw Manufacturing: 6.953354396212245 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 10.527492009032576 
+Machinery and Construction: 0 
+Transportation: -0.2212899417692326 
+Weapons: 0 
+Daily Instruments: 0.08353722209021117 
+Precious Stones	: 0 
+High-complexity Products: -1.9357241834336871 
+Services and Utilities: 0 
+ 
+increase Metals in New Zealand by 1589617936.8755069 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 9.754016179501196 
+Raw Manufacturing: 6.70280269582825 
+Wood Products: 0 
+Clothing and Accessories: 9809.676061773016 
+Textile: 5850.165525684813 
+Metals: 0 
+Machinery and Construction: 3473.5001899570775 
+Transportation: 1.6713337249062776 
+Weapons: 22716.572613825272 
+Daily Instruments: 8.831980945170615 
+Precious Stones	: 0 
+High-complexity Products: 1.6282476773630077 
+Services and Utilities: 583.8550104582388 
+ 
+increase Weapons in New Zealand by 799095.5514768735 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 9.04786844354175 
+Raw Manufacturing: 6.653599680905807 
+Wood Products: 0 
+Clothing and Accessories: 9491.582186498465 
+Textile: 6293.374757226812 
+Metals: 0 
+Machinery and Construction: 3185.30611470603 
+Transportation: 1.3942458437822831 
+Weapons: 0 
+Daily Instruments: 7.49836469785492 
+Precious Stones	: 0 
+High-complexity Products: 1.1779977012205218 
+Services and Utilities: 460.0535701357363 
+ 
+increase Clothing and Accessories in New Zealand by 2324721.5374672413 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 8.901683542780475 
+Raw Manufacturing: 7.713583815551157 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 3549.5585801794173 
+Metals: 0 
+Machinery and Construction: 2397.7613406592 
+Transportation: 1.2263696526395915 
+Weapons: 0 
+Daily Instruments: 7.058340476388033 
+Precious Stones	: 0 
+High-complexity Products: 1.0009467104591119 
+Services and Utilities: 297.2481463041135 
+ 
+increase Textile in New Zealand by 9367357.883049607 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 9.56459910553378 
+Raw Manufacturing: 9.890858176898059 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 2375.1724671196903 
+Transportation: 1.164055472273499 
+Weapons: 0 
+Daily Instruments: 7.32984295870439 
+Precious Stones	: 0 
+High-complexity Products: 0.9449356114469367 
+Services and Utilities: 259.8755108804716 
+ 
+increase Machinery and Construction in New Zealand by 7318762.214017987 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.527407810883402 
+Raw Manufacturing: 8.592602464857537 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5750352026307756 
+Weapons: 0 
+Daily Instruments: 4.722947517671482 
+Precious Stones	: 0 
+High-complexity Products: 0.049501939846097846 
+Services and Utilities: 128.28665866952016 
+ 
+increase Services and Utilities in New Zealand by 68493341.72675157 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.3017656885836328 
+Raw Manufacturing: 6.825106270593262 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.4575836896742434 
+Weapons: 0 
+Daily Instruments: -0.7990834999288002 
+Precious Stones	: 0 
+High-complexity Products: -2.3280676027546034 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in New Zealand by 2273525293.2279615 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 521.667868414886 
+Chemical Manufacturing: 1.3860858688796123 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.56509375707325 
+Weapons: 0 
+Daily Instruments: -1.2847377752490654 
+Precious Stones	: 455.22076119797435 
+High-complexity Products: -1.9092160086349377 
+Services and Utilities: 0 
+ 
+increase Chemicals in New Zealand by 20688119.05545926 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.9068702647498686 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.039728550818945 
+Weapons: 0 
+Daily Instruments: -3.328743345623975 
+Precious Stones	: 400.87506452548837 
+High-complexity Products: -2.7328649984884126 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in New Zealand by 108539778.72219586 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.013529743044879302 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.0609448831599102 
+Weapons: 0 
+Daily Instruments: -2.802157280789636 
+Precious Stones	: 0 
+High-complexity Products: -2.8226864658552095 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in New Zealand by 2216756395.4936 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 163.65712505580407 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.2620251880239888 
+Weapons: 0 
+Daily Instruments: -6.12711847972106 
+Precious Stones	: 0 
+High-complexity Products: -3.86315344275687 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in New Zealand by 414149868.68094254 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.2441827733304653 
+Weapons: 0 
+Daily Instruments: -5.397254396414967 
+Precious Stones	: 0 
+High-complexity Products: -3.9058546246184602 
+Services and Utilities: 0 
+ 
+New Zealand completed

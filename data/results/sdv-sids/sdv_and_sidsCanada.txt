@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 27.18485614985832 
+Chemical Manufacturing: 22.549468304738163 
+Raw Manufacturing: 19.829271575161837 
+Wood Products: 0 
+Clothing and Accessories: 14.823501389496672 
+Textile: 43.81787076767081 
+Metals: 0 
+Machinery and Construction: 551.4148391771804 
+Transportation: 3.752126472717165 
+Weapons: 0 
+Daily Instruments: 12.376944163943332 
+Precious Stones	: 0 
+High-complexity Products: 6.325990826107543 
+Services and Utilities: 545.563548301822 
+ 
+increase Machinery and Construction in Canada by 340119258.2214155 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 25.391007364869058 
+Chemical Manufacturing: 18.51623815343154 
+Raw Manufacturing: 16.199660081770123 
+Wood Products: 0 
+Clothing and Accessories: 14.751654159653944 
+Textile: 46.68852193696224 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 2.549415398920825 
+Weapons: 0 
+Daily Instruments: 8.963155112089327 
+Precious Stones	: 0 
+High-complexity Products: 3.468720950082502 
+Services and Utilities: 348.385845598766 
+ 
+increase Services and Utilities in Canada by 533449682.931324 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 17.219575696550628 
+Chemical Manufacturing: 6.143651062037001 
+Raw Manufacturing: 11.87028282785078 
+Wood Products: 0 
+Clothing and Accessories: 13.426681928239036 
+Textile: 46.101480848461996 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.4986894696599917 
+Weapons: 0 
+Daily Instruments: 1.8262848345440081 
+Precious Stones	: 0 
+High-complexity Products: -4.0975972253223185 
+Services and Utilities: 0 
+ 
+increase Textile in Canada by 6119260228.370004 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.724619888814557 
+Chemical Manufacturing: 5.151046962007388 
+Raw Manufacturing: 13.634579766868415 
+Wood Products: 0 
+Clothing and Accessories: 14.602463636831787 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.3613492368358724 
+Weapons: 0 
+Daily Instruments: 1.377022689173504 
+Precious Stones	: 3262.4078003209506 
+High-complexity Products: -3.8254455553034763 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Canada by 99795674.21595764 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 17.72521782511412 
+Chemical Manufacturing: 6.777928501128347 
+Raw Manufacturing: 17.20020260810452 
+Wood Products: 0 
+Clothing and Accessories: 18.742430260066342 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.3222490688368337 
+Weapons: 0 
+Daily Instruments: 2.0070229459740965 
+Precious Stones	: 0 
+High-complexity Products: -4.048314940560075 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Canada by 16846539185.204212 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 18.896228193501486 
+Chemical Manufacturing: 7.454207125577378 
+Raw Manufacturing: 19.190400286984307 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5780694798419276 
+Weapons: 45702.35920703681 
+Daily Instruments: 3.2636257531915387 
+Precious Stones	: 0 
+High-complexity Products: -2.7350397782608886 
+Services and Utilities: 0 
+ 
+increase Weapons in Canada by 3984122.84625268 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 17.161754146302684 
+Chemical Manufacturing: 5.949475231185574 
+Raw Manufacturing: 18.720481658368364 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.060639200268559464 
+Weapons: 0 
+Daily Instruments: 1.1760496253657755 
+Precious Stones	: 0 
+High-complexity Products: -4.094537001895859 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Canada by 10895320921.723888 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.564050710811337 
+Chemical Manufacturing: 3.5366259834642406 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.1714567296220513 
+Weapons: 0 
+Daily Instruments: -1.3914386636281002 
+Precious Stones	: 0 
+High-complexity Products: -5.198585042408731 
+Services and Utilities: 0 
+ 
+increase Chemicals in Canada by 9480055265.982853 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.13142576551204763 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -2.0060559515567755 
+Weapons: 0 
+Daily Instruments: -4.032654066816813 
+Precious Stones	: 0 
+High-complexity Products: -6.9305936140678 
+Services and Utilities: 0 
+ 
+Canada completed

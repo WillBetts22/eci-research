@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 217.55169000608444 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 9.286819023527762 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 17.77295590998132 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.005429397403927 
+Machinery and Construction: 76.31419473914406 
+Transportation: 2.0316669617593237 
+Weapons: 1208.1634567315377 
+Daily Instruments: 4.987395982101332 
+Precious Stones	: 10.89179658259629 
+High-complexity Products: 1.4899643203046606 
+Services and Utilities: 12.043064200444269 
+ 
+increase Weapons in Togo by 272187.08522193704 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 238.51457292146247 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.647728674449091 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 19.51737620022345 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.297435639131157 
+Machinery and Construction: 69.43917411797281 
+Transportation: 1.6824174044269289 
+Weapons: 0 
+Daily Instruments: 3.9916121079348645 
+Precious Stones	: 12.15239767425376 
+High-complexity Products: 1.0239944581900151 
+Services and Utilities: 9.515747466980152 
+ 
+increase Vegetables, Fruits and Plants in Togo by 2725437.3770330623 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.442826308671405 
+Chemical Manufacturing: 1427.2830880827821 
+Raw Manufacturing: 0 
+Wood Products: 27.65472070717117 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.897373782371147 
+Machinery and Construction: 95.3286248738302 
+Transportation: 1.8717317124683226 
+Weapons: 0 
+Daily Instruments: 6.444558797136544 
+Precious Stones	: 16.146205617258587 
+High-complexity Products: 2.1900387705729867 
+Services and Utilities: 14.351384642752935 
+ 
+increase Chemical Manufacturing in Togo by 332660.2201716006 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 9.234391867414999 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 26.140863005872728 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.227258287472149 
+Machinery and Construction: 74.53820587544922 
+Transportation: 1.6132436020683747 
+Weapons: 0 
+Daily Instruments: 4.1535994498461974 
+Precious Stones	: 17.080639977667165 
+High-complexity Products: 0.9283252895755031 
+Services and Utilities: 8.600576200511972 
+ 
+increase Machinery and Construction in Togo by 4478085.234800068 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.33180624278052 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 24.76908469297346 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.5440200170801255 
+Machinery and Construction: 0 
+Transportation: 0.8743855397336979 
+Weapons: 0 
+Daily Instruments: 2.1949712093336484 
+Precious Stones	: 17.24858472253163 
+High-complexity Products: 0.010534157899048461 
+Services and Utilities: 4.544257115713691 
+ 
+increase Wood Products in Togo by 18224260.706167053 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.174426200943959 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.361003827214225 
+Machinery and Construction: 0 
+Transportation: 0.606713573976206 
+Weapons: 0 
+Daily Instruments: 1.6120101825926478 
+Precious Stones	: 18.818411810255764 
+High-complexity Products: -0.35403781721468847 
+Services and Utilities: 3.101964733993724 
+ 
+increase Precious Stones	 in Togo by 46971540.216996916 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 9.092376377499873 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.657544611847583 
+Machinery and Construction: 0 
+Transportation: 0.5833649113034487 
+Weapons: 0 
+Daily Instruments: 1.9912734145605213 
+Precious Stones	: 0 
+High-complexity Products: -0.4408780286533364 
+Services and Utilities: 1.8290755629190016 
+ 
+increase Chemicals in Togo by 36522953.53204202 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.262396429405487 
+Machinery and Construction: 0 
+Transportation: 0.00487579359763717 
+Weapons: 0 
+Daily Instruments: 0.4492656199082477 
+Precious Stones	: 0 
+High-complexity Products: -1.2738560910258612 
+Services and Utilities: -1.089659318224448 
+ 
+increase Metals in Togo by 70625890.36645246 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2659647697340035 
+Weapons: 0 
+Daily Instruments: -0.17732831542685018 
+Precious Stones	: 0 
+High-complexity Products: -1.670835568136977 
+Services and Utilities: -3.1720290470763826 
+ 
+Togo completed

@@ -1,0 +1,10 @@
+France
+-157.77
+China
+-174.98
+Japan
+-203.32
+Germany
+-180.12
+USA
+-193.0

@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.3534825673376805 
+Chemicals: 5.503274908614067 
+Chemical Manufacturing: 1.2700794038300074 
+Raw Manufacturing: 0 
+Wood Products: 76.89530409314288 
+Clothing and Accessories: 15.315047073605955 
+Textile: 0 
+Metals: 5.080913397760999 
+Machinery and Construction: 21.381646671714865 
+Transportation: 0 
+Weapons: 675.0425365570269 
+Daily Instruments: 0.3943781280053576 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -3.386757483528977 
+ 
+increase Weapons in Thailand by 49044032.43502626 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.057449525489544 
+Chemicals: 3.2510599259453694 
+Chemical Manufacturing: 0.7571468931364963 
+Raw Manufacturing: 0 
+Wood Products: 90.3189791655186 
+Clothing and Accessories: 17.160612932905778 
+Textile: 0 
+Metals: 6.501154995979701 
+Machinery and Construction: -34.57940552432255 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.0695571434729696 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -5.9535779117356755 
+ 
+increase Wood Products in Thailand by 480479006.2890539 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.194386556637786 
+Chemicals: 2.812574162836592 
+Chemical Manufacturing: 0.4101851517491147 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 20.269978496144333 
+Textile: 0 
+Metals: 10.547601727468503 
+Machinery and Construction: -82.74092425115569 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -3.4801497275491076 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -7.381708274946248 
+ 
+increase Clothing and Accessories in Thailand by 5142756159.780212 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.983705049133074 
+Chemicals: 28.44423131186167 
+Chemical Manufacturing: 6.847151897609866 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 25.42328957758479 
+Machinery and Construction: 366.7152339573979 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 5.984735184540542 
+Precious Stones	: 0 
+High-complexity Products: 38.468472708499384 
+Services and Utilities: 7.563885528781266 
+ 
+increase Machinery and Construction in Thailand by 156053090.37424576 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.23751240337454 
+Chemicals: 25.541612591486103 
+Chemical Manufacturing: 5.3948563584371 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 22.19121463269842 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 1.5984804684107952 
+Precious Stones	: 0 
+High-complexity Products: 5.73757035861055 
+Services and Utilities: 3.503175707107444 
+ 
+increase Chemicals in Thailand by 2430914587.1996574 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.696411913223871 
+Chemicals: 0 
+Chemical Manufacturing: 3.5617860023317593 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 18.989094183309543 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1.9402647120658565 
+Precious Stones	: 0 
+High-complexity Products: -14.895227564293833 
+Services and Utilities: 0.6039284407972201 
+ 
+increase Metals in Thailand by 3338608401.8308105 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 10.098693009419279 
+Chemicals: 0 
+Chemical Manufacturing: 2.9541287954907807 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.9648943518303805 
+Precious Stones	: 0 
+High-complexity Products: -14.757078250329883 
+Services and Utilities: -1.4521617182732205 
+ 
+increase Energy Drilling and Mining in Thailand by 28916007368.27072 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.0335458946653504 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 5144.906013564485 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.7796435098463737 
+Precious Stones	: 0 
+High-complexity Products: -5.909801808861881 
+Services and Utilities: -1.7034576714282024 
+ 
+increase Textile in Thailand by 46202910.68638563 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.4812037765864376 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -2.5304497764186005 
+Precious Stones	: 0 
+High-complexity Products: -5.940810654372094 
+Services and Utilities: -1.9393961369337571 
+ 
+increase Chemical Manufacturing in Thailand by 16842435792.615192 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -6.320850571485286 
+Precious Stones	: 0 
+High-complexity Products: -9.347042167040446 
+Services and Utilities: -7.648008653753775 
+ 
+Thailand completed

@@ -1,0 +1,125 @@
+Before Iteration: Animals and By-products: -15.261442966646912 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -2.010030961852497 
+Chemicals: 10.395505599366604 
+Chemical Manufacturing: 4.864761372825592 
+Raw Manufacturing: 1.045224821758989 
+Wood Products: -5.0414661442018796 
+Clothing and Accessories: -5.758596349052577 
+Textile: -19.7138150622391 
+Metals: -13.296323590986619 
+Machinery and Construction: 304.0529125654843 
+Transportation: 0 
+Weapons: 20194.34287436449 
+Daily Instruments: 173.66481767090661 
+Precious Stones	: -7.541281814255024 
+High-complexity Products: 3.7848375634230673 
+Services and Utilities: 16.24652873090279 
+ 
+increase Weapons in Philippines by 378031.4589127824 USD 
+Iteration 1:  
+Animals and By-products: -10.77750411714121 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -1.2761121288733703 
+Chemicals: 9.550557937357546 
+Chemical Manufacturing: 4.492968237287161 
+Raw Manufacturing: 0.8153942778901117 
+Wood Products: -1.912904990780476 
+Clothing and Accessories: -3.6929975417339675 
+Textile: -14.915583865758611 
+Metals: -11.085374466516798 
+Machinery and Construction: 272.64754482746866 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 136.37005956873637 
+Precious Stones	: -4.9486161036793614 
+High-complexity Products: 3.1379206577382353 
+Services and Utilities: 13.689792959584187 
+ 
+increase Machinery and Construction in Philippines by 56095367.83638671 USD 
+Iteration 2:  
+Animals and By-products: -9.645146514639421 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -1.039177712625269 
+Chemicals: 8.328144908027634 
+Chemical Manufacturing: 3.381108564667047 
+Raw Manufacturing: -3.7517463868863614 
+Wood Products: -5.314263431837598 
+Clothing and Accessories: -4.151561694210199 
+Textile: -12.311300299369126 
+Metals: -17.79008297599223 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 60.957778900601404 
+Precious Stones	: -4.705274967360986 
+High-complexity Products: 1.8502188851257824 
+Services and Utilities: 9.589689165378944 
+ 
+increase Daily Instruments in Philippines by 106573408.21021986 USD 
+Iteration 3:  
+Animals and By-products: -8.95267475366329 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -0.7619019687751081 
+Chemicals: 4.553854660956092 
+Chemical Manufacturing: 1.6274842369825713 
+Raw Manufacturing: -9.585463697580085 
+Wood Products: -9.582556396752157 
+Clothing and Accessories: -5.257319479843821 
+Textile: -11.343490986608842 
+Metals: -20.774869456883312 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -3.6985072986268643 
+High-complexity Products: 0.6849972522566793 
+Services and Utilities: 4.113281259504931 
+ 
+increase Chemicals in Philippines by 1499325122.7988684 USD 
+Iteration 4:  
+Animals and By-products: -7.063142856637625 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -0.2627453818829569 
+Chemicals: 0 
+Chemical Manufacturing: 0.3624502518215942 
+Raw Manufacturing: -11.072471075952183 
+Wood Products: -9.697759139805505 
+Clothing and Accessories: -5.142547078720089 
+Textile: -9.874240356064657 
+Metals: -19.343536183448233 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -2.13232827119809 
+High-complexity Products: -0.4633198712294488 
+Services and Utilities: 1.2987154409252082 
+ 
+increase Services and Utilities in Philippines by 2689356936.5017405 USD 
+Iteration 5:  
+Animals and By-products: -11.575548834738074 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: -0.4243447014346733 
+Chemicals: 0 
+Chemical Manufacturing: -2.822712418370741 
+Raw Manufacturing: -13.923252094550582 
+Wood Products: -15.82291421278568 
+Clothing and Accessories: -7.59915760692598 
+Textile: -11.292093273505849 
+Metals: -23.003236487715938 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -4.3794299883220456 
+High-complexity Products: -3.583411021649029 
+Services and Utilities: 0 
+ 
+Philippines completed

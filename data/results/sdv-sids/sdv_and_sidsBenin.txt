@@ -1,0 +1,440 @@
+Before Iteration: Animals and By-products: 5.016921140635678 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.123277434178607 
+Chemicals: 10.30535615147148 
+Chemical Manufacturing: 5.272001217865078 
+Raw Manufacturing: 4.513566610175701 
+Wood Products: 16.96710295656652 
+Clothing and Accessories: 5.738826120037315 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 101.21721012533418 
+Transportation: 2.1162113210209665 
+Weapons: 399.9810931852612 
+Daily Instruments: 7.449923763056528 
+Precious Stones	: 2.970860009761237 
+High-complexity Products: 2.7885765812639303 
+Services and Utilities: 48.17051111524441 
+ 
+increase Weapons in Benin by 440411.73971591354 USD 
+Iteration 1:  
+Animals and By-products: 6.7809599684982 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.8966460810932437 
+Chemicals: 9.76919153713908 
+Chemical Manufacturing: 4.93927436348059 
+Raw Manufacturing: 4.491946484959162 
+Wood Products: 20.401927622846575 
+Clothing and Accessories: 7.10174356009612 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 94.35583414789286 
+Transportation: 1.869211308748509 
+Weapons: 0 
+Daily Instruments: 6.532304438849228 
+Precious Stones	: 4.4448366089451286 
+High-complexity Products: 2.380971192954923 
+Services and Utilities: 41.87599538372983 
+ 
+increase Machinery and Construction in Benin by 2743972.015988729 USD 
+Iteration 2:  
+Animals and By-products: 7.308327302360773 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.163012817322139 
+Chemicals: 8.998104347398785 
+Chemical Manufacturing: 3.889541105015377 
+Raw Manufacturing: 3.3340556944579642 
+Wood Products: 17.18603572196455 
+Clothing and Accessories: 6.878548445100442 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.3293849948824097 
+Weapons: 0 
+Daily Instruments: 4.682855208138361 
+Precious Stones	: 4.630545170493518 
+High-complexity Products: 1.560051112572977 
+Services and Utilities: 31.60013838379333 
+ 
+increase Services and Utilities in Benin by 11783485.691734318 USD 
+Iteration 3:  
+Animals and By-products: 0.9951059081029785 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0.276133615343865 
+Chemicals: 5.88859475366074 
+Chemical Manufacturing: 1.0459128801354978 
+Raw Manufacturing: 1.9691688032411614 
+Wood Products: 3.772066656343099 
+Clothing and Accessories: 2.916951045009417 
+Textile: 0 
+Metals: -98.20202231951284 
+Machinery and Construction: 0 
+Transportation: 0.6415200267136469 
+Weapons: 0 
+Daily Instruments: 1.464283194290312 
+Precious Stones	: 1.0283483384791443 
+High-complexity Products: -0.23730532663827128 
+Services and Utilities: 0 
+ 
+increase Chemicals in Benin by 24113875.183588106 USD 
+Iteration 4:  
+Animals and By-products: 1.6221300021497003 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0.7968552609955897 
+Chemicals: 0 
+Chemical Manufacturing: -0.22092294537004034 
+Raw Manufacturing: 1.2989620343943775 
+Wood Products: 3.013490501362555 
+Clothing and Accessories: 2.8652136204063425 
+Textile: 0 
+Metals: -32.561099241416215 
+Machinery and Construction: 0 
+Transportation: 0.2107787086291451 
+Weapons: 0 
+Daily Instruments: -0.006151249636078097 
+Precious Stones	: 1.9161668034682515 
+High-complexity Products: -0.9979504514200521 
+Services and Utilities: 0 
+ 
+increase Wood Products in Benin by 6774756.187603526 USD 
+Iteration 5:  
+Animals and By-products: 7.070466770819957 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.0499819807178485 
+Chemicals: 0 
+Chemical Manufacturing: -0.4544172450595261 
+Raw Manufacturing: 1.557930989933053 
+Wood Products: 0 
+Clothing and Accessories: 5.098226303707479 
+Textile: 0 
+Metals: -14.750039076241439 
+Machinery and Construction: 0 
+Transportation: 0.008048440316590551 
+Weapons: 0 
+Daily Instruments: -0.5798032902450451 
+Precious Stones	: 3.818604613650262 
+High-complexity Products: -1.3204476127555114 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Benin by 16491445.7649948 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.942852216090726 
+Chemicals: 0 
+Chemical Manufacturing: -0.15440951484651338 
+Raw Manufacturing: 2.4833121187848683 
+Wood Products: 0 
+Clothing and Accessories: 9.487363523062896 
+Textile: 0 
+Metals: 5.85518703789563 
+Machinery and Construction: 0 
+Transportation: -0.028382585432668448 
+Weapons: 0 
+Daily Instruments: -0.4619264763734156 
+Precious Stones	: 7.8705074952169385 
+High-complexity Products: -1.453734272422338 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Benin by 22520278.225102555 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.99292248015808 
+Chemicals: 0 
+Chemical Manufacturing: -0.18469666390785028 
+Raw Manufacturing: 3.2870965710963183 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 12.271469320408332 
+Machinery and Construction: 0 
+Transportation: -0.19215896333400917 
+Weapons: 0 
+Daily Instruments: -0.784722234106853 
+Precious Stones	: 11.282734463885651 
+High-complexity Products: -1.6049482059206321 
+Services and Utilities: 0 
+ 
+increase Metals in Benin by 5732594.237534478 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.576920788966322 
+Chemicals: 0 
+Chemical Manufacturing: -0.6435876671756278 
+Raw Manufacturing: 3.2017767377966875 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.41798751842532156 
+Weapons: 0 
+Daily Instruments: -1.44248620640965 
+Precious Stones	: 13.434796292134397 
+High-complexity Products: -1.9929097948018362 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Benin by 29665560.168969803 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 10.157429012592129 
+Chemicals: 0 
+Chemical Manufacturing: -0.10259959193478535 
+Raw Manufacturing: 4.247684395883579 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.43575586581787124 
+Weapons: 0 
+Daily Instruments: -1.0427831339113185 
+Precious Stones	: 0 
+High-complexity Products: -2.0688201331344094 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Benin by 89671277.1441649 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 5073.50245688665 
+Chemical Manufacturing: 6.377158367556855 
+Raw Manufacturing: 8.635913215185168 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 3578.24989578723 
+Transportation: 1.7232074581165284 
+Weapons: 26568.07899921447 
+Daily Instruments: 7.513035442099799 
+Precious Stones	: 0 
+High-complexity Products: 1.9711444599348429 
+Services and Utilities: 569.1541324886426 
+ 
+increase Weapons in Benin by 17001.53199987358 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 4565.350221884437 
+Chemical Manufacturing: 6.039606716263224 
+Raw Manufacturing: 8.629610059400667 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 3328.541993229404 
+Transportation: 1.4771625518903913 
+Weapons: 0 
+Daily Instruments: 6.613337567822371 
+Precious Stones	: 0 
+High-complexity Products: 1.5768247653060363 
+Services and Utilities: 462.5036488846371 
+ 
+increase Chemicals in Benin by 86055.02704606205 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.859074152880315 
+Raw Manufacturing: 8.005245893846448 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 2421.7197031564583 
+Transportation: 1.063576168101772 
+Weapons: 0 
+Daily Instruments: 5.211577043770762 
+Precious Stones	: 0 
+High-complexity Products: 0.8460810992373283 
+Services and Utilities: 264.49043675362606 
+ 
+increase Machinery and Construction in Benin by 138424.80363716232 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.82857994257548 
+Raw Manufacturing: 6.9426156362182 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5227530367157954 
+Weapons: 0 
+Daily Instruments: 3.367229292007761 
+Precious Stones	: 0 
+High-complexity Products: 0.04479939276598464 
+Services and Utilities: 130.7421210375568 
+ 
+increase Services and Utilities in Benin by 1305301.75717026 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.6760147281297053 
+Raw Manufacturing: 5.516444063788816 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.4238909568363119 
+Weapons: 0 
+Daily Instruments: -0.5411568699236727 
+Precious Stones	: 0 
+High-complexity Products: -2.083040819506799 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Benin by 53981255.259919286 USD 
+Iteration 15:  
+Animals and By-products: 832.5200523893191 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.02458372734363299 
+Raw Manufacturing: 0 
+Wood Products: 287.71026595570277 
+Clothing and Accessories: 1184.5465448876876 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.5756723802812175 
+Weapons: 0 
+Daily Instruments: -1.2075537768118412 
+Precious Stones	: 0 
+High-complexity Products: -1.9359095289543147 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Benin by 371493.92689190805 USD 
+Iteration 16:  
+Animals and By-products: 805.7193639163958 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.0026530210098390412 
+Raw Manufacturing: 0 
+Wood Products: 300.73935711308036 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.7388475979773227 
+Weapons: 0 
+Daily Instruments: -1.520223312285125 
+Precious Stones	: 0 
+High-complexity Products: -2.089151685846942 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Benin by 951513.9054030143 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.2612420188224386 
+Raw Manufacturing: 0 
+Wood Products: 361.3590287329022 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.7785877668412009 
+Weapons: 0 
+Daily Instruments: -1.428219478851873 
+Precious Stones	: 0 
+High-complexity Products: -2.2242825996085873 
+Services and Utilities: 0 
+ 
+increase Wood Products in Benin by 1331096.3675402328 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.4654951424208146 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4139.673697207961 
+Machinery and Construction: 0 
+Transportation: -0.7591786445013223 
+Weapons: 0 
+Daily Instruments: -1.3660560455873798 
+Precious Stones	: 0 
+High-complexity Products: -2.157010211491466 
+Services and Utilities: 0 
+ 
+increase Metals in Benin by 85474.75311629474 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.012754812128350258 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9839968458842928 
+Weapons: 0 
+Daily Instruments: -2.0192939418140727 
+Precious Stones	: 0 
+High-complexity Products: -2.5400551902239386 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Benin by 80447387.53684981 USD 
+Iteration 20:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 182.53430042524195 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.1482117568508374 
+Weapons: 0 
+Daily Instruments: -4.919609191181819 
+Precious Stones	: 202.70050953841664 
+High-complexity Products: -3.3928428326551545 
+Services and Utilities: 0 
+ 
+Benin completed

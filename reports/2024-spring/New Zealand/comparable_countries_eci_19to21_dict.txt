@@ -1,0 +1,8 @@
+New Zealand
+165.99
+Australia
+206.15
+Ireland
+-198.73
+Finland
+-264.2

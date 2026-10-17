@@ -1,0 +1,167 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 88.95617812391902 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 66.00116409385885 
+Chemical Manufacturing: 13.057610506903188 
+Raw Manufacturing: 28.028639064001588 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 96.66351273065754 
+Transportation: 2.50937932043273 
+Weapons: 0 
+Daily Instruments: 9.259875433698781 
+Precious Stones	: 36.160431149056244 
+High-complexity Products: 2.586428233998728 
+Services and Utilities: 13.207907533650092 
+ 
+increase Machinery and Construction in Indonesia by 881443538.8204807 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 91.254465637289 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 60.35089765995957 
+Chemical Manufacturing: 10.50131638097667 
+Raw Manufacturing: 23.128040311850683 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.6152173401706658 
+Weapons: 0 
+Daily Instruments: 6.434153582122462 
+Precious Stones	: 36.45478206542359 
+High-complexity Products: 1.384697828794583 
+Services and Utilities: 9.203657712014245 
+ 
+increase Vegetables, Fruits and Plants in Indonesia by 2034728968.924244 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 60.241132142293964 
+Chemical Manufacturing: 11.055843008516558 
+Raw Manufacturing: 26.94034821223057 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.544359950207648 
+Weapons: 0 
+Daily Instruments: 6.644643694273398 
+Precious Stones	: 48.63402577659585 
+High-complexity Products: 1.2607826394623782 
+Services and Utilities: 8.286330125229972 
+ 
+increase Chemicals in Indonesia by 1477921375.4216747 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.913805669791524 
+Raw Manufacturing: 23.41287866619269 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.8203172767426454 
+Weapons: 0 
+Daily Instruments: 4.413103760843945 
+Precious Stones	: 49.79294376555195 
+High-complexity Products: 0.1341821911472637 
+Services and Utilities: 5.38286777295319 
+ 
+increase Precious Stones	 in Indonesia by 4028617844.2731113 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 8.76781694840563 
+Raw Manufacturing: 25.41296213698237 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.7949399514480636 
+Weapons: 0 
+Daily Instruments: 4.910800529709803 
+Precious Stones	: 0 
+High-complexity Products: 0.0144603872492039 
+Services and Utilities: 4.105467219592927 
+ 
+increase Raw Manufacturing in Indonesia by 3906782226.645113 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.049030962249084 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.043272747171483134 
+Weapons: 0 
+Daily Instruments: 2.8108897172087373 
+Precious Stones	: 0 
+High-complexity Products: -0.6736632016931842 
+Services and Utilities: 2.4160366140521132 
+ 
+increase Chemical Manufacturing in Indonesia by 8883151159.62807 USD 
+Iteration 6:  
+Animals and By-products: 1843.349749892578 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.32793446745783805 
+Weapons: 0 
+Daily Instruments: -0.8171838320180632 
+Precious Stones	: 0 
+High-complexity Products: -1.9433805943150229 
+Services and Utilities: -1.9368457796591285 
+ 
+increase Animals and By-products in Indonesia by 131418203.17360687 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2855743115809326 
+Weapons: 0 
+Daily Instruments: -0.1826772027897853 
+Precious Stones	: 0 
+High-complexity Products: -2.1711553651446542 
+Services and Utilities: -3.394807296626764 
+ 
+Indonesia completed

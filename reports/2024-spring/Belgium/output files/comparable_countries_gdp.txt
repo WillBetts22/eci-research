@@ -1,0 +1,8 @@
+Belgium
+2.14
+Netherlands
+2.28
+Sweden
+2.72
+Austria
+1.56

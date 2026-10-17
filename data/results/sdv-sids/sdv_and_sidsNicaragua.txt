@@ -1,0 +1,356 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.346554636170505 
+Chemicals: 12.472680626340054 
+Chemical Manufacturing: 6.316295968741174 
+Raw Manufacturing: 8.282203819265863 
+Wood Products: 19.105956335933787 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.679913748463739 
+Machinery and Construction: 111.17309587022909 
+Transportation: 4.256964500083455 
+Weapons: 591.0417398601008 
+Daily Instruments: 8.535411035818758 
+Precious Stones	: 0 
+High-complexity Products: 2.450343938621597 
+Services and Utilities: 17.58904724755129 
+ 
+increase Weapons in Nicaragua by 3477748.571444567 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.867943020016889 
+Chemicals: 11.932487518217085 
+Chemical Manufacturing: 5.985846699514766 
+Raw Manufacturing: 8.261888552412469 
+Wood Products: 20.724904764367366 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.984973436475767 
+Machinery and Construction: 104.67878918746938 
+Transportation: 3.75796708221527 
+Weapons: 0 
+Daily Instruments: 7.5881836438333625 
+Precious Stones	: 0 
+High-complexity Products: 2.094390240565988 
+Services and Utilities: 15.114345417405946 
+ 
+increase Machinery and Construction in Nicaragua by 22863484.198279127 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.057075580077802 
+Chemicals: 11.177384306438384 
+Chemical Manufacturing: 4.978013436104732 
+Raw Manufacturing: 7.005560350439816 
+Wood Products: 19.509800083071262 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.336557214639606 
+Machinery and Construction: 0 
+Transportation: 2.671554831570138 
+Weapons: 0 
+Daily Instruments: 5.6881569485382 
+Precious Stones	: 0 
+High-complexity Products: 1.3795921020315247 
+Services and Utilities: 11.114184110081345 
+ 
+increase Wood Products in Nicaragua by 102313505.01759726 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.906344441952174 
+Chemicals: 11.057975577476578 
+Chemical Manufacturing: 4.747762012916206 
+Raw Manufacturing: 7.363670478296331 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.161573273987822 
+Machinery and Construction: 0 
+Transportation: 2.243351550586022 
+Weapons: 0 
+Daily Instruments: 5.125928547955289 
+Precious Stones	: 0 
+High-complexity Products: 1.0905811238506622 
+Services and Utilities: 9.671134238555945 
+ 
+increase Chemicals in Nicaragua by 189608884.61537778 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.312574102391195 
+Chemicals: 0 
+Chemical Manufacturing: 3.503131136007322 
+Raw Manufacturing: 6.543317093098886 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.769436552764775 
+Machinery and Construction: 0 
+Transportation: 1.3599098430987384 
+Weapons: 0 
+Daily Instruments: 3.600108949820663 
+Precious Stones	: 0 
+High-complexity Products: 0.41125557989168116 
+Services and Utilities: 6.767733892839442 
+ 
+increase Services and Utilities in Nicaragua by 249197276.9168225 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.4204677302320565 
+Chemicals: 0 
+Chemical Manufacturing: 0.29804450880319633 
+Raw Manufacturing: 4.858581240260528 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.166145776025023 
+Machinery and Construction: 0 
+Transportation: -0.4245757141980257 
+Weapons: 0 
+Daily Instruments: -0.4896378335565304 
+Precious Stones	: 0 
+High-complexity Products: -1.5306155524882163 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Nicaragua by 889621564.7375515 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.0891340897563826 
+Raw Manufacturing: 6.196579611440974 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.986813370354575 
+Machinery and Construction: 0 
+Transportation: -0.36391506332628915 
+Weapons: 0 
+Daily Instruments: 0.04580209811715211 
+Precious Stones	: 0 
+High-complexity Products: -1.5655800121304444 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Nicaragua by 358607785.5497716 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.1069185783790774 
+Raw Manufacturing: 0 
+Wood Products: 1270.1482560218612 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.651074571606188 
+Machinery and Construction: 2794.3217728536265 
+Transportation: 0.42327928563988176 
+Weapons: 25860.897798898215 
+Daily Instruments: 2.148612908086137 
+Precious Stones	: 0 
+High-complexity Products: -0.5756453463324205 
+Services and Utilities: 0 
+ 
+increase Weapons in Nicaragua by 91215.73319009505 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.7390642431019365 
+Raw Manufacturing: 0 
+Wood Products: 1336.6855148518705 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.894736409072136 
+Machinery and Construction: 2378.636129084063 
+Transportation: -0.01061992288367995 
+Weapons: 0 
+Daily Instruments: 1.1233212236156298 
+Precious Stones	: 0 
+High-complexity Products: -0.9542799158909909 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Nicaragua by 577972.5459421873 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.6683498652159222 
+Raw Manufacturing: 0 
+Wood Products: 1185.2818114196202 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.205107587605429 
+Machinery and Construction: 0 
+Transportation: -0.9263037874609634 
+Weapons: 0 
+Daily Instruments: -0.8830172467107256 
+Precious Stones	: 0 
+High-complexity Products: -1.7101701264051423 
+Services and Utilities: 0 
+ 
+increase Wood Products in Nicaragua by 2705722.094906956 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 2799.3781927842883 
+Chemical Manufacturing: 1.6612482433563722 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.2961161971177795 
+Machinery and Construction: 0 
+Transportation: -0.5394124054843867 
+Weapons: 0 
+Daily Instruments: 0.06165843062015706 
+Precious Stones	: 0 
+High-complexity Products: -1.3142794865097016 
+Services and Utilities: 0 
+ 
+increase Chemicals in Nicaragua by 696534.2042155862 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.42953802843109407 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.954923625945672 
+Machinery and Construction: 0 
+Transportation: -1.245752230826366 
+Weapons: 0 
+Daily Instruments: -1.4847652322757294 
+Precious Stones	: 0 
+High-complexity Products: -2.005034009741305 
+Services and Utilities: 0 
+ 
+increase Metals in Nicaragua by 469753456.5802237 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.1567534904482955 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.01914564732417799 
+Weapons: 0 
+Daily Instruments: 2.026538258829226 
+Precious Stones	: 0 
+High-complexity Products: -0.3915511768163988 
+Services and Utilities: 64.63660794191836 
+ 
+increase Services and Utilities in Nicaragua by 13144658.115196407 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 762.3987879282696 
+Chemicals: 0 
+Chemical Manufacturing: -0.7430961225478997 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.549275317213182 
+Weapons: 0 
+Daily Instruments: -2.632968033894761 
+Precious Stones	: 0 
+High-complexity Products: -2.295891600987821 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Nicaragua by 12479621.492420912 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.021532565619334185 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.4948145688662644 
+Weapons: 0 
+Daily Instruments: -2.103018085622984 
+Precious Stones	: 0 
+High-complexity Products: -2.345673280492672 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Nicaragua by 655944404.0594261 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 11768.250380033469 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.5767238581686982 
+Weapons: 0 
+Daily Instruments: -4.332648373064445 
+Precious Stones	: 0 
+High-complexity Products: -3.252854815024723 
+Services and Utilities: 0 
+ 
+increase Textile in Nicaragua by 635848.9364367425 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.6962466597410955 
+Weapons: 0 
+Daily Instruments: -4.164630002099925 
+Precious Stones	: 0 
+High-complexity Products: -3.301313577436802 
+Services and Utilities: 0 
+ 
+Nicaragua completed

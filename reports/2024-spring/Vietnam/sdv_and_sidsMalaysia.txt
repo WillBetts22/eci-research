@@ -1,0 +1,272 @@
+Before Iteration: Animals and By-products: 4.604107148319355 
+Vegetables, Fruits and Plants: 4.84390313920052 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 29.568248893647315 
+Chemical Manufacturing: 3.6574873038707367 
+Raw Manufacturing: 0 
+Wood Products: 3.6843641922975956 
+Clothing and Accessories: -0.5360040977891605 
+Textile: 1.5360219814245324 
+Metals: 0 
+Machinery and Construction: 11.925161222827011 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 4.681272473081248 
+High-complexity Products: 0.7557228049960087 
+Services and Utilities: 7.681894275293854 
+ 
+increase Chemicals in Malaysia by 1126723001.9250355 USD 
+Iteration 1:  
+Animals and By-products: 5.356980301472249 
+Vegetables, Fruits and Plants: 5.724452641334817 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.435227051461458 
+Raw Manufacturing: 0 
+Wood Products: 2.6744721840386965 
+Clothing and Accessories: -0.5630277233563871 
+Textile: 3.2327490399699346 
+Metals: 0 
+Machinery and Construction: 1.0550758696701545 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 5.783743764360147 
+High-complexity Products: -0.6062974691252632 
+Services and Utilities: 3.1026269748235675 
+ 
+increase Precious Stones	 in Malaysia by 7623416940.876059 USD 
+Iteration 2:  
+Animals and By-products: 13.872936494069172 
+Vegetables, Fruits and Plants: 16.40640879985109 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.370321462192287 
+Raw Manufacturing: 0 
+Wood Products: 13.779186732498387 
+Clothing and Accessories: 3.791146378751962 
+Textile: 23.235473492377427 
+Metals: 0 
+Machinery and Construction: 7.331324411332192 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.7277423257260304 
+Services and Utilities: 1.0934666392076136 
+ 
+increase Textile in Malaysia by 2424620331.889008 USD 
+Iteration 3:  
+Animals and By-products: 21.61033841204633 
+Vegetables, Fruits and Plants: 25.239563792750882 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.877198924453836 
+Raw Manufacturing: 0 
+Wood Products: 32.92187420806858 
+Clothing and Accessories: 10.51559368537729 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 62.69394289135169 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 364.0577767545865 
+Precious Stones	: 0 
+High-complexity Products: 0.5578534722599088 
+Services and Utilities: 9.749749183092627 
+ 
+increase Daily Instruments in Malaysia by 78332912.8291359 USD 
+Iteration 4:  
+Animals and By-products: 16.759051953462993 
+Vegetables, Fruits and Plants: 19.90079576243289 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.669158449186524 
+Raw Manufacturing: 0 
+Wood Products: 19.24159019056637 
+Clothing and Accessories: 7.647636969191818 
+Textile: 0 
+Metals: 2059.3210338278113 
+Machinery and Construction: 33.735048003286366 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.1018906679610456 
+Services and Utilities: 4.061274424169991 
+ 
+increase Metals in Malaysia by 15978378.944496155 USD 
+Iteration 5:  
+Animals and By-products: 21.693825308181527 
+Vegetables, Fruits and Plants: 25.45969186052628 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.9289276759088922 
+Raw Manufacturing: 0 
+Wood Products: 25.18282457481689 
+Clothing and Accessories: 9.759430526174029 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 17.905825359751788 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.7538691939129132 
+Services and Utilities: 0.7923004874127069 
+ 
+increase Vegetables, Fruits and Plants in Malaysia by 6110600085.505546 USD 
+Iteration 6:  
+Animals and By-products: 35.16627968314595 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.1245573168887066 
+Raw Manufacturing: 0 
+Wood Products: 38.874740650489535 
+Clothing and Accessories: 14.73859257178402 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 27.71542539350647 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.8791342301976826 
+Services and Utilities: -0.6166245187948803 
+ 
+increase Wood Products in Malaysia by 2292831836.6185503 USD 
+Iteration 7:  
+Animals and By-products: 41.10786812537154 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.6413388300190532 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 16.858654136361366 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 18.226558286298477 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.4068861331439675 
+Services and Utilities: -2.8012980958970446 
+ 
+increase Animals and By-products in Malaysia by 5614754188.185753 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.262919610203353 
+Raw Manufacturing: 356.40527270843586 
+Wood Products: 0 
+Clothing and Accessories: 19.17381797339762 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 38.65210691623842 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.843396999278874 
+Services and Utilities: -2.213476296817352 
+ 
+increase Raw Manufacturing in Malaysia by 194724983.90942764 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.247530480731005 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 20.89174279781819 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 15.961383488402001 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.6053663369701445 
+Services and Utilities: -4.676249307106334 
+ 
+increase Clothing and Accessories in Malaysia by 9744199802.560688 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.0995962961945067 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 15.755624535750693 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.815514743788348 
+Services and Utilities: -6.343081401361289 
+ 
+increase Machinery and Construction in Malaysia by 966089548.0873992 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.487026841198663 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -3.108030605035355 
+Services and Utilities: -12.534789017106998 
+ 
+increase Chemical Manufacturing in Malaysia by 16689521594.300014 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -4.627615426589948 
+Services and Utilities: -20.53465229246608 
+ 
+Malaysia completed

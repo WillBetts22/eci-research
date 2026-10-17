@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 13.087775799613441 
+Chemicals: 44.92744040668239 
+Chemical Manufacturing: 47.49946266409257 
+Raw Manufacturing: 12.785989683495789 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 51.040328179270624 
+Machinery and Construction: 0 
+Transportation: 1.1472387904706007 
+Weapons: 0 
+Daily Instruments: 5.29865647959977 
+Precious Stones	: 13.03447532918192 
+High-complexity Products: 1.3627416228578757 
+Services and Utilities: 10.946221829858017 
+ 
+increase Metals in Kenya by 22196807.234482944 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 12.908281101365455 
+Chemicals: 37.37584794037527 
+Chemical Manufacturing: 31.017102666262392 
+Raw Manufacturing: 8.08573976050815 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 3106.1928605068933 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9821805229740884 
+Weapons: 0 
+Daily Instruments: 4.245534376982707 
+Precious Stones	: 9.80432351231953 
+High-complexity Products: 0.9910522140137019 
+Services and Utilities: 9.06256738957693 
+ 
+increase Textile in Kenya by 624298.2227872014 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 16.0401853091988 
+Chemicals: 39.1980649307018 
+Chemical Manufacturing: 33.86349633576664 
+Raw Manufacturing: 12.417844195212325 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9311430399587534 
+Weapons: 0 
+Daily Instruments: 4.547546330553456 
+Precious Stones	: 15.302448719344245 
+High-complexity Products: 0.9397356688716361 
+Services and Utilities: 8.831044235271154 
+ 
+increase Chemicals in Kenya by 42333301.09370148 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 16.782367428950753 
+Chemicals: 0 
+Chemical Manufacturing: 20.411200565394118 
+Raw Manufacturing: 10.61703484945537 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.4965369889517104 
+Weapons: 0 
+Daily Instruments: 2.8175675932582958 
+Precious Stones	: 16.282449495119398 
+High-complexity Products: 0.12082835326315874 
+Services and Utilities: 5.889124678986278 
+ 
+increase Chemical Manufacturing in Kenya by 50801154.60821903 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 17.170327888255585 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 8.232473504117355 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.318317425167251 
+Weapons: 0 
+Daily Instruments: 0.44162880651397496 
+Precious Stones	: 17.426274677602663 
+High-complexity Products: -1.0185970465850531 
+Services and Utilities: 0.2112574559805361 
+ 
+increase Precious Stones	 in Kenya by 182010996.57660002 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 18.98425120484923 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 9.471450804201494 
+Wood Products: 518.5637098851282 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5180242906174629 
+Weapons: 0 
+Daily Instruments: 1.608875908647959 
+Precious Stones	: 0 
+High-complexity Products: -0.7353430323883439 
+Services and Utilities: 0.45339083221428816 
+ 
+increase Wood Products in Kenya by 4004485.906620428 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 21.056568294386427 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 9.964020008302729 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.307103036339763 
+Weapons: 0 
+Daily Instruments: 0.9078482193379913 
+Precious Stones	: 0 
+High-complexity Products: -1.0924943678023045 
+Services and Utilities: -1.0761111359563424 
+ 
+increase Energy Drilling and Mining in Kenya by 312458687.4463786 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 11.640673527058354 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.3189251069541256 
+Weapons: 0 
+Daily Instruments: 1.4786286199995224 
+Precious Stones	: 0 
+High-complexity Products: -1.1154435534171658 
+Services and Utilities: -1.5743235579992299 
+ 
+increase Raw Manufacturing in Kenya by 181585326.81900173 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.22919693263701743 
+Weapons: 0 
+Daily Instruments: -0.1549784317501498 
+Precious Stones	: 0 
+High-complexity Products: -1.6164570032094896 
+Services and Utilities: -3.3133016542247575 
+ 
+Kenya completed

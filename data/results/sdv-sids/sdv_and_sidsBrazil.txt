@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 87.26676565793728 
+Chemical Manufacturing: 7.16225163069965 
+Raw Manufacturing: 14.58180134392992 
+Wood Products: 0 
+Clothing and Accessories: 16.32710069854707 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 125.54652119546908 
+Transportation: 2.538254573185754 
+Weapons: 811.1065853711561 
+Daily Instruments: 8.318728155860143 
+Precious Stones	: 28.26503934422298 
+High-complexity Products: 3.1796775890836595 
+Services and Utilities: 17.233614632346306 
+ 
+increase Weapons in Brazil by 131072882.51270655 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 83.11953487081034 
+Chemical Manufacturing: 6.766501715711325 
+Raw Manufacturing: 14.559417000674387 
+Wood Products: 0 
+Clothing and Accessories: 17.720484942139453 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 117.22313612098878 
+Transportation: 2.205803379405535 
+Weapons: 0 
+Daily Instruments: 7.306682602106818 
+Precious Stones	: 30.74645430884116 
+High-complexity Products: 2.608595656892368 
+Services and Utilities: 14.567071272960254 
+ 
+increase Machinery and Construction in Brazil by 880911528.7857189 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 76.766371977406 
+Chemical Manufacturing: 5.698807306265316 
+Raw Manufacturing: 12.49078478719767 
+Wood Products: 0 
+Clothing and Accessories: 17.766604686187684 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.500378711250601 
+Weapons: 0 
+Daily Instruments: 5.448664033711454 
+Precious Stones	: 30.888459870285132 
+High-complexity Products: 1.5549505306720652 
+Services and Utilities: 10.891140170128633 
+ 
+increase Chemicals in Brazil by 1301514796.2324905 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.17487233013578 
+Raw Manufacturing: 10.915477178953608 
+Wood Products: 0 
+Clothing and Accessories: 17.652505132847754 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9232287523508353 
+Weapons: 0 
+Daily Instruments: 3.7944015865293643 
+Precious Stones	: 32.147352292013935 
+High-complexity Products: 0.4592135444702168 
+Services and Utilities: 7.733921664344738 
+ 
+increase Precious Stones	 in Brazil by 5875580291.448528 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.601590712523658 
+Raw Manufacturing: 12.354119284755232 
+Wood Products: 0 
+Clothing and Accessories: 21.771981795437924 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.8759777646637246 
+Weapons: 0 
+Daily Instruments: 4.03982052045585 
+Precious Stones	: 0 
+High-complexity Products: 0.2555132866586384 
+Services and Utilities: 5.769190652695497 
+ 
+increase Clothing and Accessories in Brazil by 8210080887.005856 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.484893677891359 
+Raw Manufacturing: 14.385310338278515 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.6733865895212042 
+Weapons: 0 
+Daily Instruments: 3.699596863753009 
+Precious Stones	: 0 
+High-complexity Products: 0.01748750972694998 
+Services and Utilities: 4.440259930750799 
+ 
+increase Raw Manufacturing in Brazil by 8329987277.749191 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.5230749627132703 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.08570053488249162 
+Weapons: 0 
+Daily Instruments: 1.8646678372101393 
+Precious Stones	: 0 
+High-complexity Products: -0.6148941610130699 
+Services and Utilities: 2.6837536516688396 
+ 
+increase Chemical Manufacturing in Brazil by 19419639324.959145 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 187.81258215224008 
+Machinery and Construction: 0 
+Transportation: -0.021149377199202738 
+Weapons: 0 
+Daily Instruments: 0.22716783538999355 
+Precious Stones	: 0 
+High-complexity Products: -1.5171753134474049 
+Services and Utilities: -1.2155892905430132 
+ 
+increase Metals in Brazil by 719579145.2631416 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 43635.210362713726 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.19167391984769766 
+Weapons: 0 
+Daily Instruments: -0.6596692361448311 
+Precious Stones	: 0 
+High-complexity Products: -1.939442336429537 
+Services and Utilities: -3.1688535658133126 
+ 
+increase Textile in Brazil by 6296934.291862488 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.299180749684214 
+Weapons: 0 
+Daily Instruments: -0.5146165364031531 
+Precious Stones	: 0 
+High-complexity Products: -1.9833721597493288 
+Services and Utilities: -3.3594486678662774 
+ 
+Brazil completed

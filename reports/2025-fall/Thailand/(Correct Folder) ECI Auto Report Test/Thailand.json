@@ -1,0 +1,18 @@
+{
+    "[Country]": "Thailand",
+    "[Category]": "emerging",
+    "[GDP growth rate]": "-1.0",
+    "[GDP growth quality]": "low",
+    "[ECI growth quality]": "decreased",
+    "[Industry development]": "regressed",
+    "[SOI quartile]": "top",
+    "[SOI quality]": "high",
+    "[SOI]": 0.17907309655285708,
+    "[R^2]": 0.012326746018551216,
+    "[R^2 adj]": 0.003662945545029661,
+    "[F-Stat]": 1.422787384846241,
+    "[Prob]": 0.23542189042438527,
+    "[nobs]": 116.0,
+    "[Overall quality]": "negative",
+    "[Strategy quality]": "declining"
+}

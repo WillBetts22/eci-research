@@ -1,0 +1,20 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: -1.2625266529620636 
+Food and Preparations: 0 
+Energy Drilling and Mining: -0.04838792489464898 
+Chemicals: -18.248454241165767 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -10.054736010753082 
+Wood Products: -31.962629965630043 
+Clothing and Accessories: 0 
+Textile: -1.9758856097607682 
+Metals: -28.559049173665585 
+Machinery and Construction: 0 
+Transportation: -1.9209793448133452 
+Weapons: -454.285405136545 
+Daily Instruments: 0 
+Precious Stones	: -2.8100367664302173 
+High-complexity Products: 0 
+Services and Utilities: 0 
+ 
+Denmark completed

@@ -1,0 +1,230 @@
+Before Iteration: Animals and By-products: 24.831830116228577 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.4877827808213968 
+Chemicals: 0 
+Chemical Manufacturing: 2.7664667775692235 
+Raw Manufacturing: 0 
+Wood Products: 0.06892159879167117 
+Clothing and Accessories: 0 
+Textile: 31.41627263993595 
+Metals: -7.517512725076243 
+Machinery and Construction: 37.18932957494875 
+Transportation: 0 
+Weapons: 896.476648904749 
+Daily Instruments: 0 
+Precious Stones	: 2.0002469247175116 
+High-complexity Products: 0.3742395638881907 
+Services and Utilities: 5.1348172312971085 
+ 
+increase Weapons in Tunisia by 1347275.1297568455 USD 
+Iteration 1:  
+Animals and By-products: 38.41898925562807 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.4931297682771234 
+Chemicals: 0 
+Chemical Manufacturing: 1.8930213334476158 
+Raw Manufacturing: 0 
+Wood Products: 4.72499655672067 
+Clothing and Accessories: 0 
+Textile: 47.25794560159556 
+Metals: -6.255435112604789 
+Machinery and Construction: 20.717730070199167 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 3.3945251920126975 
+High-complexity Products: -0.20835541050485018 
+Services and Utilities: 2.4637108690229703 
+ 
+increase Textile in Tunisia by 46728548.138530165 USD 
+Iteration 2:  
+Animals and By-products: 85.9149159063065 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.3756369267192925 
+Chemicals: 0 
+Chemical Manufacturing: 2.8342183343211778 
+Raw Manufacturing: 0 
+Wood Products: 20.749908368279545 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 1.8324948035197284 
+Machinery and Construction: 37.072609211751605 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 8.139580184082774 
+High-complexity Products: -0.2747118938223153 
+Services and Utilities: 2.23303561873261 
+ 
+increase Animals and By-products in Tunisia by 44004014.683531344 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 12.843646927428873 
+Chemicals: 0 
+Chemical Manufacturing: 5.087756968323567 
+Raw Manufacturing: 402.97262157348183 
+Wood Products: 37.891617709361135 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 9.346325123141161 
+Machinery and Construction: 81.41803156594072 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 10.541437336574141 
+High-complexity Products: 0.22805877700531288 
+Services and Utilities: 2.813019963423389 
+ 
+increase Raw Manufacturing in Tunisia by 4104287.9208774567 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 14.047990501934736 
+Chemicals: 0 
+Chemical Manufacturing: 3.4179485380466015 
+Raw Manufacturing: 0 
+Wood Products: 39.15670791492477 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.895403820684365 
+Machinery and Construction: 43.6397929831184 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 11.91729232669963 
+High-complexity Products: -0.4568752291456711 
+Services and Utilities: 1.0478289796122662 
+ 
+increase Machinery and Construction in Tunisia by 27814808.052778095 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 14.619859963376603 
+Chemicals: 0 
+Chemical Manufacturing: 0.8985087704663405 
+Raw Manufacturing: 0 
+Wood Products: 34.40467290012073 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.2636485551484435 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 12.092751179713165 
+High-complexity Products: -1.6011197445796777 
+Services and Utilities: -3.248060933481445 
+ 
+increase Wood Products in Tunisia by 93640547.6829601 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 17.18678651808206 
+Chemicals: 0 
+Chemical Manufacturing: 0.30892028217756135 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.463017526145741 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 13.853862802808587 
+High-complexity Products: -2.045609366209875 
+Services and Utilities: -4.756041576926763 
+ 
+increase Energy Drilling and Mining in Tunisia by 649883191.5690651 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.9383423203453332 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 17.035929419653733 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 20.914326045217468 
+High-complexity Products: -2.032204704082279 
+Services and Utilities: -5.281364047143239 
+ 
+increase Precious Stones	 in Tunisia by 630767704.8363088 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.796961397210667 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 19.467321404091155 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.1111027810895986 
+Services and Utilities: -6.715172617750963 
+ 
+increase Metals in Tunisia by 324784487.29243636 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.8612073672129752 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.5828838396894795 
+Services and Utilities: -8.903619899105742 
+ 
+increase Chemical Manufacturing in Tunisia by 688994744.6949384 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0 
+Weapons: 0 
+Daily Instruments: -1166.96201582146 
+Precious Stones	: 0 
+High-complexity Products: -2.9072227943383955 
+Services and Utilities: -8.788501301671054 
+ 
+Tunisia completed

@@ -1,0 +1,22 @@
+# secrets
+.env
+*.env
+!.env.example
+
+# never commit personal data
+*Roster*.xlsx
+*Interest Form*
+*Responses*.xlsx
+**/File responses/
+
+# local runs
+reports/**/_work/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+~$*
+.claude/settings.local.json

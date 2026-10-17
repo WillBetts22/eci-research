@@ -1,0 +1,146 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 107.29578420574956 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 46.04445457547069 
+Wood Products: 32.71353250343886 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 170.97582038126112 
+Transportation: 2.560607502985962 
+Weapons: 3021.654341169587 
+Daily Instruments: 7.973948900714842 
+Precious Stones	: 0 
+High-complexity Products: 2.4818170099286583 
+Services and Utilities: 9.575550383326975 
+ 
+increase Weapons in India by 48987000.52436 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 113.32409127765581 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 45.74544430196714 
+Wood Products: 35.05390752032504 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 156.5429790938929 
+Transportation: 2.0948523650853144 
+Weapons: 0 
+Daily Instruments: 6.352569548022075 
+Precious Stones	: 0 
+High-complexity Products: 0.9814594654784978 
+Services and Utilities: 6.594738664111875 
+ 
+increase Machinery and Construction in India by 762588750.3603766 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 112.42001423045278 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 37.70826482491887 
+Wood Products: 33.68891132715662 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.1102846743256531 
+Weapons: 0 
+Daily Instruments: 3.312809985229891 
+Precious Stones	: 0 
+High-complexity Products: -1.8170597965161528 
+Services and Utilities: 2.3081138589719408 
+ 
+increase Food and Preparations in India by 2591337386.961239 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 39.427185449195974 
+Wood Products: 40.552394488052784 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9476160199066758 
+Weapons: 0 
+Daily Instruments: 3.18540524991481 
+Precious Stones	: 0 
+High-complexity Products: -2.4708250177503337 
+Services and Utilities: 0.17851812847203485 
+ 
+increase Wood Products in India by 5130004395.881817 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 40.970933261754155 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.6115246579685882 
+Weapons: 0 
+Daily Instruments: 2.2335623285173125 
+Precious Stones	: 0 
+High-complexity Products: -3.5086744173285833 
+Services and Utilities: -1.3843840728228636 
+ 
+increase Raw Manufacturing in India by 3791827265.4728165 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 207.96213481890527 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.02776509659933549 
+Weapons: 0 
+Daily Instruments: 3.45343255375272 
+Precious Stones	: 0 
+High-complexity Products: -1.371602838898072 
+Services and Utilities: 2.9269051157266714 
+ 
+increase Chemical Manufacturing in India by 456567192.29597473 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.3747842139668462 
+Weapons: 0 
+Daily Instruments: -0.8394356772233045 
+Precious Stones	: 0 
+High-complexity Products: -4.727226718481859 
+Services and Utilities: -3.951701671224255 
+ 
+India completed

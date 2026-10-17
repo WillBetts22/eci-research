@@ -1,0 +1,398 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.098576403644236 
+Chemicals: 10.781703394582111 
+Chemical Manufacturing: 5.8299893049418 
+Raw Manufacturing: 0 
+Wood Products: 18.87121241388467 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 12.333066263470725 
+Machinery and Construction: 90.0760085762569 
+Transportation: 1.3066904855895478 
+Weapons: 0 
+Daily Instruments: 15.946072394310487 
+Precious Stones	: 9.89806809718763 
+High-complexity Products: 1.821716093489969 
+Services and Utilities: 15.06723623178928 
+ 
+increase Machinery and Construction in Pakistan by 92600076.86485916 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.334267101871062 
+Chemicals: 9.919983533669253 
+Chemical Manufacturing: 4.591009600776458 
+Raw Manufacturing: 0 
+Wood Products: 17.439527544656645 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 9.865780615935652 
+Machinery and Construction: 0 
+Transportation: 0.7706338427659171 
+Weapons: 0 
+Daily Instruments: 10.414359838976297 
+Precious Stones	: 10.084435866981885 
+High-complexity Products: 1.0568188533059202 
+Services and Utilities: 10.917552931126549 
+ 
+increase Wood Products in Pakistan by 407543779.85527027 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.345447876558339 
+Chemicals: 9.77428133803927 
+Chemical Manufacturing: 4.290568615052667 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 11.89137273402353 
+Machinery and Construction: 0 
+Transportation: 0.5781287351219372 
+Weapons: 0 
+Daily Instruments: 8.489915189185886 
+Precious Stones	: 11.723506952809938 
+High-complexity Products: 0.7492952425609046 
+Services and Utilities: 9.433170222885119 
+ 
+increase Metals in Pakistan by 452228667.0202954 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.134538722764107 
+Chemicals: 10.326934541896419 
+Chemical Manufacturing: 4.572736335720337 
+Raw Manufacturing: 178.92667451182479 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9299336370786911 
+Weapons: 0 
+Daily Instruments: 10.488703366591764 
+Precious Stones	: 12.334594675637033 
+High-complexity Products: 0.8574148750273387 
+Services and Utilities: 9.06397144372522 
+ 
+increase Raw Manufacturing in Pakistan by 41388658.55939555 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.675515529807255 
+Chemicals: 9.104987736347624 
+Chemical Manufacturing: 3.735604034644741 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.36896108124070526 
+Weapons: 0 
+Daily Instruments: 6.245012321337217 
+Precious Stones	: 13.603061088183914 
+High-complexity Products: 0.3862103918016907 
+Services and Utilities: 7.301271557251068 
+ 
+increase Precious Stones	 in Pakistan by 1018422976.6432984 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.860315144624105 
+Chemicals: 10.101805166522771 
+Chemical Manufacturing: 4.295135164632795 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.36481808718384034 
+Weapons: 0 
+Daily Instruments: 6.8296531714385535 
+Precious Stones	: 0 
+High-complexity Products: 0.3130282738224736 
+Services and Utilities: 6.029262077134917 
+ 
+increase Chemicals in Pakistan by 805439691.8886284 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 9.291179437301441 
+Chemicals: 0 
+Chemical Manufacturing: 2.843488337599945 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.06589934450017099 
+Weapons: 0 
+Daily Instruments: 3.1049517161562874 
+Precious Stones	: 0 
+High-complexity Products: -0.39768155028095964 
+Services and Utilities: 3.047785097989417 
+ 
+increase Energy Drilling and Mining in Pakistan by 3339112486.601979 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.5995670230085914 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.04089064963320174 
+Weapons: 0 
+Daily Instruments: 3.7974558811122634 
+Precious Stones	: 0 
+High-complexity Products: -0.435796904810336 
+Services and Utilities: 2.5145801108190757 
+ 
+increase Daily Instruments in Pakistan by 938178281.1345024 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.642975719620841 
+Raw Manufacturing: 0 
+Wood Products: 740.1116560047886 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 570.7174670113782 
+Machinery and Construction: 1863.445500804523 
+Transportation: 0.0952469788552879 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0.3022344551512527 
+Services and Utilities: 4.768512530152875 
+ 
+increase Machinery and Construction in Pakistan by 4205816.106574595 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.479975630590058 
+Raw Manufacturing: 0 
+Wood Products: 683.8453255456049 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 469.39049206303935 
+Machinery and Construction: 0 
+Transportation: -0.4387691983514246 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.4654879272474286 
+Services and Utilities: 0.4860724735025212 
+ 
+increase Wood Products in Pakistan by 21264743.81742549 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.21683772420184 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 352.01356082830205 
+Machinery and Construction: 0 
+Transportation: -0.6264947780426294 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.7718456428670651 
+Services and Utilities: -1.031917865627757 
+ 
+increase Metals in Pakistan by 38112807.188010216 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.506960284010784 
+Raw Manufacturing: 1328.1279467239785 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2887409114277983 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.6610517973591865 
+Services and Utilities: -1.3836845671600217 
+ 
+increase Raw Manufacturing in Pakistan by 7114156.162171841 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.1975249885428474 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.8225605373846279 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 5780.21563644924 
+High-complexity Products: -1.0502582646863958 
+Services and Utilities: -1.8233097746265778 
+ 
+increase Precious Stones	 in Pakistan by 5045739.944971085 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.7433153491678972 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.8292231427594725 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.1285051961685497 
+Services and Utilities: -3.189787368940155 
+ 
+increase Chemical Manufacturing in Pakistan by 2283942705.531557 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 507.1758914645412 
+Energy Drilling and Mining: 509.48931729263495 
+Chemicals: 90.1182976729641 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.5548819789131608 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.1859106046358685 
+Services and Utilities: -3.6278063995046566 
+ 
+increase Energy Drilling and Mining in Pakistan by 66826786.92236805 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 286.08830460418375 
+Energy Drilling and Mining: 0 
+Chemicals: 77.55360857937352 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2513121144956872 
+Weapons: 19098.843096765762 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.8099050866070303 
+Services and Utilities: -1.3216939421319909 
+ 
+increase Weapons in Pakistan by 619998.2648015916 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 298.0739186932461 
+Energy Drilling and Mining: 0 
+Chemicals: 68.39900481828074 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.5203317737303144 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.2212006551392611 
+Services and Utilities: -4.149914658267626 
+ 
+increase Food and Preparations in Pakistan by 106149498.99592996 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 61.08043248814818 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.5887870670841207 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.407312873597673 
+Services and Utilities: -5.952610299837244 
+ 
+increase Chemicals in Pakistan by 111484842.75994205 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.0120377367818212 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.109500955684907 
+Services and Utilities: -8.96989492529616 
+ 
+Pakistan completed

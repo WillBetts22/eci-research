@@ -1,0 +1,8 @@
+Tunisia
+2.8
+Morocco
+1.42
+Senegal
+4.4
+Libya
+-8.11

@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 47.465057192686785 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 152.05877928805796 
+Chemical Manufacturing: 9.583575082676738 
+Raw Manufacturing: 8.50482312382691 
+Wood Products: 0 
+Clothing and Accessories: 12.052792405990129 
+Textile: 48.63771821949459 
+Metals: 0 
+Machinery and Construction: 132.044943367775 
+Transportation: 3.3686689088146293 
+Weapons: 0 
+Daily Instruments: 8.06738923559338 
+Precious Stones	: 0 
+High-complexity Products: 4.752139149664406 
+Services and Utilities: 14.15263714856026 
+ 
+increase Chemicals in South Africa by 267540160.33814526 USD 
+Iteration 1:  
+Animals and By-products: 30.229399437407665 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 2105.302546391748 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.227519950714225 
+Raw Manufacturing: 6.210512797721209 
+Wood Products: 0 
+Clothing and Accessories: 7.92275302607232 
+Textile: 33.60016242577024 
+Metals: 0 
+Machinery and Construction: 119.56588377358504 
+Transportation: 2.6803810263245227 
+Weapons: 0 
+Daily Instruments: 6.393015014116276 
+Precious Stones	: 0 
+High-complexity Products: 3.3473446977394286 
+Services and Utilities: 13.014253716635395 
+ 
+increase Food and Preparations in South Africa by 16942558.910736084 USD 
+Iteration 2:  
+Animals and By-products: 47.87267080858016 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.3797773875148565 
+Raw Manufacturing: 7.414842004684869 
+Wood Products: 0 
+Clothing and Accessories: 12.056089833225426 
+Textile: 49.880596411558024 
+Metals: 0 
+Machinery and Construction: 120.36542645358419 
+Transportation: 2.511999427104961 
+Weapons: 0 
+Daily Instruments: 6.3183181473276955 
+Precious Stones	: 0 
+High-complexity Products: 2.818037190498794 
+Services and Utilities: 11.242255490705144 
+ 
+increase Machinery and Construction in South Africa by 282484019.3661109 USD 
+Iteration 3:  
+Animals and By-products: 48.74365576538177 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.563867151997134 
+Raw Manufacturing: 5.523428824816679 
+Wood Products: 0 
+Clothing and Accessories: 11.870126115480126 
+Textile: 53.748532162684256 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.4520572568700227 
+Weapons: 0 
+Daily Instruments: 4.01289423774306 
+Precious Stones	: 0 
+High-complexity Products: 0.8665293186590558 
+Services and Utilities: 6.984227323583126 
+ 
+increase Textile in South Africa by 811847357.7628887 USD 
+Iteration 4:  
+Animals and By-products: 60.092836942650166 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.175707431197994 
+Raw Manufacturing: 8.502020443202172 
+Wood Products: 0 
+Clothing and Accessories: 18.162562726165078 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.3350921340856625 
+Weapons: 0 
+Daily Instruments: 4.2768312037777365 
+Precious Stones	: 0 
+High-complexity Products: 0.7400579094567897 
+Services and Utilities: 6.729564380334055 
+ 
+increase Animals and By-products in South Africa by 1305557709.2623506 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.564696315199875 
+Raw Manufacturing: 9.890343064815724 
+Wood Products: 0 
+Clothing and Accessories: 22.69116059971871 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.2466683591621879 
+Weapons: 0 
+Daily Instruments: 4.394356937997373 
+Precious Stones	: 0 
+High-complexity Products: 0.4121713834608563 
+Services and Utilities: 5.5135383282613635 
+ 
+increase Clothing and Accessories in South Africa by 3036312237.853332 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.81573712689967 
+Raw Manufacturing: 10.720297863169565 
+Wood Products: 1945.4728856950594 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.3099727845539244 
+Weapons: 0 
+Daily Instruments: 4.752749233884879 
+Precious Stones	: 0 
+High-complexity Products: 0.7832895617601559 
+Services and Utilities: 5.8538382641999425 
+ 
+increase Wood Products in South Africa by 28810894.459187984 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.343881563089031 
+Raw Manufacturing: 11.107170429106022 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9298880374447209 
+Weapons: 0 
+Daily Instruments: 4.010679113810605 
+Precious Stones	: 0 
+High-complexity Products: 0.044236921067340326 
+Services and Utilities: 4.280241385242724 
+ 
+increase Raw Manufacturing in South Africa by 4006892467.8963375 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.14715596748162 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.0368390393333757 
+Weapons: 0 
+Daily Instruments: 2.2977290117819487 
+Precious Stones	: 0 
+High-complexity Products: -0.9467394347623959 
+Services and Utilities: 2.5284538307352245 
+ 
+increase Chemical Manufacturing in South Africa by 5593212408.734419 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.3476327591220087 
+Weapons: 0 
+Daily Instruments: -0.10451129217329369 
+Precious Stones	: 0 
+High-complexity Products: -2.9269761585675 
+Services and Utilities: -3.2948363591289946 
+ 
+South Africa completed

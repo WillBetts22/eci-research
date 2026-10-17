@@ -1,0 +1,188 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.6529330610661415 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 73.70635681435216 
+Metals: 0 
+Machinery and Construction: -144.46201548557545 
+Transportation: -5.764893661897144 
+Weapons: 0 
+Daily Instruments: -19.183689667230993 
+Precious Stones	: 22.036123021927427 
+High-complexity Products: 0 
+Services and Utilities: -45.44320134262894 
+ 
+increase Textile in France by 3721525036.99446 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 9.244871691055716 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -108.5167763690473 
+Transportation: -6.02764839580016 
+Weapons: 0 
+Daily Instruments: -17.201528569886715 
+Precious Stones	: 31.40676573481162 
+High-complexity Products: 0 
+Services and Utilities: -45.380598552501866 
+ 
+increase Precious Stones	 in France by 10727445815.345596 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 11.403398667747867 
+Chemicals: 89.02638386905642 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -40.77362980551916 
+Transportation: -1.523894290171841 
+Weapons: 0 
+Daily Instruments: -5.138042157534373 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -37.73543212399444 
+ 
+increase Chemicals in France by 290049407.4544411 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 8.972272191143992 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 12211.02932816111 
+Textile: 0 
+Metals: 1972.4355604910209 
+Machinery and Construction: -18.61896577292341 
+Transportation: -2.0454144818710938 
+Weapons: 0 
+Daily Instruments: -8.120673723262886 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -36.25950727381515 
+ 
+increase Clothing and Accessories in France by 22843401.646816254 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 10.064314676190461 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 508.91255309564605 
+Machinery and Construction: 302.3521856632859 
+Transportation: 4.011774969347986 
+Weapons: 0 
+Daily Instruments: 8.982177328505387 
+Precious Stones	: 0 
+High-complexity Products: -9.669589351635002 
+Services and Utilities: 12.728859265206491 
+ 
+increase Metals in France by 369412548.46321106 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 10.46345442405947 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 3125.8475256466736 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 273.64611461555074 
+Transportation: 3.5557941156569317 
+Weapons: 0 
+Daily Instruments: 8.27201645780876 
+Precious Stones	: 0 
+High-complexity Products: -5.078940316885806 
+Services and Utilities: 10.32027023447645 
+ 
+increase Wood Products in France by 79388772.89012146 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 11.668206029149363 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 241.6985124505601 
+Transportation: 2.26053243943001 
+Weapons: 0 
+Daily Instruments: 5.509354917730192 
+Precious Stones	: 0 
+High-complexity Products: -14.503910699856721 
+Services and Utilities: 5.842322802728238 
+ 
+increase Machinery and Construction in France by 564863373.4211035 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 11.944630117378793 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.0392234011514543 
+Weapons: 0 
+Daily Instruments: -2.873340943907429 
+Precious Stones	: 0 
+High-complexity Products: -40.470294140300865 
+Services and Utilities: -6.578500835655316 
+ 
+increase Energy Drilling and Mining in France by 60666365833.64082 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.6365554414461145 
+Weapons: 0 
+Daily Instruments: -0.32867010713847095 
+Precious Stones	: 0 
+High-complexity Products: -9.828388843312112 
+Services and Utilities: -7.322174244233893 
+ 
+France completed

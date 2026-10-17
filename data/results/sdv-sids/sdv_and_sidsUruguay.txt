@@ -1,0 +1,377 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.6392759935005983 
+Chemicals: 13.629587574526452 
+Chemical Manufacturing: 10.786781081195924 
+Raw Manufacturing: 9335.589767552807 
+Wood Products: 0 
+Clothing and Accessories: 8.820185263406199 
+Textile: 0 
+Metals: 2.9994179663110754 
+Machinery and Construction: 105.96623124809155 
+Transportation: 2.6211197103974024 
+Weapons: 488.6249118680908 
+Daily Instruments: 8.092132704732105 
+Precious Stones	: 6.309718242322689 
+High-complexity Products: 3.0859439563948867 
+Services and Utilities: 18.6233423655696 
+ 
+increase Raw Manufacturing in Uruguay by 305315.65440654755 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.1418766485972216 
+Chemicals: 12.409640368208619 
+Chemical Manufacturing: 9.459531613546034 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 10.321960684428108 
+Textile: 0 
+Metals: 3.040404932508657 
+Machinery and Construction: 90.48421902999745 
+Transportation: 1.9466942463761534 
+Weapons: 485.5348077439237 
+Daily Instruments: 6.58579521688373 
+Precious Stones	: 7.678627228806624 
+High-complexity Products: 2.5347670640905338 
+Services and Utilities: 17.073502128455047 
+ 
+increase Weapons in Uruguay by 5676339.4564001495 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.7050244697410752 
+Chemicals: 11.745337826494097 
+Chemical Manufacturing: 8.809293925473833 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 11.471328706490063 
+Textile: 0 
+Metals: 3.3160675058974003 
+Machinery and Construction: 83.59317818044171 
+Transportation: 1.6355195584637483 
+Weapons: 0 
+Daily Instruments: 5.602371906822446 
+Precious Stones	: 9.076715229890862 
+High-complexity Products: 2.0640854838054667 
+Services and Utilities: 14.541506185619681 
+ 
+increase Machinery and Construction in Uruguay by 36812814.32539367 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.913371068702607 
+Chemicals: 10.805215627854386 
+Chemical Manufacturing: 6.831199733399655 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 11.318362552931298 
+Textile: 0 
+Metals: 2.6462809283569557 
+Machinery and Construction: 0 
+Transportation: 0.9584956565230952 
+Weapons: 0 
+Daily Instruments: 3.62206110844925 
+Precious Stones	: 9.272530888572042 
+High-complexity Products: 1.1244996995618286 
+Services and Utilities: 10.484080407415359 
+ 
+increase Clothing and Accessories in Uruguay by 312133597.52941984 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 4.716562988228177 
+Chemicals: 10.78860791842215 
+Chemical Manufacturing: 6.56788562734235 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.6462534926883823 
+Machinery and Construction: 0 
+Transportation: 0.7657379407578078 
+Weapons: 0 
+Daily Instruments: 3.322045573315809 
+Precious Stones	: 12.43426430687627 
+High-complexity Products: 0.9324712557455981 
+Services and Utilities: 9.326294308181621 
+ 
+increase Precious Stones	 in Uruguay by 360651384.23445046 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.717053956359484 
+Chemicals: 11.825245252083649 
+Chemical Manufacturing: 7.214254803224022 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.922385877891021 
+Machinery and Construction: 0 
+Transportation: 0.7531008197060113 
+Weapons: 0 
+Daily Instruments: 3.723861603640816 
+Precious Stones	: 0 
+High-complexity Products: 0.8335268703821456 
+Services and Utilities: 8.08054566015944 
+ 
+increase Chemicals in Uruguay by 277848627.8815938 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.134045276552283 
+Chemicals: 0 
+Chemical Manufacturing: 4.922731164979636 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.550799160261809 
+Machinery and Construction: 0 
+Transportation: 0.2219979397847074 
+Weapons: 0 
+Daily Instruments: 2.165189308207876 
+Precious Stones	: 0 
+High-complexity Products: -0.02430996821246476 
+Services and Utilities: 5.170217942320502 
+ 
+increase Energy Drilling and Mining in Uruguay by 1384109189.019702 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.620766351340551 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.156750543472992 
+Machinery and Construction: 0 
+Transportation: 0.23714340302661882 
+Weapons: 0 
+Daily Instruments: 2.6770981658581885 
+Precious Stones	: 0 
+High-complexity Products: -0.06183789459687605 
+Services and Utilities: 4.704954356784556 
+ 
+increase Metals in Uruguay by 736752171.5053654 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.299027187300525 
+Raw Manufacturing: 111.80879327208903 
+Wood Products: 0 
+Clothing and Accessories: 412.1166941372191 
+Textile: 2247.163503443531 
+Metals: 0 
+Machinery and Construction: 2674.2448737896707 
+Transportation: 1.7934718732567705 
+Weapons: 17739.624491147413 
+Daily Instruments: 6.522881220758715 
+Precious Stones	: 0 
+High-complexity Products: 1.5880167658828928 
+Services and Utilities: 12.457119830427535 
+ 
+increase Weapons in Uruguay by 262338.9856748814 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 6.775433570538952 
+Raw Manufacturing: 110.62025739227923 
+Wood Products: 0 
+Clothing and Accessories: 447.506607286062 
+Textile: 2465.639395170072 
+Metals: 0 
+Machinery and Construction: 2454.766197000611 
+Transportation: 1.4956646478413431 
+Weapons: 0 
+Daily Instruments: 5.541475162981555 
+Precious Stones	: 0 
+High-complexity Products: 1.1492787968126272 
+Services and Utilities: 9.890244264247052 
+ 
+increase Textile in Uruguay by 2510570.9643027484 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 7.283541058438166 
+Raw Manufacturing: 136.4629587595473 
+Wood Products: 0 
+Clothing and Accessories: 550.3976338673504 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 2419.7383486627436 
+Transportation: 1.422518235767706 
+Weapons: 0 
+Daily Instruments: 5.739204670185789 
+Precious Stones	: 0 
+High-complexity Products: 1.0924983063999243 
+Services and Utilities: 9.62849786610696 
+ 
+increase Machinery and Construction in Uruguay by 1849229.2632833794 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.020711644595035 
+Raw Manufacturing: 95.99506802532065 
+Wood Products: 0 
+Clothing and Accessories: 429.8271659602205 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.8006600456845555 
+Weapons: 0 
+Daily Instruments: 3.422223127547833 
+Precious Stones	: 16350.816082825846 
+High-complexity Products: 0.30423779665192474 
+Services and Utilities: 6.772943883455369 
+ 
+increase Precious Stones	 in Uruguay by 517518.5933981538 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.705771332852213 
+Raw Manufacturing: 96.01799946634459 
+Wood Products: 0 
+Clothing and Accessories: 415.8727578115524 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.785481428500086 
+Weapons: 0 
+Daily Instruments: 3.7941454573834346 
+Precious Stones	: 0 
+High-complexity Products: 0.21701331383666642 
+Services and Utilities: 5.491033073593098 
+ 
+increase Clothing and Accessories in Uruguay by 18866197.340739846 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.631971727269426 
+Raw Manufacturing: 96.51669579262445 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.6063330740586461 
+Weapons: 0 
+Daily Instruments: 3.491704368138004 
+Precious Stones	: 0 
+High-complexity Products: 0.045349663343729384 
+Services and Utilities: 4.296910825244235 
+ 
+increase Raw Manufacturing in Uruguay by 51519025.92001879 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.660102236731626 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.00843803121356577 
+Weapons: 0 
+Daily Instruments: 2.0380965393656583 
+Precious Stones	: 0 
+High-complexity Products: -0.46767913059740973 
+Services and Utilities: 2.599279540530199 
+ 
+increase Chemical Manufacturing in Uruguay by 671507433.8213861 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 275.54343372861047 
+Chemicals: 122.4635939727947 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.24881188008129831 
+Weapons: 0 
+Daily Instruments: 0.8981017056582961 
+Precious Stones	: 0 
+High-complexity Products: -0.7493509230785126 
+Services and Utilities: 0.3640678916089271 
+ 
+increase Energy Drilling and Mining in Uruguay by 56555170.36427355 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 90.43840645179341 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.27136967003526025 
+Weapons: 0 
+Daily Instruments: 1.439948280279798 
+Precious Stones	: 0 
+High-complexity Products: -0.7816809007518069 
+Services and Utilities: -0.1214368785349889 
+ 
+increase Chemicals in Uruguay by 42654399.8678835 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.21808318396049695 
+Weapons: 0 
+Daily Instruments: -0.04927894699030456 
+Precious Stones	: 0 
+High-complexity Products: -1.5692185107649326 
+Services and Utilities: -3.0716896584432254 
+ 
+Uruguay completed

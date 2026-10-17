@@ -1,0 +1,23 @@
+# Analysis notebook (code/current/) and scripts/
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+plotly>=5.3,<6
+kaleido==0.2.1        # write_image needs 0.2.1
+dataframe_image
+xlwt
+openpyxl
+tqdm
+# scripts/run_notebook.py
+nbformat
+nbclient
+ipykernel
+# scripts/docx_to_md.py
+python-docx
+# data retrieval (data team)
+comtradeapicall
+requests

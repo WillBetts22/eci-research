@@ -1,0 +1,167 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 69.44918689508216 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 24.59257092441929 
+Clothing and Accessories: 13.736760508223867 
+Textile: 69.4577825562873 
+Metals: 0 
+Machinery and Construction: -8.69730686839315 
+Transportation: 0.12440448323995569 
+Weapons: 279.98817102601123 
+Daily Instruments: -0.8775200563744555 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -9.197265385628713 
+ 
+increase Weapons in Belgium by 226151991.37504286 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 76.53857206219368 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 29.198564020950407 
+Clothing and Accessories: 16.351971288760584 
+Textile: 80.58182400783653 
+Metals: 0 
+Machinery and Construction: -18.13038976552551 
+Transportation: -0.31633802049805354 
+Weapons: 0 
+Daily Instruments: -2.4936219078346182 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -12.138646381669048 
+ 
+increase Textile in Belgium by 2061590403.4204092 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 99.03026083979744 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 43.6049575216053 
+Clothing and Accessories: 27.604388428272454 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -9.596219607797279 
+Transportation: -0.4225084089949461 
+Weapons: 0 
+Daily Instruments: -2.099099605629162 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -12.334518151922484 
+ 
+increase Vegetables, Fruits and Plants in Belgium by 3611620908.3093987 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 53.06495235283318 
+Clothing and Accessories: 32.954136502621814 
+Textile: 0 
+Metals: 474.8369901439224 
+Machinery and Construction: 11.072667545698042 
+Transportation: -0.1339146029515854 
+Weapons: 0 
+Daily Instruments: -0.7414880150148948 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -10.989458947226087 
+ 
+increase Metals in Belgium by 240588812.6991043 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 57.00967697981847 
+Clothing and Accessories: 36.402045617880056 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -3.2994920590887182 
+Transportation: -0.4521583181153961 
+Weapons: 0 
+Daily Instruments: -1.6448352927051684 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -13.44936003739184 
+ 
+increase Wood Products in Belgium by 3034433853.3553047 USD 
+Iteration 5:  
+Animals and By-products: 20184.64430807862 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 31.74075653961574 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -16.729275443470648 
+Transportation: -0.7237478334238026 
+Weapons: 0 
+Daily Instruments: -2.787921606414307 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -13.751284365567637 
+ 
+increase Animals and By-products in Belgium by 17838218.247264862 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 39.77866838983638 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -13.385657526055676 
+Transportation: -0.7841319061845854 
+Weapons: 0 
+Daily Instruments: -2.598334906602804 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -15.091305788459579 
+ 
+increase Clothing and Accessories in Belgium by 7610749356.968994 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -14.989504721117846 
+Transportation: -1.0371540623350133 
+Weapons: 0 
+Daily Instruments: -3.08859313458115 
+Precious Stones	: 0 
+High-complexity Products: 0 
+Services and Utilities: -16.419665142506776 
+ 
+Belgium completed

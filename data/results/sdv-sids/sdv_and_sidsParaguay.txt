@@ -1,0 +1,209 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.144440954953094 
+Chemical Manufacturing: 8.903107937428944 
+Raw Manufacturing: 9.099642148871432 
+Wood Products: 780.2737576869978 
+Clothing and Accessories: 31.555879834389895 
+Textile: 0 
+Metals: 7.601865894541203 
+Machinery and Construction: 0 
+Transportation: 1.9911284844489874 
+Weapons: 524.427648147336 
+Daily Instruments: 7.368098822504366 
+Precious Stones	: 11.417177948431403 
+High-complexity Products: 2.090047795938782 
+Services and Utilities: 15.430145060212585 
+ 
+increase Wood Products in Paraguay by 3067586.02161479 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.041409051804772 
+Chemical Manufacturing: 8.517615481035829 
+Raw Manufacturing: 9.573014052306457 
+Wood Products: 0 
+Clothing and Accessories: 37.25321859003291 
+Textile: 0 
+Metals: 8.905524779050403 
+Machinery and Construction: 0 
+Transportation: 1.7706579147113906 
+Weapons: 570.2633126376746 
+Daily Instruments: 6.771250115592732 
+Precious Stones	: 13.037690012036288 
+High-complexity Products: 1.7754793732184206 
+Services and Utilities: 14.030814476135586 
+ 
+increase Weapons in Paraguay by 4773525.417675459 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.479129385189989 
+Chemical Manufacturing: 7.977613903164598 
+Raw Manufacturing: 9.533654128262121 
+Wood Products: 0 
+Clothing and Accessories: 40.84503493561723 
+Textile: 0 
+Metals: 9.399299435369663 
+Machinery and Construction: 0 
+Transportation: 1.485128751391693 
+Weapons: 0 
+Daily Instruments: 5.772161362683884 
+Precious Stones	: 14.34858790200878 
+High-complexity Products: 1.3743448928774782 
+Services and Utilities: 11.509852784146782 
+ 
+increase Clothing and Accessories in Paraguay by 84521092.6681928 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.505251433873017 
+Chemical Manufacturing: 7.858080268984126 
+Raw Manufacturing: 10.939318284993432 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 10.98325025029721 
+Machinery and Construction: 0 
+Transportation: 1.311407138946179 
+Weapons: 0 
+Daily Instruments: 5.468382670463997 
+Precious Stones	: 17.31879879030446 
+High-complexity Products: 1.2167793100720867 
+Services and Utilities: 10.361278481758369 
+ 
+increase Precious Stones	 in Paraguay by 317613443.35286623 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.967654513456672 
+Chemical Manufacturing: 7.8136641369328785 
+Raw Manufacturing: 9.223260230756052 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1371.9403174305507 
+Metals: 10.308579863517094 
+Machinery and Construction: 0 
+Transportation: 1.3557861604202321 
+Weapons: 0 
+Daily Instruments: 5.599789245462395 
+Precious Stones	: 0 
+High-complexity Products: 1.1812472082244008 
+Services and Utilities: 9.37273671139464 
+ 
+increase Textile in Paraguay by 3582213.7350940406 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.408573657408898 
+Chemical Manufacturing: 8.352821308195931 
+Raw Manufacturing: 12.079911358776041 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 12.607658779323307 
+Machinery and Construction: 0 
+Transportation: 1.2914638246752026 
+Weapons: 0 
+Daily Instruments: 5.825501984843109 
+Precious Stones	: 0 
+High-complexity Products: 1.1306628700379004 
+Services and Utilities: 9.118675281650864 
+ 
+increase Metals in Paraguay by 305501935.3750088 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.841730688860073 
+Chemical Manufacturing: 7.503142635067289 
+Raw Manufacturing: 11.834282295310127 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.0497676076578646 
+Weapons: 0 
+Daily Instruments: 5.155636871730555 
+Precious Stones	: 0 
+High-complexity Products: 0.7543640658969779 
+Services and Utilities: 7.060492318156308 
+ 
+increase Chemicals in Paraguay by 287562837.6331619 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.618293599517425 
+Raw Manufacturing: 10.592266617308727 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.569820805969972 
+Weapons: 0 
+Daily Instruments: 3.6007138758905746 
+Precious Stones	: 0 
+High-complexity Products: 0.02019491863271588 
+Services and Utilities: 4.1686691967100735 
+ 
+increase Raw Manufacturing in Paraguay by 327644049.48825157 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.58908695432413 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.023191462739190927 
+Weapons: 0 
+Daily Instruments: 2.0952265248199664 
+Precious Stones	: 0 
+High-complexity Products: -0.4458396253039221 
+Services and Utilities: 2.487435994033088 
+ 
+increase Chemical Manufacturing in Paraguay by 494411940.6218368 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.22592071925326188 
+Weapons: 0 
+Daily Instruments: -0.035530865830095355 
+Precious Stones	: 0 
+High-complexity Products: -1.465261935913169 
+Services and Utilities: -3.117979407882207 
+ 
+Paraguay completed

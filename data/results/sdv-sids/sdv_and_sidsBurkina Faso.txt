@@ -1,0 +1,440 @@
+Before Iteration: Animals and By-products: 8.764214399696877 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.8046627973418814 
+Chemicals: 11.230836115827369 
+Chemical Manufacturing: 5.193179376236102 
+Raw Manufacturing: 5.119411462708667 
+Wood Products: 8.562712201785507 
+Clothing and Accessories: 7.606644166704632 
+Textile: 0 
+Metals: 2.4452899800943984 
+Machinery and Construction: 102.27947227450292 
+Transportation: 2.0530515893710497 
+Weapons: 0 
+Daily Instruments: 7.245677015718762 
+Precious Stones	: 0 
+High-complexity Products: 2.405185626656964 
+Services and Utilities: 17.623280658418086 
+ 
+increase Machinery and Construction in Burkina Faso by 14268734.679585379 USD 
+Iteration 1:  
+Animals and By-products: 9.288985881334005 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.035547432694199 
+Chemicals: 10.498179497155776 
+Chemical Manufacturing: 4.281993580334424 
+Raw Manufacturing: 4.046449059853953 
+Wood Products: 7.437532999938488 
+Clothing and Accessories: 7.457749483656995 
+Textile: 0 
+Metals: 1.7397928805191256 
+Machinery and Construction: 0 
+Transportation: 1.5182203394264873 
+Weapons: 0 
+Daily Instruments: 5.46563187142638 
+Precious Stones	: 0 
+High-complexity Products: 1.6752206142173436 
+Services and Utilities: 13.598944508354139 
+ 
+increase Services and Utilities in Burkina Faso by 144408889.2924126 USD 
+Iteration 2:  
+Animals and By-products: 7.29967129604391 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.9258417441839666 
+Chemicals: 6.8629541746131135 
+Chemical Manufacturing: 1.3847268393477863 
+Raw Manufacturing: 2.7912877881682636 
+Wood Products: 4.525622291265584 
+Clothing and Accessories: 6.010967252780485 
+Textile: 0 
+Metals: 0.14952038568252798 
+Machinery and Construction: 0 
+Transportation: 0.6131191727064433 
+Weapons: 0 
+Daily Instruments: 1.7466872230328059 
+Precious Stones	: 0 
+High-complexity Products: -0.307579716309945 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Burkina Faso by 84160543.7617009 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.6647796054215735 
+Chemicals: 7.36392619797683 
+Chemical Manufacturing: 1.6779759629323807 
+Raw Manufacturing: 3.70717679311289 
+Wood Products: 10.062289890459395 
+Clothing and Accessories: 9.809852229590176 
+Textile: 0 
+Metals: 1.702109103269242 
+Machinery and Construction: 0 
+Transportation: 0.5801349483912551 
+Weapons: 0 
+Daily Instruments: 1.8861331901272635 
+Precious Stones	: 0 
+High-complexity Products: -0.4256203655939025 
+Services and Utilities: 0 
+ 
+increase Wood Products in Burkina Faso by 82332871.35466531 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.772230329360317 
+Chemicals: 7.247004420565461 
+Chemical Manufacturing: 1.4609990343103905 
+Raw Manufacturing: 3.9614441800463456 
+Wood Products: 0 
+Clothing and Accessories: 11.708012735432106 
+Textile: 0 
+Metals: 2.462317497504808 
+Machinery and Construction: 0 
+Transportation: 0.37358226897223595 
+Weapons: 0 
+Daily Instruments: 1.3110013081331566 
+Precious Stones	: 0 
+High-complexity Products: -0.7241952656690469 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Burkina Faso by 132527327.51705691 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.721696059378027 
+Chemicals: 7.272886891283508 
+Chemical Manufacturing: 1.4415918196045987 
+Raw Manufacturing: 4.776259274830114 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.463713239329998 
+Machinery and Construction: 0 
+Transportation: 0.21079297135723896 
+Weapons: 0 
+Daily Instruments: 1.0036622922427962 
+Precious Stones	: 0 
+High-complexity Products: -0.867457430099124 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Burkina Faso by 437778108.75073373 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 202.64671042500643 
+Energy Drilling and Mining: 0 
+Chemicals: 8.643956290006892 
+Chemical Manufacturing: 2.0813281259528313 
+Raw Manufacturing: 5.319993207420299 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.913146827101816 
+Machinery and Construction: 0 
+Transportation: 0.30355791059261866 
+Weapons: 0 
+Daily Instruments: 1.5842804909939228 
+Precious Stones	: 0 
+High-complexity Products: -0.7121648228850419 
+Services and Utilities: 0 
+ 
+increase Food and Preparations in Burkina Faso by 14324588.044154823 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.811467553738346 
+Chemical Manufacturing: 2.1919599243563166 
+Raw Manufacturing: 6.033931429879674 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.265997930718912 
+Machinery and Construction: 0 
+Transportation: 0.2261805334232214 
+Weapons: 0 
+Daily Instruments: 1.5249371253634332 
+Precious Stones	: 0 
+High-complexity Products: -0.891449441762361 
+Services and Utilities: 0 
+ 
+increase Chemicals in Burkina Faso by 150179967.32034916 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.850340985430272 
+Raw Manufacturing: 7.7027695569228865 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.913919250515479 
+Machinery and Construction: 5295.4914125967225 
+Transportation: 1.2589399196464781 
+Weapons: 0 
+Daily Instruments: 5.65601721825616 
+Precious Stones	: 0 
+High-complexity Products: 1.120105347333641 
+Services and Utilities: 721.9146248911248 
+ 
+increase Machinery and Construction in Burkina Faso by 348469.44168209657 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.913452406963969 
+Raw Manufacturing: 6.680499374343445 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.305225475764057 
+Machinery and Construction: 0 
+Transportation: 0.7191342229219002 
+Weapons: 0 
+Daily Instruments: 3.851583275533796 
+Precious Stones	: 0 
+High-complexity Products: 0.3808622382388086 
+Services and Utilities: 408.4718405485056 
+ 
+increase Services and Utilities in Burkina Faso by 2982950.838200569 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.0400927777081714 
+Raw Manufacturing: 5.371782784316943 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.875895786186861 
+Machinery and Construction: 0 
+Transportation: -0.21853027173845005 
+Weapons: 0 
+Daily Instruments: 0.045661484917700196 
+Precious Stones	: 0 
+High-complexity Products: -1.5935557894169832 
+Services and Utilities: 0 
+ 
+increase Metals in Burkina Faso by 288505284.33475155 USD 
+Iteration 11:  
+Animals and By-products: 536.0065733880475 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.627700636864613 
+Raw Manufacturing: 3.4138911295035808 
+Wood Products: 496.00433015641516 
+Clothing and Accessories: 4714.831113417305 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.028801246948291694 
+Weapons: 0 
+Daily Instruments: 0.21274147888340716 
+Precious Stones	: 0 
+High-complexity Products: -1.374566483677297 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Burkina Faso by 408871.3296073675 USD 
+Iteration 12:  
+Animals and By-products: 564.2548819684064 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.6152606126880348 
+Raw Manufacturing: 4.2448601363982235 
+Wood Products: 466.93401103513054 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.19028913768831887 
+Weapons: 0 
+Daily Instruments: -0.085619029386325 
+Precious Stones	: 0 
+High-complexity Products: -1.5172265969183336 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Burkina Faso by 6274753.46766904 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.8776654040758011 
+Raw Manufacturing: 5.118985178862782 
+Wood Products: 530.7031066916255 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.23005115927824002 
+Weapons: 0 
+Daily Instruments: 0.016049183906943418 
+Precious Stones	: 0 
+High-complexity Products: -1.640375297936081 
+Services and Utilities: 0 
+ 
+increase Wood Products in Burkina Faso by 4334419.498494789 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.6543689250919639 
+Raw Manufacturing: 5.374228320440715 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.43636494958092165 
+Weapons: 0 
+Daily Instruments: -0.5660428701760786 
+Precious Stones	: 0 
+High-complexity Products: -1.9395988261566004 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Burkina Faso by 297297692.2098008 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 169.8425266904413 
+Chemicals: 0 
+Chemical Manufacturing: -0.6562373203304768 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.0118054207766918 
+Weapons: 0 
+Daily Instruments: -2.5096721102051474 
+Precious Stones	: 0 
+High-complexity Products: -2.329446031267712 
+Services and Utilities: 0 
+ 
+increase Energy Drilling and Mining in Burkina Faso by 36663651.957720876 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.05451462517232799 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9949221542031799 
+Weapons: 0 
+Daily Instruments: -2.01427729833601 
+Precious Stones	: 0 
+High-complexity Products: -2.378050642790837 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Burkina Faso by 464049316.5022881 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 354.03110386451715 
+Energy Drilling and Mining: 0 
+Chemicals: 233.10823613428178 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 12048.262347991431 
+Transportation: 0.8353401060742736 
+Weapons: 0 
+Daily Instruments: 3.2056104831113528 
+Precious Stones	: 0 
+High-complexity Products: 0.2382818652258311 
+Services and Utilities: 1409.164471018327 
+ 
+increase Machinery and Construction in Burkina Faso by 124399.94415261969 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 351.0092149398711 
+Energy Drilling and Mining: 0 
+Chemicals: 206.10729730621193 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.3041275370001349 
+Weapons: 0 
+Daily Instruments: 1.4316024506628138 
+Precious Stones	: 0 
+High-complexity Products: -0.49608983960259806 
+Services and Utilities: 310.3524661694087 
+ 
+increase Food and Preparations in Burkina Faso by 14588681.134404302 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 170.5366592277138 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 803.0262748641168 
+Machinery and Construction: 0 
+Transportation: 0.43681011750677107 
+Weapons: 0 
+Daily Instruments: 1.9533867953491255 
+Precious Stones	: 0 
+High-complexity Products: -0.330861137073915 
+Services and Utilities: 108.09119884672874 
+ 
+increase Metals in Burkina Faso by 3385998.5067383647 USD 
+Iteration 20:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 121.81778792651986 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.23033314065250787 
+Weapons: 0 
+Daily Instruments: 1.3725522869001379 
+Precious Stones	: 0 
+High-complexity Products: -0.6765732335210682 
+Services and Utilities: -6.446370367432391 
+ 
+Burkina Faso completed

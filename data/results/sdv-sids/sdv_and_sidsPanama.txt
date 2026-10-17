@@ -1,0 +1,356 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.296017315991383 
+Chemical Manufacturing: 7.402115066961547 
+Raw Manufacturing: 5.262658526003008 
+Wood Products: 0 
+Clothing and Accessories: 7.095220184411238 
+Textile: 13.53666752369295 
+Metals: 7.085010674358334 
+Machinery and Construction: 102.70114454011131 
+Transportation: 2.077101956759617 
+Weapons: 589.6245784414801 
+Daily Instruments: 7.600111363532366 
+Precious Stones	: 9.355381086914939 
+High-complexity Products: 2.468288009098222 
+Services and Utilities: 18.39664569078182 
+ 
+increase Weapons in Panama by 1561978.9025716716 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.77329735295943 
+Chemical Manufacturing: 7.008444163758751 
+Raw Manufacturing: 5.250319974206425 
+Wood Products: 0 
+Clothing and Accessories: 8.288948883830356 
+Textile: 17.107130256526705 
+Metals: 7.559284464302813 
+Machinery and Construction: 96.28297059795327 
+Transportation: 1.839891401454009 
+Weapons: 0 
+Daily Instruments: 6.722058894280723 
+Precious Stones	: 10.78553198042504 
+High-complexity Products: 2.102216966240295 
+Services and Utilities: 15.941911085332235 
+ 
+increase Machinery and Construction in Panama by 11566234.15588332 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.030591402558443 
+Chemical Manufacturing: 5.763776911576015 
+Raw Manufacturing: 4.0985033236702035 
+Wood Products: 0 
+Clothing and Accessories: 8.170095980030636 
+Textile: 19.33696379218288 
+Metals: 6.48053129373614 
+Machinery and Construction: 0 
+Transportation: 1.3266561433965312 
+Weapons: 0 
+Daily Instruments: 4.955505958501671 
+Precious Stones	: 10.939250083561705 
+High-complexity Products: 1.3635738849992858 
+Services and Utilities: 11.962601711614806 
+ 
+increase Textile in Panama by 39679888.84402781 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.496995964622284 
+Chemical Manufacturing: 6.203417585665296 
+Raw Manufacturing: 6.040372746328322 
+Wood Products: 0 
+Clothing and Accessories: 13.427983173133834 
+Textile: 0 
+Metals: 8.757550883240574 
+Machinery and Construction: 0 
+Transportation: 1.279052670490227 
+Weapons: 0 
+Daily Instruments: 5.181443259960163 
+Precious Stones	: 15.706467517611454 
+High-complexity Products: 1.3182830577677163 
+Services and Utilities: 11.726599682326468 
+ 
+increase Precious Stones	 in Panama by 104590769.18856679 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.381635691521213 
+Chemical Manufacturing: 6.697460697870167 
+Raw Manufacturing: 6.974275785087543 
+Wood Products: 0 
+Clothing and Accessories: 16.965732440991303 
+Textile: 0 
+Metals: 10.438992855189651 
+Machinery and Construction: 0 
+Transportation: 1.2699390754289743 
+Weapons: 0 
+Daily Instruments: 5.520510129340629 
+Precious Stones	: 0 
+High-complexity Products: 1.2386894293314237 
+Services and Utilities: 10.452732052285809 
+ 
+increase Clothing and Accessories in Panama by 99573330.5807065 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.37586221687628 
+Chemical Manufacturing: 6.593765183921913 
+Raw Manufacturing: 7.92566684169227 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 11.709642371709245 
+Machinery and Construction: 0 
+Transportation: 1.1274335940756843 
+Weapons: 0 
+Daily Instruments: 5.257092165372846 
+Precious Stones	: 0 
+High-complexity Products: 1.0900891673321442 
+Services and Utilities: 9.280122035088294 
+ 
+increase Chemicals in Panama by 102941557.67549762 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 5.074089933286337 
+Raw Manufacturing: 7.22807539680687 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 10.943467688085255 
+Machinery and Construction: 0 
+Transportation: 0.7178226169993576 
+Weapons: 0 
+Daily Instruments: 3.8506093301914692 
+Precious Stones	: 0 
+High-complexity Products: 0.3892181411007607 
+Services and Utilities: 6.363122204532465 
+ 
+increase Metals in Panama by 130985435.11696061 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.520842263605113 
+Raw Manufacturing: 7.2847010227890605 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.517811840359172 
+Weapons: 0 
+Daily Instruments: 3.274173085349113 
+Precious Stones	: 0 
+High-complexity Products: 0.03649489239478013 
+Services and Utilities: 4.263531341805368 
+ 
+increase Raw Manufacturing in Panama by 181618616.33888415 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.05657098709667 
+Raw Manufacturing: 0 
+Wood Products: 1102.1138834601077 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.2079259418409454 
+Weapons: 0 
+Daily Instruments: 2.5315982723469053 
+Precious Stones	: 0 
+High-complexity Products: -0.09162755072807889 
+Services and Utilities: 4.111084335660571 
+ 
+increase Wood Products in Panama by 1615067.2792408466 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.718251998660589 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.010254935262168587 
+Weapons: 0 
+Daily Instruments: 1.9312525650759536 
+Precious Stones	: 0 
+High-complexity Products: -0.40611235013018954 
+Services and Utilities: 2.565937166956373 
+ 
+increase Chemical Manufacturing in Panama by 231584142.25814843 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 170.50126022325438 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1309.4471383557197 
+Metals: 0 
+Machinery and Construction: 1690.8528108093342 
+Transportation: 0.7439347500679225 
+Weapons: 15543.11281707308 
+Daily Instruments: 2.184536831672017 
+Precious Stones	: 965.4192248549701 
+High-complexity Products: 0.06062723027909507 
+Services and Utilities: 7.018298401762032 
+ 
+increase Weapons in Panama by 71767.29552454408 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 183.17809511971623 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1442.1063276665254 
+Metals: 0 
+Machinery and Construction: 1448.564816261392 
+Transportation: 0.4983839979879065 
+Weapons: 0 
+Daily Instruments: 1.2675902558513201 
+Precious Stones	: 1054.0493495495482 
+High-complexity Products: -0.32026009833157515 
+Services and Utilities: 4.413048576190854 
+ 
+increase Machinery and Construction in Panama by 459648.393755015 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 181.97151151409219 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1475.6142932319185 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.027226947261859855 
+Weapons: 0 
+Daily Instruments: -0.5546189126257269 
+Precious Stones	: 986.4609237421763 
+High-complexity Products: -1.0759542050735496 
+Services and Utilities: 0.25864085970817985 
+ 
+increase Textile in Panama by 1417940.1370662227 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 212.95309613984105 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.08332580588743355 
+Weapons: 0 
+Daily Instruments: -0.32919410043883107 
+Precious Stones	: 1032.788193477779 
+High-complexity Products: -1.121129053096824 
+Services and Utilities: 0.004432429294907822 
+ 
+increase Precious Stones	 in Panama by 2705782.1254187822 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 231.2467760121996 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.0944281204922288 
+Weapons: 0 
+Daily Instruments: 0.04596201482484166 
+Precious Stones	: 0 
+High-complexity Products: -1.196696014412873 
+Services and Utilities: -1.325756317467377 
+ 
+increase Food and Preparations in Panama by 14026279.869697452 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 5039.001408870273 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.019613758370314968 
+Weapons: 0 
+Daily Instruments: 0.25507741356075725 
+Precious Stones	: 0 
+High-complexity Products: -1.2344120686867512 
+Services and Utilities: -1.911784738308893 
+ 
+increase Clothing and Accessories in Panama by 527941.2102730274 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.1679446509929561 
+Weapons: 0 
+Daily Instruments: -0.018928520007413123 
+Precious Stones	: 0 
+High-complexity Products: -1.3815167979672318 
+Services and Utilities: -3.1168173641184036 
+ 
+Panama completed

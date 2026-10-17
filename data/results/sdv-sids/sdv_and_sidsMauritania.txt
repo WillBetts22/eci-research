@@ -1,0 +1,440 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 15.10692712271176 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.79697628174294 
+Chemical Manufacturing: 5.959747313843187 
+Raw Manufacturing: 4.4053551616577185 
+Wood Products: 9.126088139836018 
+Clothing and Accessories: 4.03923940631676 
+Textile: 8.633290253888095 
+Metals: 2.752084225818328 
+Machinery and Construction: 106.17334813345876 
+Transportation: 2.2990763954147675 
+Weapons: 799.9878684478495 
+Daily Instruments: 8.312933379007424 
+Precious Stones	: 0 
+High-complexity Products: 2.6262731340130148 
+Services and Utilities: 19.53265605292769 
+ 
+increase Weapons in Mauritania by 1068464.6718317633 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 17.447072271724817 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.28266084719759 
+Chemical Manufacturing: 5.668254550285147 
+Raw Manufacturing: 4.368062100018786 
+Wood Products: 10.38484525472969 
+Clothing and Accessories: 5.134153724629103 
+Textile: 12.991769143792023 
+Metals: 2.9976366049465892 
+Machinery and Construction: 99.6025244418314 
+Transportation: 2.059934637117178 
+Weapons: 0 
+Daily Instruments: 7.430641120945622 
+Precious Stones	: 0 
+High-complexity Products: 2.284429724405499 
+Services and Utilities: 17.11382885285355 
+ 
+increase Machinery and Construction in Mauritania by 11767555.589867875 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 18.27154267342396 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.535093155137512 
+Chemical Manufacturing: 4.7417833018261275 
+Raw Manufacturing: 3.287022753785573 
+Wood Products: 9.266521374019682 
+Clothing and Accessories: 4.972553159688292 
+Textile: 15.576471596535137 
+Metals: 2.3972372134524944 
+Machinery and Construction: 0 
+Transportation: 1.5462858667238402 
+Weapons: 0 
+Daily Instruments: 5.6786389986020565 
+Precious Stones	: 0 
+High-complexity Products: 1.5898001355302247 
+Services and Utilities: 13.14943576612677 
+ 
+increase Vegetables, Fruits and Plants in Mauritania by 64737631.61146541 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.076521686860417 
+Chemical Manufacturing: 5.022109392577362 
+Raw Manufacturing: 4.415252672809521 
+Wood Products: 14.444743524787466 
+Clothing and Accessories: 9.304951737215141 
+Textile: 31.806075075810526 
+Metals: 4.070279655553006 
+Machinery and Construction: 0 
+Transportation: 1.5129930305929613 
+Weapons: 0 
+Daily Instruments: 5.83636594566242 
+Precious Stones	: 0 
+High-complexity Products: 1.5193748779079634 
+Services and Utilities: 12.194707092563128 
+ 
+increase Textile in Mauritania by 32825139.430132292 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.5153303431721 
+Chemical Manufacturing: 5.367989128671707 
+Raw Manufacturing: 6.231791107614523 
+Wood Products: 18.619617780092284 
+Clothing and Accessories: 14.332787239947098 
+Textile: 0 
+Metals: 5.390744226554539 
+Machinery and Construction: 0 
+Transportation: 1.4644330396339245 
+Weapons: 0 
+Daily Instruments: 6.055951667837092 
+Precious Stones	: 0 
+High-complexity Products: 1.475859987210653 
+Services and Utilities: 11.944824609624613 
+ 
+increase Wood Products in Mauritania by 65465667.35628092 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.377807775759512 
+Chemical Manufacturing: 5.158274229011389 
+Raw Manufacturing: 6.5782526723349415 
+Wood Products: 0 
+Clothing and Accessories: 16.281971848920286 
+Textile: 0 
+Metals: 6.130756982380407 
+Machinery and Construction: 0 
+Transportation: 1.2834116490757894 
+Weapons: 0 
+Daily Instruments: 5.551938305114039 
+Precious Stones	: 0 
+High-complexity Products: 1.1926961846967326 
+Services and Utilities: 10.490024520162235 
+ 
+increase Clothing and Accessories in Mauritania by 106757837.107676 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.358439821156121 
+Chemical Manufacturing: 5.1347812639364605 
+Raw Manufacturing: 7.51857066130883 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.056700796469097 
+Machinery and Construction: 0 
+Transportation: 1.1423584099257293 
+Weapons: 0 
+Daily Instruments: 5.303255318371098 
+Precious Stones	: 0 
+High-complexity Products: 1.0525749623230807 
+Services and Utilities: 9.304265015411952 
+ 
+increase Chemicals in Mauritania by 105428704.34203327 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 610.5676821072071 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.8932044300469544 
+Raw Manufacturing: 6.164201940386095 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.549211418514096 
+Machinery and Construction: 0 
+Transportation: 0.8021740710034871 
+Weapons: 0 
+Daily Instruments: 3.9578368281853837 
+Precious Stones	: 0 
+High-complexity Products: 0.5571702856528181 
+Services and Utilities: 8.134621824609024 
+ 
+increase Food and Preparations in Mauritania by 3780561.20971182 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.974496432125998 
+Raw Manufacturing: 6.877919253305553 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.744079970712448 
+Machinery and Construction: 0 
+Transportation: 0.7290189191588321 
+Weapons: 0 
+Daily Instruments: 3.888524203249727 
+Precious Stones	: 0 
+High-complexity Products: 0.3780235523806142 
+Services and Utilities: 6.342670843367199 
+ 
+increase Raw Manufacturing in Mauritania by 191510806.76645356 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.3913954123125856 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.832225493145064 
+Machinery and Construction: 0 
+Transportation: 0.22504571942184343 
+Weapons: 0 
+Daily Instruments: 2.57250283115959 
+Precious Stones	: 0 
+High-complexity Products: -0.04579182797652625 
+Services and Utilities: 4.6399922204524255 
+ 
+increase Metals in Mauritania by 237378368.7134424 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.0113170897691104 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.02695947987170446 
+Weapons: 0 
+Daily Instruments: 2.011919270501578 
+Precious Stones	: 0 
+High-complexity Products: -0.38410194581705576 
+Services and Utilities: 2.51168223613554 
+ 
+increase Chemical Manufacturing in Mauritania by 304181641.3803329 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 343.06292138737854 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 286.17975563433043 
+Clothing and Accessories: 456.05884001399227 
+Textile: 482.57778996072125 
+Metals: 0 
+Machinery and Construction: 781.0456996655286 
+Transportation: 1.0365512486572146 
+Weapons: 5803.179698288906 
+Daily Instruments: 3.1334931525511336 
+Precious Stones	: 0 
+High-complexity Products: 0.30817845517970116 
+Services and Utilities: 7.572253072039289 
+ 
+increase Weapons in Mauritania by 185786.2285238579 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 376.2997451266179 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 319.9279278641001 
+Clothing and Accessories: 523.691572533686 
+Textile: 556.7849535387123 
+Metals: 0 
+Machinery and Construction: 692.0520095821005 
+Transportation: 0.7929948526314892 
+Weapons: 0 
+Daily Instruments: 2.238878159130997 
+Precious Stones	: 0 
+High-complexity Products: -0.05869759846356558 
+Services and Utilities: 4.933797539564855 
+ 
+increase Machinery and Construction in Mauritania by 1202186.2919887155 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 383.64730278755115 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 286.41613329349894 
+Clothing and Accessories: 486.0099997524708 
+Textile: 593.2680962523233 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.27446162469375884 
+Weapons: 0 
+Daily Instruments: 0.46710955116697445 
+Precious Stones	: 0 
+High-complexity Products: -0.7826739180640964 
+Services and Utilities: 0.7407575336021204 
+ 
+increase Textile in Mauritania by 2786652.0625934154 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 472.86740611128386 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 359.9667982925955 
+Clothing and Accessories: 644.7984286715614 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.22106553479472288 
+Weapons: 0 
+Daily Instruments: 0.6986965769375618 
+Precious Stones	: 0 
+High-complexity Products: -0.8258817379099883 
+Services and Utilities: 0.48878995455953705 
+ 
+increase Clothing and Accessories in Mauritania by 2959774.1254574955 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 507.26520202033123 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 362.33126005408246 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.07555863755153362 
+Weapons: 0 
+Daily Instruments: 0.444967870757004 
+Precious Stones	: 0 
+High-complexity Products: -0.9668352010718114 
+Services and Utilities: -0.7164561926912052 
+ 
+increase Vegetables, Fruits and Plants in Mauritania by 7765303.955061793 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 3485.9905840117053 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 414.2036145314169 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.4522127095713412 
+Weapons: 0 
+Daily Instruments: 1.9941114593585005 
+Precious Stones	: 0 
+High-complexity Products: -0.36556432213110884 
+Services and Utilities: 1.2670019900444018 
+ 
+increase Chemicals in Mauritania by 321832.76259085536 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 361.46524033885487 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.03625281183529062 
+Weapons: 0 
+Daily Instruments: 0.5953296396385016 
+Precious Stones	: 0 
+High-complexity Products: -1.0396123228981968 
+Services and Utilities: -1.7279309061143726 
+ 
+increase Wood Products in Mauritania by 6008097.208685279 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.15134046475134738 
+Weapons: 0 
+Daily Instruments: 0.07078155335044112 
+Precious Stones	: 0 
+High-complexity Products: -1.330670523922046 
+Services and Utilities: -3.236761578580613 
+ 
+increase Daily Instruments in Mauritania by 265005452.03497523 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 385.40144914905756 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 120.20631919105008 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.3484829706143632 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.3858576711678494 
+Services and Utilities: -5.360225902255899 
+ 
+increase Food and Preparations in Mauritania by 9208103.290862113 USD 
+Iteration 20:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 103.97261994519224 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.42225805385761395 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.5679575126672938 
+Services and Utilities: -7.191696518351768 
+ 
+Mauritania completed

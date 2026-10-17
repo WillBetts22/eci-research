@@ -1,0 +1,18 @@
+{
+    "[Country]": "Singapore",
+    "[Category]": "developed",
+    "[GDP growth rate]": "6.31",
+    "[GDP growth quality]": "high",
+    "[ECI growth quality]": "decreased",
+    "[Industry development]": "regressed",
+    "[SOI quartile]": "third",
+    "[SOI quality]": "moderate",
+    "[SOI]": 0.02508138186092157,
+    "[R^2]": 0.012326746018551216,
+    "[R^2 adj]": 0.003662945545029661,
+    "[F-Stat]": 1.422787384846241,
+    "[Prob]": 0.23542189042438527,
+    "[nobs]": 116.0,
+    "[Overall quality]": "mixed",
+    "[Strategy quality]": "stagnant"
+}

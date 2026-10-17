@@ -1,0 +1,440 @@
+Before Iteration: Animals and By-products: -4.347637248320362 
+Vegetables, Fruits and Plants: -6.225751833145594 
+Food and Preparations: -2.888741186322462 
+Energy Drilling and Mining: 0 
+Chemicals: 17.8070465589951 
+Chemical Manufacturing: 5.077052446890543 
+Raw Manufacturing: 5.3652942271645365 
+Wood Products: 3.727633196199813 
+Clothing and Accessories: 2.2559607843621974 
+Textile: -0.41988249502112096 
+Metals: 2.0088713424040767 
+Machinery and Construction: 151.68737574544969 
+Transportation: 2.9542191651265433 
+Weapons: 323.7041235243651 
+Daily Instruments: 8.29963745920511 
+Precious Stones	: 0 
+High-complexity Products: 2.5219775545877647 
+Services and Utilities: 7.438312803153688 
+ 
+increase Weapons in Libya by 14790955.352790188 USD 
+Iteration 1:  
+Animals and By-products: -1.908642745135491 
+Vegetables, Fruits and Plants: -3.2390816831933047 
+Food and Preparations: -1.7751516881890976 
+Energy Drilling and Mining: 0 
+Chemicals: 16.26149399367793 
+Chemical Manufacturing: 4.949288340100845 
+Raw Manufacturing: 5.109206244508282 
+Wood Products: 4.9037226358483545 
+Clothing and Accessories: 2.804404026521671 
+Textile: 3.5781932728317627 
+Metals: 2.510418645630264 
+Machinery and Construction: 138.44715605574794 
+Transportation: 2.6876971954241693 
+Weapons: 0 
+Daily Instruments: 7.5695152097318745 
+Precious Stones	: 0 
+High-complexity Products: 2.22419448171187 
+Services and Utilities: 7.617715275687313 
+ 
+increase Machinery and Construction in Libya by 94686562.52326839 USD 
+Iteration 2:  
+Animals and By-products: -2.3467428079936945 
+Vegetables, Fruits and Plants: -3.9642641394373825 
+Food and Preparations: -2.4172703728371197 
+Energy Drilling and Mining: 0 
+Chemicals: 14.676034412338154 
+Chemical Manufacturing: 3.7427700069939704 
+Raw Manufacturing: 2.7121071767010925 
+Wood Products: 1.6678308990581316 
+Clothing and Accessories: 0.6357319967392292 
+Textile: 1.6470504098260286 
+Metals: 0.7597913671166705 
+Machinery and Construction: 0 
+Transportation: 1.675374287774716 
+Weapons: 0 
+Daily Instruments: 4.858123572536461 
+Precious Stones	: 0 
+High-complexity Products: 1.4090794864431082 
+Services and Utilities: 6.550768353944244 
+ 
+increase Chemicals in Libya by 644627395.03743 USD 
+Iteration 3:  
+Animals and By-products: -2.6320394126535227 
+Vegetables, Fruits and Plants: -4.330587675202842 
+Food and Preparations: -2.8270255176617916 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.151205113727462 
+Raw Manufacturing: 1.4537531683939768 
+Wood Products: 0.4393098026013958 
+Clothing and Accessories: -0.2656317387600446 
+Textile: 0.8689473536521045 
+Metals: -0.36303576668726434 
+Machinery and Construction: 0 
+Transportation: 0.9883953931264136 
+Weapons: 0 
+Daily Instruments: 2.202565744244698 
+Precious Stones	: 0 
+High-complexity Products: 0.6555261142698849 
+Services and Utilities: 5.038053838633325 
+ 
+increase Services and Utilities in Libya by 1152920082.2393413 USD 
+Iteration 4:  
+Animals and By-products: -1.8412595155229041 
+Vegetables, Fruits and Plants: -3.652854138330799 
+Food and Preparations: -2.7311820924141372 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.3812049340494719 
+Raw Manufacturing: 0.9702500576856248 
+Wood Products: -0.07060311454695832 
+Clothing and Accessories: -0.47838371385505235 
+Textile: 1.16556542569842 
+Metals: -0.6637633849017411 
+Machinery and Construction: 0 
+Transportation: 0.6786957843708143 
+Weapons: 0 
+Daily Instruments: 0.8554867268456693 
+Precious Stones	: 0 
+High-complexity Products: 0.08216172007101735 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Libya by 1868514578.7260442 USD 
+Iteration 5:  
+Animals and By-products: -0.29087921429641606 
+Vegetables, Fruits and Plants: -2.3570582182707254 
+Food and Preparations: -2.3488488148296427 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: -0.21961969472016896 
+Wood Products: -0.6919689679254698 
+Clothing and Accessories: -0.8981250298520557 
+Textile: 2.9415907371521346 
+Metals: -1.0282829096020887 
+Machinery and Construction: 0 
+Transportation: 0.37674233609963126 
+Weapons: 0 
+Daily Instruments: -1.066684205720816 
+Precious Stones	: 0 
+High-complexity Products: -0.630592638523407 
+Services and Utilities: 0 
+ 
+increase Textile in Libya by 404311304.28639853 USD 
+Iteration 6:  
+Animals and By-products: 6.255647687510718 
+Vegetables, Fruits and Plants: 4.3399028801173944 
+Food and Preparations: 0.2791249918641498 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0.7351487329756883 
+Wood Products: 2.4643111991810844 
+Clothing and Accessories: 2.4154382949369015 
+Textile: 0 
+Metals: 0.6437382171138593 
+Machinery and Construction: 0 
+Transportation: 0.24231173531020425 
+Weapons: 0 
+Daily Instruments: -1.1086376670948628 
+Precious Stones	: 0 
+High-complexity Products: -0.6680145958681706 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Libya by 627988029.7122146 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 16.539428043153148 
+Food and Preparations: 5.938592263169679 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.5237342129445752 
+Wood Products: 8.299162738940312 
+Clothing and Accessories: 5.372660541079818 
+Textile: 0 
+Metals: 2.8504878491190193 
+Machinery and Construction: 0 
+Transportation: 0.1710039320914001 
+Weapons: 0 
+Daily Instruments: -1.0400394825196337 
+Precious Stones	: 0 
+High-complexity Products: -0.7490033100594987 
+Services and Utilities: 0 
+ 
+increase Vegetables, Fruits and Plants in Libya by 609347917.0358185 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 13.036106643495367 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 2.188030399981715 
+Wood Products: 13.083236616037045 
+Clothing and Accessories: 8.404524745464336 
+Textile: 0 
+Metals: 4.920345657143407 
+Machinery and Construction: 0 
+Transportation: 0.0795469092301714 
+Weapons: 0 
+Daily Instruments: -1.0251482702776726 
+Precious Stones	: 0 
+High-complexity Products: -0.8165632178454327 
+Services and Utilities: 0 
+ 
+increase Wood Products in Libya by 624807157.5323372 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 15.016435947172429 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.9659993686048034 
+Wood Products: 0 
+Clothing and Accessories: 9.22576468803937 
+Textile: 0 
+Metals: 5.72250385724001 
+Machinery and Construction: 0 
+Transportation: -0.16685716097578668 
+Weapons: 0 
+Daily Instruments: -1.998637656131093 
+Precious Stones	: 0 
+High-complexity Products: -1.0651353841492703 
+Services and Utilities: 0 
+ 
+increase Food and Preparations in Libya by 1237273312.884972 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 652.5187887141661 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 5.562271288795052 
+Wood Products: 0 
+Clothing and Accessories: 9.92979300064652 
+Textile: 0 
+Metals: 6.4530053979074475 
+Machinery and Construction: 4743.790776568758 
+Transportation: 1.7214544132614185 
+Weapons: 31820.01347548928 
+Daily Instruments: 3.6614857028686427 
+Precious Stones	: 550.3317982480286 
+High-complexity Products: 0.7521799141445675 
+Services and Utilities: 0 
+ 
+increase Weapons in Libya by 370449.43638715893 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 512.2005922387393 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 5.260179762874011 
+Wood Products: 0 
+Clothing and Accessories: 10.533314117080229 
+Textile: 0 
+Metals: 6.949591899105434 
+Machinery and Construction: 3978.051481703738 
+Transportation: 1.4353982481051006 
+Weapons: 0 
+Daily Instruments: 2.832367794814014 
+Precious Stones	: 604.4205767005806 
+High-complexity Products: 0.42078004867149466 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Libya by 2309688.631601423 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 350.37955031154854 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 2.8213217357699296 
+Wood Products: 0 
+Clothing and Accessories: 8.653221476930934 
+Textile: 0 
+Metals: 5.464194238150702 
+Machinery and Construction: 0 
+Transportation: 0.41795331370891814 
+Weapons: 0 
+Daily Instruments: 0.06287694710126143 
+Precious Stones	: 592.4157700160083 
+High-complexity Products: -0.4382948750342977 
+Services and Utilities: 0 
+ 
+increase Precious Stones	 in Libya by 40572355.61367178 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 224.36375076295934 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 3.638134316924639 
+Wood Products: 0 
+Clothing and Accessories: 12.46154890359068 
+Textile: 0 
+Metals: 8.178015363419531 
+Machinery and Construction: 0 
+Transportation: 0.40809642353878106 
+Weapons: 0 
+Daily Instruments: 0.4124282163132039 
+Precious Stones	: 0 
+High-complexity Products: -0.46273408965955487 
+Services and Utilities: 0 
+ 
+increase Chemicals in Libya by 23288159.61814928 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 2.7914112393922617 
+Wood Products: 0 
+Clothing and Accessories: 11.707727139493391 
+Textile: 0 
+Metals: 7.435661685820277 
+Machinery and Construction: 0 
+Transportation: 0.007420624199716354 
+Weapons: 0 
+Daily Instruments: -0.9918539111986081 
+Precious Stones	: 0 
+High-complexity Products: -0.6589831688236923 
+Services and Utilities: 962.0313591904966 
+ 
+increase Services and Utilities in Libya by 7809816.378316879 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 2.301908987909342 
+Wood Products: 0 
+Clothing and Accessories: 11.524450791001913 
+Textile: 0 
+Metals: 7.225560659812799 
+Machinery and Construction: 0 
+Transportation: -0.2969277082245751 
+Weapons: 0 
+Daily Instruments: -2.2600268932829324 
+Precious Stones	: 0 
+High-complexity Products: -1.2233575212419787 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Libya by 1130519166.447591 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 495.5873546086687 
+Raw Manufacturing: 2.910086216834183 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 8.270766033070926 
+Machinery and Construction: 0 
+Transportation: -0.2867952380283845 
+Weapons: 0 
+Daily Instruments: -1.1595356547593583 
+Precious Stones	: 0 
+High-complexity Products: -0.6831449844071208 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Libya by 11165606.931825161 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.52166801797631 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 7.790266164032553 
+Machinery and Construction: 0 
+Transportation: -0.6171393280148729 
+Weapons: 0 
+Daily Instruments: -3.1590109475368995 
+Precious Stones	: 0 
+High-complexity Products: -1.4261487420887906 
+Services and Utilities: 0 
+ 
+increase Metals in Libya by 1779156648.6249163 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0.24511816854414092 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 11042.92249376115 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.7387138065432772 
+Weapons: 0 
+Daily Instruments: -3.8807238221725053 
+Precious Stones	: 0 
+High-complexity Products: -1.6538200103393408 
+Services and Utilities: 0 
+ 
+increase Textile in Libya by 2204835.95639503 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1.01006926965051 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.8918316936007732 
+Weapons: 0 
+Daily Instruments: -4.019686748021227 
+Precious Stones	: 0 
+High-complexity Products: -1.7024197663504599 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Libya by 2055857456.0547836 USD 
+Iteration 20:  
+Animals and By-products: 540.5454486445959 
+Vegetables, Fruits and Plants: 1096.4224312713045 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 2079.9526654346787 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.2213972375295494 
+Weapons: 0 
+Daily Instruments: -5.476967155077402 
+Precious Stones	: 0 
+High-complexity Products: -1.7977515256078078 
+Services and Utilities: 0 
+ 
+Libya completed

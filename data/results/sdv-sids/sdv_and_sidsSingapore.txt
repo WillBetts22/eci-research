@@ -1,0 +1,41 @@
+Before Iteration: Animals and By-products: -23.399604437800086 
+Vegetables, Fruits and Plants: -24.27082184359554 
+Food and Preparations: -27.540302666172046 
+Energy Drilling and Mining: -62.0259454465404 
+Chemicals: 41.07559801250048 
+Chemical Manufacturing: -0.33588851459585767 
+Raw Manufacturing: -13.088176039908715 
+Wood Products: -14.652653501502034 
+Clothing and Accessories: -10.619372172463226 
+Textile: -27.182180871298513 
+Metals: -6.671888825053234 
+Machinery and Construction: -9.406285764013735 
+Transportation: 0 
+Weapons: -162.80350090720992 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -6.816403008220517 
+Services and Utilities: 0 
+ 
+increase Chemicals in Singapore by 464968160.2231674 USD 
+Iteration 1:  
+Animals and By-products: -22.95836312732184 
+Vegetables, Fruits and Plants: -23.668600985290663 
+Food and Preparations: -27.076208958267294 
+Energy Drilling and Mining: -46.935530171562036 
+Chemicals: 0 
+Chemical Manufacturing: -6.7014134350711485 
+Raw Manufacturing: -15.398807246922622 
+Wood Products: -15.137665155615046 
+Clothing and Accessories: -10.77697615748793 
+Textile: -26.3649580628637 
+Metals: -7.173546664686641 
+Machinery and Construction: -19.45845734535396 
+Transportation: 0 
+Weapons: -207.61856692251052 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -20.321130908555464 
+Services and Utilities: 0 
+ 
+Singapore completed

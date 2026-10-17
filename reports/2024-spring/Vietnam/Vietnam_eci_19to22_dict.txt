@@ -1,0 +1,4 @@
+         Country  2019 ECI  2020 ECI  2021 ECI  2022 ECI
+87       Vietnam  0.740857  0.684724 -0.614372 -0.507357
+88      Malaysia  0.751818  0.711966 -0.600677 -0.674383
+133  Philippines       NaN       NaN       NaN -0.287451

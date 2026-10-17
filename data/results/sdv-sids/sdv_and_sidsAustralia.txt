@@ -1,0 +1,230 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 43.111704376013115 
+Energy Drilling and Mining: 0 
+Chemicals: 44.08002388439484 
+Chemical Manufacturing: 7.954461318494409 
+Raw Manufacturing: 6.976024516921788 
+Wood Products: 19.46840302231979 
+Clothing and Accessories: 10.55409946495232 
+Textile: 0 
+Metals: 9.858990959884053 
+Machinery and Construction: 129.58587227401563 
+Transportation: 2.447756939845383 
+Weapons: 690.2868866749567 
+Daily Instruments: 11.331039590699149 
+Precious Stones	: 0 
+High-complexity Products: 3.594976666332352 
+Services and Utilities: 165.76647658633698 
+ 
+increase Weapons in Australia by 173327888.25024095 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 46.632309616649216 
+Energy Drilling and Mining: 0 
+Chemicals: 42.36174191938765 
+Chemical Manufacturing: 7.597237816714668 
+Raw Manufacturing: 6.9622493343234435 
+Wood Products: 21.26058495555609 
+Clothing and Accessories: 11.745056287458 
+Textile: 0 
+Metals: 10.43901559217252 
+Machinery and Construction: 122.5657264097379 
+Transportation: 2.1934647788171078 
+Weapons: 0 
+Daily Instruments: 10.19856371494758 
+Precious Stones	: 0 
+High-complexity Products: 3.137221924680497 
+Services and Utilities: 145.22068494148607 
+ 
+increase Services and Utilities in Australia by 1677694274.7017345 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 40.16425525179605 
+Energy Drilling and Mining: 0 
+Chemicals: 30.29136849997889 
+Chemical Manufacturing: 4.0829654259902135 
+Raw Manufacturing: 5.773196052735935 
+Wood Products: 17.953963804081223 
+Clothing and Accessories: 10.615437690875044 
+Textile: 0 
+Metals: 7.677876845670366 
+Machinery and Construction: 76.48730123871754 
+Transportation: 1.2628157425167663 
+Weapons: 0 
+Daily Instruments: 5.501707082906594 
+Precious Stones	: 0 
+High-complexity Products: 0.6231579454377675 
+Services and Utilities: 0 
+ 
+increase Machinery and Construction in Australia by 1239648471.314355 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 39.77139973915755 
+Energy Drilling and Mining: 0 
+Chemicals: 27.39104928194197 
+Chemical Manufacturing: 2.93016271971687 
+Raw Manufacturing: 4.614706198763554 
+Wood Products: 16.52237108438631 
+Clothing and Accessories: 10.437450592944506 
+Textile: 0 
+Metals: 6.365863040781619 
+Machinery and Construction: 0 
+Transportation: 0.6714875595777992 
+Weapons: 0 
+Daily Instruments: 3.211132753622344 
+Precious Stones	: 0 
+High-complexity Products: -0.3116764076315733 
+Services and Utilities: 0 
+ 
+increase Food and Preparations in Australia by 3860442284.8633575 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 26.802545599600673 
+Chemical Manufacturing: 3.049922017919297 
+Raw Manufacturing: 5.4282583908735464 
+Wood Products: 21.929356341879192 
+Clothing and Accessories: 14.002767750688825 
+Textile: 0 
+Metals: 8.923683884022767 
+Machinery and Construction: 0 
+Transportation: 0.5947326115133534 
+Weapons: 0 
+Daily Instruments: 3.1430467590319555 
+Precious Stones	: 0 
+High-complexity Products: -0.5466217535144877 
+Services and Utilities: 0 
+ 
+increase Chemicals in Australia by 3817481536.2800827 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.4775431942130435 
+Raw Manufacturing: 4.835540356142588 
+Wood Products: 20.871286372932726 
+Clothing and Accessories: 13.870220774335422 
+Textile: 0 
+Metals: 8.037627675548649 
+Machinery and Construction: 0 
+Transportation: 0.12443166793028668 
+Weapons: 0 
+Daily Instruments: 1.1534136723049362 
+Precious Stones	: 0 
+High-complexity Products: -1.4928512733857675 
+Services and Utilities: 0 
+ 
+increase Wood Products in Australia by 5743851180.768054 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.1832847076693604 
+Raw Manufacturing: 5.245105102360592 
+Wood Products: 0 
+Clothing and Accessories: 15.937585198361685 
+Textile: 0 
+Metals: 9.369198389795061 
+Machinery and Construction: 0 
+Transportation: -0.08201791525900752 
+Weapons: 0 
+Daily Instruments: 0.44567667339677564 
+Precious Stones	: 0 
+High-complexity Products: -1.876609649434503 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Australia by 11788001412.838923 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.020133127327036 
+Raw Manufacturing: 6.206275234611272 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 11.529128245751796 
+Machinery and Construction: 0 
+Transportation: -0.2722421064386348 
+Weapons: 0 
+Daily Instruments: -0.1220325005269214 
+Precious Stones	: 0 
+High-complexity Products: -2.0030214131316737 
+Services and Utilities: 0 
+ 
+increase Metals in Australia by 12597636092.702385 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0.522605480762077 
+Raw Manufacturing: 6.342460565663134 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.49840318730591404 
+Weapons: 0 
+Daily Instruments: -0.8805291847090884 
+Precious Stones	: 0 
+High-complexity Products: -2.4237071046269296 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Australia by 20829948274.216064 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.5075982373665903 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1693.659487297315 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.948870152887192 
+Weapons: 0 
+Daily Instruments: -2.717286566495919 
+Precious Stones	: 0 
+High-complexity Products: -2.871570020118588 
+Services and Utilities: 0 
+ 
+increase Textile in Australia by 189934688.09941196 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: -0.156694192838122 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.059660526305445 
+Weapons: 0 
+Daily Instruments: -2.61472296396123 
+Precious Stones	: 0 
+High-complexity Products: -2.907771066530765 
+Services and Utilities: 0 
+ 
+Australia completed

@@ -1,0 +1,440 @@
+Before Iteration: Animals and By-products: 8.927297933728331 
+Vegetables, Fruits and Plants: 23.19540640837945 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 15.144505965745493 
+Chemical Manufacturing: 4.137741667732164 
+Raw Manufacturing: 6.912990070673798 
+Wood Products: 12.850150649923421 
+Clothing and Accessories: 5.3271440247026955 
+Textile: 27.301427950126325 
+Metals: 0 
+Machinery and Construction: 149.4095348583258 
+Transportation: 2.6950269003223757 
+Weapons: 523.2638271084271 
+Daily Instruments: 7.078323790174872 
+Precious Stones	: 0 
+High-complexity Products: 2.28095088715638 
+Services and Utilities: 15.179339226719227 
+ 
+increase Weapons in Zimbabwe by 3744668.6452971622 USD 
+Iteration 1:  
+Animals and By-products: 10.93701945642157 
+Vegetables, Fruits and Plants: 29.05712365757247 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 14.170952787824314 
+Chemical Manufacturing: 3.8675799441207546 
+Raw Manufacturing: 6.398988886397791 
+Wood Products: 13.773174664662918 
+Clothing and Accessories: 6.588678410407895 
+Textile: 36.22576928486489 
+Metals: 0 
+Machinery and Construction: 130.79217315425038 
+Transportation: 2.259463683929316 
+Weapons: 0 
+Daily Instruments: 6.189496733521022 
+Precious Stones	: 0 
+High-complexity Products: 1.9018437178858152 
+Services and Utilities: 13.555637302996423 
+ 
+increase Machinery and Construction in Zimbabwe by 20335370.116523523 USD 
+Iteration 2:  
+Animals and By-products: 10.002532708885754 
+Vegetables, Fruits and Plants: 27.761643770093116 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.913815902348428 
+Chemical Manufacturing: 2.9553687714793426 
+Raw Manufacturing: 3.851800509051149 
+Wood Products: 9.625448880453302 
+Clothing and Accessories: 5.29877812321904 
+Textile: 29.740878359921297 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.1571474171550695 
+Weapons: 0 
+Daily Instruments: 4.140888397476088 
+Precious Stones	: 0 
+High-complexity Products: 1.1481224682492661 
+Services and Utilities: 10.123716210273278 
+ 
+increase Textile in Zimbabwe by 25056641.537687898 USD 
+Iteration 3:  
+Animals and By-products: 16.010375684665576 
+Vegetables, Fruits and Plants: 43.72826023185124 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.165333563838244 
+Chemical Manufacturing: 3.2323018774069654 
+Raw Manufacturing: 5.3944285543588 
+Wood Products: 13.299579692993987 
+Clothing and Accessories: 10.933794126918833 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.0303381587690144 
+Weapons: 0 
+Daily Instruments: 4.404044978576467 
+Precious Stones	: 0 
+High-complexity Products: 1.0983820695803792 
+Services and Utilities: 9.943753548052213 
+ 
+increase Vegetables, Fruits and Plants in Zimbabwe by 56299271.354334444 USD 
+Iteration 4:  
+Animals and By-products: 27.95451653980982 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.5519344062866 
+Chemical Manufacturing: 3.5234859841959154 
+Raw Manufacturing: 6.761249412758272 
+Wood Products: 19.657567652577846 
+Clothing and Accessories: 15.769729622158344 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9326122732832551 
+Weapons: 0 
+Daily Instruments: 4.640234886604205 
+Precious Stones	: 0 
+High-complexity Products: 1.054437567673723 
+Services and Utilities: 9.6915325788329 
+ 
+increase Animals and By-products in Zimbabwe by 118334027.27947201 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.621814896783961 
+Chemical Manufacturing: 3.7116946049415844 
+Raw Manufacturing: 7.574584288972815 
+Wood Products: 25.425892439801537 
+Clothing and Accessories: 19.61611085279569 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.8120823310820529 
+Weapons: 0 
+Daily Instruments: 4.739331292385709 
+Precious Stones	: 0 
+High-complexity Products: 0.9193791851996501 
+Services and Utilities: 9.08948842066392 
+ 
+increase Wood Products in Zimbabwe by 97189247.85424466 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 12.243168605087915 
+Chemical Manufacturing: 3.546168032310926 
+Raw Manufacturing: 7.349603182338087 
+Wood Products: 0 
+Clothing and Accessories: 21.36606184584454 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.49768067945701455 
+Weapons: 0 
+Daily Instruments: 4.260118342581065 
+Precious Stones	: 0 
+High-complexity Products: 0.6365155018080869 
+Services and Utilities: 7.904718378883767 
+ 
+increase Clothing and Accessories in Zimbabwe by 169475800.64855784 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 11.934258480023491 
+Chemical Manufacturing: 3.5750243923080536 
+Raw Manufacturing: 7.8735606376899545 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.23401933210229892 
+Weapons: 0 
+Daily Instruments: 4.064475475897069 
+Precious Stones	: 0 
+High-complexity Products: 0.47147533113181495 
+Services and Utilities: 7.118079466271796 
+ 
+increase Chemicals in Zimbabwe by 185937728.35979792 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.43813682847522 
+Raw Manufacturing: 6.402483859475185 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.24841483167296616 
+Weapons: 0 
+Daily Instruments: 2.709208571471491 
+Precious Stones	: 0 
+High-complexity Products: -0.3077303483699128 
+Services and Utilities: 4.049634968641451 
+ 
+increase Raw Manufacturing in Zimbabwe by 266159553.6171527 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.9038375398973382 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9511178664057028 
+Weapons: 0 
+Daily Instruments: 1.076581460229254 
+Precious Stones	: 0 
+High-complexity Products: -0.7646777230921252 
+Services and Utilities: 1.977571588505705 
+ 
+increase Services and Utilities in Zimbabwe by 246310382.29293787 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 1.1139384457942714 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.7267959545553433 
+Weapons: 0 
+Daily Instruments: -0.9336922124416001 
+Precious Stones	: 0 
+High-complexity Products: -1.811530211201757 
+Services and Utilities: 0 
+ 
+increase Chemical Manufacturing in Zimbabwe by 602996915.4088532 USD 
+Iteration 11:  
+Animals and By-products: 19563.95581673337 
+Vegetables, Fruits and Plants: 1805.1519498128948 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 1945.0371394369615 
+Metals: 0 
+Machinery and Construction: 650.4985170360866 
+Transportation: 0.025133280789808768 
+Weapons: 15853.170399174609 
+Daily Instruments: 0.42018803526812676 
+Precious Stones	: 0 
+High-complexity Products: -1.1147529558473914 
+Services and Utilities: 0 
+ 
+increase Animals and By-products in Zimbabwe by 164925.7623539567 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 1915.2988834519713 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 2006.4461382243478 
+Metals: 0 
+Machinery and Construction: 337.0574014286314 
+Transportation: -0.0979811840384888 
+Weapons: 15314.357759145209 
+Daily Instruments: 0.5369609005251644 
+Precious Stones	: 0 
+High-complexity Products: -1.2475972861615032 
+Services and Utilities: 0 
+ 
+increase Weapons in Zimbabwe by 144300.84246353805 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 2035.433390042188 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 2142.6469014551676 
+Metals: 0 
+Machinery and Construction: -361.31062435539803 
+Transportation: -0.5592624951845456 
+Weapons: 0 
+Daily Instruments: -0.40284262063904874 
+Precious Stones	: 0 
+High-complexity Products: -1.6524933425324722 
+Services and Utilities: 0 
+ 
+increase Textile in Zimbabwe by 2037836.1339553744 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 2108.159117667199 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -607.7474307711466 
+Transportation: -0.6984026696675045 
+Weapons: 0 
+Daily Instruments: -0.16573926954537524 
+Precious Stones	: 0 
+High-complexity Products: -1.7019002186825647 
+Services and Utilities: 0 
+ 
+increase Vegetables, Fruits and Plants in Zimbabwe by 3658739.6403253376 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -634.2761183165455 
+Transportation: -0.8095114371517655 
+Weapons: 0 
+Daily Instruments: 0.04996138678060708 
+Precious Stones	: 0 
+High-complexity Products: -1.7482000450585977 
+Services and Utilities: 0 
+ 
+increase Daily Instruments in Zimbabwe by 482863864.12623245 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 367.9109237611052 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 340.4687450249525 
+Clothing and Accessories: 492.6262792787563 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -102.1223381918069 
+Transportation: -0.6178705049828314 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.106791552137321 
+Services and Utilities: 0 
+ 
+increase Clothing and Accessories in Zimbabwe by 9464095.33931756 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 190.21044044535506 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 337.66442644731245 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -194.89483204631784 
+Transportation: -0.8883729099798165 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.2719907011647014 
+Services and Utilities: 0 
+ 
+increase Wood Products in Zimbabwe by 10696797.140321642 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 128.88873293324482 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -363.92438383266085 
+Transportation: -1.2088264811913683 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.5562579417152889 
+Services and Utilities: 0 
+ 
+increase Chemicals in Zimbabwe by 5932491.9350604415 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 1907.9720734393889 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -267.28208318676695 
+Transportation: -0.9746363482575723 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.866158488377829 
+Services and Utilities: 0 
+ 
+increase Raw Manufacturing in Zimbabwe by 625228.4203681946 USD 
+Iteration 20:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: -478.60116135714946 
+Transportation: -1.6837248794325526 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.3263544307517683 
+Services and Utilities: 0 
+ 
+Zimbabwe completed

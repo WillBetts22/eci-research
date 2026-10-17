@@ -1,0 +1,377 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.6707840715650326 
+Chemicals: 7.06962148938596 
+Chemical Manufacturing: 11.178456364012705 
+Raw Manufacturing: 0 
+Wood Products: 62.86389093708284 
+Clothing and Accessories: 4.061761176953652 
+Textile: 24.458807587962436 
+Metals: 1.386658307268072 
+Machinery and Construction: 175.26438868378915 
+Transportation: 0.8822379715668432 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 4.723626858137586 
+High-complexity Products: 1.4369488482580781 
+Services and Utilities: 10.49438498398615 
+ 
+increase Machinery and Construction in Costa Rica by 14600160.15767257 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.8385871852900806 
+Chemicals: 6.204117522837947 
+Chemical Manufacturing: 7.031393573642336 
+Raw Manufacturing: 0 
+Wood Products: 49.11030655386648 
+Clothing and Accessories: 3.839041450243203 
+Textile: 30.376411571378835 
+Metals: -0.5454298380593027 
+Machinery and Construction: 0 
+Transportation: 0.2014867041785165 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 4.974389025240484 
+High-complexity Products: 0.5978788193255717 
+Services and Utilities: 6.421678139412422 
+ 
+increase Wood Products in Costa Rica by 25334365.17530769 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.6382132855497917 
+Chemicals: 6.085815554145595 
+Chemical Manufacturing: 5.970884522441002 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 5.914489667153529 
+Textile: 48.46425316654887 
+Metals: 1.4833231257733117 
+Machinery and Construction: 0 
+Transportation: -0.04197054748183189 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 7.532877476676941 
+High-complexity Products: 0.2630739616948088 
+Services and Utilities: 4.9876623900256085 
+ 
+increase Textile in Costa Rica by 57825230.8624565 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.6031437164778115 
+Chemicals: 6.600128082063727 
+Chemical Manufacturing: 7.298896201666526 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 11.405614208400001 
+Textile: 0 
+Metals: 5.333203368527139 
+Machinery and Construction: 0 
+Transportation: -0.10850480992834204 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 14.373969139033125 
+High-complexity Products: 0.21378719304062524 
+Services and Utilities: 4.763435125895083 
+ 
+increase Precious Stones	 in Costa Rica by 310101676.86882335 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.3912012424179006 
+Chemicals: 7.590273501895091 
+Chemical Manufacturing: 8.47528076151639 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 15.290021034514027 
+Textile: 0 
+Metals: 8.388615219945462 
+Machinery and Construction: 0 
+Transportation: -0.11155013821142945 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0.13418365326824072 
+Services and Utilities: 3.524606449784437 
+ 
+increase Clothing and Accessories in Costa Rica by 396314489.3759958 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.1059035354017 
+Chemicals: 7.590508124444624 
+Chemical Manufacturing: 7.715875177156978 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 10.309265199309028 
+Machinery and Construction: 0 
+Transportation: -0.2950807070746221 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.028687938887902442 
+Services and Utilities: 2.355185411448852 
+ 
+increase Metals in Costa Rica by 332351729.8828726 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 7.192926616581324 
+Chemicals: 6.964289409865445 
+Chemical Manufacturing: 5.879261550663423 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.548637480629854 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.416754766821401 
+Services and Utilities: 0.2786284702693088 
+ 
+increase Energy Drilling and Mining in Costa Rica by 2041021086.2224364 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 9.499396302609933 
+Chemical Manufacturing: 7.747063142335863 
+Raw Manufacturing: 78.9221357879581 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.14453133747418997 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0.05042006718973406 
+Services and Utilities: 1.5408715105855066 
+ 
+increase Raw Manufacturing in Costa Rica by 66547445.990085244 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 9.387732152592669 
+Chemical Manufacturing: 8.835522330338463 
+Raw Manufacturing: 0 
+Wood Products: 4872.476260325043 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 8607.053795299078 
+Transportation: 0.3596533232860855 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: 0.6869565498085937 
+Services and Utilities: 5.392436672407511 
+ 
+increase Machinery and Construction in Costa Rica by 426840.0869653672 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.504878622825343 
+Chemical Manufacturing: 6.6070556832968546 
+Raw Manufacturing: 0 
+Wood Products: 3906.9305664485396 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.2697339449776616 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.11841195242698765 
+Services and Utilities: 1.267157864827412 
+ 
+increase Wood Products in Costa Rica by 2018439.0275468826 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 7.904127292971025 
+Chemical Manufacturing: 5.263624271325494 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 13603.963852687297 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.4292610518698612 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.39038413592540255 
+Services and Utilities: 0.05652448253216716 
+ 
+increase Textile in Costa Rica by 946127.2308280766 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 7.451955706874007 
+Chemical Manufacturing: 4.995536386439863 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.48208942503006025 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 22901.3674776329 
+High-complexity Products: -0.35836926800926705 
+Services and Utilities: 1.1093522582156605 
+ 
+increase Precious Stones	 in Costa Rica by 574681.4102127552 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 8.345524221787212 
+Chemical Manufacturing: 5.941595131498643 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.4919884789958688 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -0.44059058732038053 
+Services and Utilities: -0.1995723319444746 
+ 
+increase Chemicals in Costa Rica by 507747711.108122 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.2300932429907467 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 1412.2104188878218 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.8210864878800394 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.0331719753487398 
+Services and Utilities: -1.9649835580716903 
+ 
+increase Clothing and Accessories in Costa Rica by 7685138.059879422 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.1405075775802285 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.9969011029768613 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.1905536700078334 
+Services and Utilities: -3.158723758256521 
+ 
+increase Chemical Manufacturing in Costa Rica by 615911444.3059814 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5157.659098887243 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 84.10587725897707 
+Machinery and Construction: 0 
+Transportation: -0.9913093255695791 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.8034538167669354 
+Services and Utilities: -6.140164103703815 
+ 
+increase Energy Drilling and Mining in Costa Rica by 3557232.575521469 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 78.65752651243238 
+Machinery and Construction: 0 
+Transportation: -0.9564172662495612 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -1.8443590770650176 
+Services and Utilities: -6.705182995721236 
+ 
+increase Metals in Costa Rica by 87578878.76800084 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -1.1929892758773315 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: 0 
+High-complexity Products: -2.2145452137629107 
+Services and Utilities: -8.805364462467045 
+ 
+Costa Rica completed

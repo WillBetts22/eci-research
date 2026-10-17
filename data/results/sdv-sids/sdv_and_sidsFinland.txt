@@ -1,0 +1,41 @@
+Before Iteration: Animals and By-products: -43.6422525972681 
+Vegetables, Fruits and Plants: -24.34851259605364 
+Food and Preparations: -11.474643311006888 
+Energy Drilling and Mining: -14.120982104792555 
+Chemicals: 3.553698110126702 
+Chemical Manufacturing: -1.723809044953547 
+Raw Manufacturing: -20.860922627567394 
+Wood Products: 0 
+Clothing and Accessories: -8.452913235397961 
+Textile: -24.07847613354935 
+Metals: 0 
+Machinery and Construction: -0.881280914343319 
+Transportation: 0.2538762951090233 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -9.489872650013274 
+High-complexity Products: -17.38761689900629 
+Services and Utilities: 0 
+ 
+increase Chemicals in Finland by 1551472720.1142182 USD 
+Iteration 1:  
+Animals and By-products: -40.860789646077556 
+Vegetables, Fruits and Plants: -23.388302927832292 
+Food and Preparations: -11.284518565468144 
+Energy Drilling and Mining: -10.862096952842048 
+Chemicals: 0 
+Chemical Manufacturing: -3.7942382202882823 
+Raw Manufacturing: -22.860611083721963 
+Wood Products: 0 
+Clothing and Accessories: -8.478864292142035 
+Textile: -22.860041846804908 
+Metals: 0 
+Machinery and Construction: -31.319440325549937 
+Transportation: -0.8649260036877336 
+Weapons: 0 
+Daily Instruments: 0 
+Precious Stones	: -8.682687515682673 
+High-complexity Products: -22.927891322924705 
+Services and Utilities: 0 
+ 
+Finland completed

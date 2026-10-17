@@ -1,0 +1,419 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.3258643909535623 
+Chemicals: 12.155607791015209 
+Chemical Manufacturing: 5.029766015477957 
+Raw Manufacturing: 6.173817853042007 
+Wood Products: 9.35776276073683 
+Clothing and Accessories: 0 
+Textile: 69.36914119539128 
+Metals: 1.6278151720115994 
+Machinery and Construction: 103.60266301573111 
+Transportation: 2.163007997366712 
+Weapons: 430.2714160162701 
+Daily Instruments: 7.534253535751814 
+Precious Stones	: 3.5619661548585935 
+High-complexity Products: 2.5960078441731085 
+Services and Utilities: 19.137268033303915 
+ 
+increase Weapons in Ethiopia by 1445884.4234726739 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 1.8351503321719163 
+Chemicals: 11.565323591804741 
+Chemical Manufacturing: 4.731845020602133 
+Raw Manufacturing: 6.146493000586674 
+Wood Products: 10.76564617906408 
+Clothing and Accessories: 0 
+Textile: 96.18533135420674 
+Metals: 1.877070178113847 
+Machinery and Construction: 97.02696720623685 
+Transportation: 1.9198658600312812 
+Weapons: 0 
+Daily Instruments: 6.632756213531335 
+Precious Stones	: 5.1860356282162146 
+High-complexity Products: 2.2366762556228297 
+Services and Utilities: 16.662623420127414 
+ 
+increase Machinery and Construction in Ethiopia by 9476168.193969022 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 2.013801834979935 
+Chemicals: 10.717380567275365 
+Chemical Manufacturing: 3.7922688866690817 
+Raw Manufacturing: 4.556429260085301 
+Wood Products: 9.516355119538769 
+Clothing and Accessories: 0 
+Textile: 109.28096449813211 
+Metals: 1.2749107029098714 
+Machinery and Construction: 0 
+Transportation: 1.390148525571654 
+Weapons: 0 
+Daily Instruments: 4.8158234999062115 
+Precious Stones	: 5.389707395969774 
+High-complexity Products: 1.5127919126724496 
+Services and Utilities: 12.661199044317732 
+ 
+increase Textile in Ethiopia by 4450164.6083111055 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.0042273910479325 
+Chemicals: 11.253634051376752 
+Chemical Manufacturing: 4.150620305572945 
+Raw Manufacturing: 7.114169016686374 
+Wood Products: 14.045336501640014 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 2.573078551920902 
+Machinery and Construction: 0 
+Transportation: 1.3397853901159393 
+Weapons: 0 
+Daily Instruments: 5.046768651158288 
+Precious Stones	: 10.769421874649419 
+High-complexity Products: 1.4709637893766931 
+Services and Utilities: 12.440012849364702 
+ 
+increase Wood Products in Ethiopia by 48213253.45356958 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 3.830004024102533 
+Chemicals: 11.099288826505692 
+Chemical Manufacturing: 3.9364465786075815 
+Raw Manufacturing: 7.478062450050562 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 3.265121728679224 
+Machinery and Construction: 0 
+Transportation: 1.1497358652694842 
+Weapons: 0 
+Daily Instruments: 4.506623292724997 
+Precious Stones	: 12.698637505239276 
+High-complexity Products: 1.1784346333451257 
+Services and Utilities: 11.000079837784483 
+ 
+increase Precious Stones	 in Ethiopia by 79679950.86545825 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 5.678734846425807 
+Chemicals: 12.068976045350832 
+Chemical Manufacturing: 4.389827586162561 
+Raw Manufacturing: 8.66060069891312 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.402264645701809 
+Machinery and Construction: 0 
+Transportation: 1.1413002474361982 
+Weapons: 0 
+Daily Instruments: 4.868637344642164 
+Precious Stones	: 0 
+High-complexity Products: 1.1055397525361619 
+Services and Utilities: 9.75289001272047 
+ 
+increase Chemicals in Ethiopia by 75979506.83116193 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.072159857211293 
+Chemicals: 0 
+Chemical Manufacturing: 3.2407999112484434 
+Raw Manufacturing: 7.638985372773902 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.079103729563673 
+Machinery and Construction: 0 
+Transportation: 0.7191187796345032 
+Weapons: 0 
+Daily Instruments: 3.422278379319074 
+Precious Stones	: 0 
+High-complexity Products: 0.42023319127221254 
+Services and Utilities: 6.846433930100742 
+ 
+increase Raw Manufacturing in Ethiopia by 108302924.88184509 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 6.52154680496359 
+Chemicals: 0 
+Chemical Manufacturing: 2.6531541153975158 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 4.129096866597632 
+Machinery and Construction: 0 
+Transportation: 0.18915912075471727 
+Weapons: 0 
+Daily Instruments: 2.0282307131829116 
+Precious Stones	: 0 
+High-complexity Products: -0.013067116114538872 
+Services and Utilities: 5.17356912233823 
+ 
+increase Energy Drilling and Mining in Ethiopia by 400875992.07044905 USD 
+Iteration 8:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.536686711737685 
+Raw Manufacturing: 0 
+Wood Products: 3674.3557141748975 
+Clothing and Accessories: 0 
+Textile: 4372.372624895547 
+Metals: 4.958096522561263 
+Machinery and Construction: 6717.715081486626 
+Transportation: 1.236381124444351 
+Weapons: 42603.645139749904 
+Daily Instruments: 5.628809530070403 
+Precious Stones	: 0 
+High-complexity Products: 1.4005735507974872 
+Services and Utilities: 13.170096912505608 
+ 
+increase Weapons in Ethiopia by 27063.89245518623 USD 
+Iteration 9:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.202875339053997 
+Raw Manufacturing: 0 
+Wood Products: 3809.0241651929937 
+Clothing and Accessories: 0 
+Textile: 4676.621204037907 
+Metals: 5.188408235257095 
+Machinery and Construction: 6124.745464910126 
+Transportation: 0.9862357056284279 
+Weapons: 0 
+Daily Instruments: 4.699601308570071 
+Precious Stones	: 0 
+High-complexity Products: 1.0304253260971996 
+Services and Utilities: 10.586372579559972 
+ 
+increase Machinery and Construction in Ethiopia by 169791.9195023626 USD 
+Iteration 10:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.2366760406071826 
+Raw Manufacturing: 0 
+Wood Products: 2993.3399313093023 
+Clothing and Accessories: 0 
+Textile: 4461.362781777003 
+Metals: 4.611756614181711 
+Machinery and Construction: 0 
+Transportation: 0.451715962446473 
+Weapons: 0 
+Daily Instruments: 2.862090125808001 
+Precious Stones	: 0 
+High-complexity Products: 0.2953825121085896 
+Services and Utilities: 6.445035614024352 
+ 
+increase Textile in Ethiopia by 448005.33599227667 USD 
+Iteration 11:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.5716222773225463 
+Raw Manufacturing: 0 
+Wood Products: 2343.9986141904365 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 5.875120143855376 
+Machinery and Construction: 0 
+Transportation: 0.39771552091356444 
+Weapons: 0 
+Daily Instruments: 3.071347319299044 
+Precious Stones	: 0 
+High-complexity Products: 0.25005330027503025 
+Services and Utilities: 6.19025530761605 
+ 
+increase Wood Products in Ethiopia by 644219.8800020218 USD 
+Iteration 12:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.3459696337507285 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 6.555994548275005 
+Machinery and Construction: 0 
+Transportation: 0.2067175518525695 
+Weapons: 0 
+Daily Instruments: 2.522836609164417 
+Precious Stones	: 0 
+High-complexity Products: -0.045037879267080555 
+Services and Utilities: 4.704797852094752 
+ 
+increase Metals in Ethiopia by 218098869.41257894 USD 
+Iteration 13:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 371.74528492294604 
+Chemical Manufacturing: 3.666426198085532 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.43921451591685284 
+Weapons: 0 
+Daily Instruments: 3.038667090083878 
+Precious Stones	: 323.3019774971958 
+High-complexity Products: 0.3717974466577123 
+Services and Utilities: 6.860783493842947 
+ 
+increase Chemicals in Ethiopia by 2989750.1693122983 USD 
+Iteration 14:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.1082500979440324 
+Raw Manufacturing: 1187.4788505980157 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5355103936118729 
+Weapons: 0 
+Daily Instruments: 2.9629238873612427 
+Precious Stones	: 279.61466270402025 
+High-complexity Products: 0.11868993599641128 
+Services and Utilities: 5.598936726642271 
+ 
+increase Raw Manufacturing in Ethiopia by 972143.0161516368 USD 
+Iteration 15:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.524002941912503 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.013712271411145076 
+Weapons: 0 
+Daily Instruments: 1.5835329838440102 
+Precious Stones	: 250.1944813073705 
+High-complexity Products: -0.31351445388170845 
+Services and Utilities: 3.919074940501177 
+ 
+increase Precious Stones	 in Ethiopia by 11661581.65859428 USD 
+Iteration 16:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 2.960573467595098 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.002445752822755433 
+Weapons: 0 
+Daily Instruments: 1.9359023676067286 
+Precious Stones	: 0 
+High-complexity Products: -0.3886208596347424 
+Services and Utilities: 2.5976651469551206 
+ 
+increase Chemical Manufacturing in Ethiopia by 285136253.24947613 USD 
+Iteration 17:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 123.83736310699472 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.1983878938132363 
+Weapons: 0 
+Daily Instruments: -0.5480852611431845 
+Precious Stones	: 0 
+High-complexity Products: -1.3055055342854096 
+Services and Utilities: -2.5464260898129076 
+ 
+increase Energy Drilling and Mining in Ethiopia by 36465911.42596412 USD 
+Iteration 18:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 750.7129512753346 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.017469747141970044 
+Weapons: 0 
+Daily Instruments: 0.29431692375706053 
+Precious Stones	: 0 
+High-complexity Products: -1.1930917052946908 
+Services and Utilities: -1.8320667604601586 
+ 
+increase Clothing and Accessories in Ethiopia by 3423194.872194916 USD 
+Iteration 19:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.17888514955931514 
+Weapons: 0 
+Daily Instruments: -0.04084432415952983 
+Precious Stones	: 0 
+High-complexity Products: -1.3436028073567956 
+Services and Utilities: -3.0829371268430976 
+ 
+Ethiopia completed

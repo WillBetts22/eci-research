@@ -1,0 +1,167 @@
+Before Iteration: Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 21.561552117752274 
+Chemical Manufacturing: 6.3539517530575464 
+Raw Manufacturing: 8.112694063652967 
+Wood Products: 22.95876923272446 
+Clothing and Accessories: 121.78530013922222 
+Textile: 101.27961118120187 
+Metals: 0 
+Machinery and Construction: 129.20223920976423 
+Transportation: 1.8270492249163455 
+Weapons: 0 
+Daily Instruments: 7.118159188840261 
+Precious Stones	: 0 
+High-complexity Products: 1.9984259161750528 
+Services and Utilities: 13.872404903638373 
+ 
+increase Machinery and Construction in Peru by 132716725.14024305 USD 
+Iteration 1:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 20.136578046515847 
+Chemical Manufacturing: 5.289089024903529 
+Raw Manufacturing: 6.542973056576416 
+Wood Products: 21.601233060923075 
+Clothing and Accessories: 117.07232913450208 
+Textile: 108.24067614627157 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.3063556045247107 
+Weapons: 0 
+Daily Instruments: 5.319469559754634 
+Precious Stones	: 0 
+High-complexity Products: 1.244595649827036 
+Services and Utilities: 9.883490949564528 
+ 
+increase Clothing and Accessories in Peru by 148663888.89333105 USD 
+Iteration 2:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 20.00054559294338 
+Chemical Manufacturing: 5.266834198797056 
+Raw Manufacturing: 7.849181604154734 
+Wood Products: 25.5297366990607 
+Clothing and Accessories: 0 
+Textile: 146.93842364597768 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.1616088400690572 
+Weapons: 0 
+Daily Instruments: 5.053876842881658 
+Precious Stones	: 0 
+High-complexity Products: 1.0942491991588035 
+Services and Utilities: 8.720427653461329 
+ 
+increase Textile in Peru by 190983184.3256719 USD 
+Iteration 3:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 20.67613164779535 
+Chemical Manufacturing: 5.660920782180804 
+Raw Manufacturing: 10.469234529895653 
+Wood Products: 30.865790209333742 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 1.111727669534442 
+Weapons: 0 
+Daily Instruments: 5.273444909178877 
+Precious Stones	: 0 
+High-complexity Products: 1.0472242647556924 
+Services and Utilities: 8.474358247008249 
+ 
+increase Wood Products in Peru by 770675628.9750338 USD 
+Iteration 4:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 20.157423159720786 
+Chemical Manufacturing: 5.406100830717401 
+Raw Manufacturing: 10.85960216785325 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.9265690855550812 
+Weapons: 0 
+Daily Instruments: 4.743422727802772 
+Precious Stones	: 0 
+High-complexity Products: 0.7405698616956947 
+Services and Utilities: 7.024292719189017 
+ 
+increase Chemicals in Peru by 902741899.6062744 USD 
+Iteration 5:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 4.101168588135024 
+Raw Manufacturing: 9.823299712990615 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: 0.5086001040203811 
+Weapons: 0 
+Daily Instruments: 3.304982082970172 
+Precious Stones	: 0 
+High-complexity Products: 0.0216269821796173 
+Services and Utilities: 4.099585158288708 
+ 
+increase Raw Manufacturing in Peru by 1915227857.750321 USD 
+Iteration 6:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 3.415201983239138 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.005812883309234298 
+Weapons: 0 
+Daily Instruments: 1.9356805184310286 
+Precious Stones	: 0 
+High-complexity Products: -0.43206539915983805 
+Services and Utilities: 2.4109071395763952 
+ 
+increase Chemical Manufacturing in Peru by 3564750402.985275 USD 
+Iteration 7:  
+Animals and By-products: 0 
+Vegetables, Fruits and Plants: 0 
+Food and Preparations: 0 
+Energy Drilling and Mining: 0 
+Chemicals: 0 
+Chemical Manufacturing: 0 
+Raw Manufacturing: 0 
+Wood Products: 0 
+Clothing and Accessories: 0 
+Textile: 0 
+Metals: 0 
+Machinery and Construction: 0 
+Transportation: -0.18549275842354865 
+Weapons: 0 
+Daily Instruments: -0.03946048510966513 
+Precious Stones	: 0 
+High-complexity Products: -1.4292351011448938 
+Services and Utilities: -3.234248202056773 
+ 
+Peru completed
