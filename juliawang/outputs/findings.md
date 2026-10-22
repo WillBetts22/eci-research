@@ -6,6 +6,10 @@ No, in this grouped local dataset, entropy and ECI do not give identical country
 
 Fixed sample: 119 countries with positive recorded exports in every year, 2019–2023. The overlapping High-complexity Products group is excluded, leaving 17 groups. Zero entries are retained. This is a recomputed grouped-data ECI, not published Harvard ECI.
 
+Entropy and RCA diversity each explain about 16% of ECI variation.
+Concentration (HHI) explains about 11%.
+Quadratic models offer little improvement and perform slightly worse in leave-one-country-out checks.
+
 ## Rank correlations (fixed country sample)
 
  year        metric  spearman_rho
