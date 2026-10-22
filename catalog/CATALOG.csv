@@ -945,6 +945,26 @@ docs/original-instructions/Copy of Code Execution Instructions [Fall 2023].docx,
 docs/original-instructions/Instructions For ECI Research Procedure.docx,1. Instructions - Onboarding/Instructions For ECI Research Procedure.docx,docs,,,current,1261835
 docs/original-instructions/Semesterly Update Instructions.docx,_To-Do & Trackers/Semesterly Update Instructions.docx,docs,,,current,723198
 docs/original-instructions/Website Update Instructions.docx,1. Instructions - Onboarding/Website Update Instructions.docx,docs,,,current,8006
+juliawang/analyze.py,,other,,,archive,7367
+juliawang/exploration.ipynb,,other,,,archive,6545
+juliawang/outputs/2019_available_metrics.csv,,other,,,archive,20969
+juliawang/outputs/2019_common_metrics.csv,,other,,,archive,15396
+juliawang/outputs/2019_diversification_vs_eci.svg,,other,,,archive,16581
+juliawang/outputs/2019_entropy_ordering_violations.csv,,other,,,archive,734583
+juliawang/outputs/2019_largest_rank_disagreements.csv,,other,,,archive,1617
+juliawang/outputs/2020_available_metrics.csv,,other,,,archive,20181
+juliawang/outputs/2020_common_metrics.csv,,other,,,archive,15383
+juliawang/outputs/2021_available_metrics.csv,,other,,,archive,17793
+juliawang/outputs/2021_common_metrics.csv,,other,,,archive,15347
+juliawang/outputs/2022_available_metrics.csv,,other,,,archive,18420
+juliawang/outputs/2022_common_metrics.csv,,other,,,archive,15369
+juliawang/outputs/2023_available_metrics.csv,,other,,,archive,20198
+juliawang/outputs/2023_common_metrics.csv,,other,,,archive,15398
+juliawang/outputs/correlations.csv,,other,,,archive,2034
+juliawang/outputs/model_comparison.csv,,other,,,archive,712
+juliawang/outputs/models_2019.png,,other,,,archive,180900
+juliawang/outputs/robustness_and_ranks.png,,other,,,archive,175602
+juliawang/plot_models.py,,other,,,archive,4622
 literature/Literature Review.docx,7. Literature Review/Literature Review.docx,literature-review,,,current,401189
 literature/Member Submissions/ECI Lit Review - Aishani.docx,7. Literature Review/Member Submissions/ECI Lit Review - Aishani.docx,literature-review,,,current,10496
 literature/Member Submissions/ECI Lit Review - Allison.docx,7. Literature Review/Member Submissions/ECI Lit Review - Allison.docx,literature-review,,,current,10710
@@ -1142,19 +1162,19 @@ reports/2024-spring/Australia/Australia Positive Shocking.png,3. Country Reports
 reports/2024-spring/Australia/Australia.docx,3. Country Reports/8. 2024 - Spring/Australia/Australia.docx,country-report,2024-spring,Australia,archive,2150069
 reports/2024-spring/Australia/Australia_RID.xlsx,3. Country Reports/8. 2024 - Spring/Australia/Australia_RID.xlsx,country-report,2024-spring,Australia,archive,5653
 reports/2024-spring/Australia/Australia_eci_19to22_dict.xlsx,3. Country Reports/8. 2024 - Spring/Australia/Australia_eci_19to22_dict.xlsx,country-report,2024-spring,Australia,archive,5247
-reports/2024-spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Australia,archive,34363
-reports/2024-spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Australia,archive,43716
+reports/2024-spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Singapore,archive,34363
+reports/2024-spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Singapore,archive,43716
 reports/2024-spring/Australia/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Australia.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Australia.png,country-report,2024-spring,Australia,archive,35430
 reports/2024-spring/Australia/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Australia/more_countries_RID3.xlsx,country-report,2024-spring,Australia,archive,10242
 reports/2024-spring/Australia/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Australia/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Australia,archive,9646
 reports/2024-spring/Australia/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Australia/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Australia,archive,6470
 reports/2024-spring/Australia/sequential strategy of Australia.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Australia.xls,country-report,2024-spring,Australia,archive,17920
 reports/2024-spring/Australia/sequential strategy of Canada.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Canada.xls,country-report,2024-spring,Australia,archive,17920
-reports/2024-spring/Australia/sequential strategy of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Singapore.xls,country-report,2024-spring,Australia,archive,9728
+reports/2024-spring/Australia/sequential strategy of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Singapore.xls,country-report,2024-spring,Singapore,archive,9728
 reports/2024-spring/Australia/sequential vector of Australia.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Australia.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Australia/sequential vector of Canada.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Canada.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Australia/sequential vector of New Zealand.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of New Zealand.xls,country-report,2024-spring,New Zealand,archive,5632
-reports/2024-spring/Australia/sequential vector of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Singapore.xls,country-report,2024-spring,Australia,archive,5632
+reports/2024-spring/Australia/sequential vector of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Singapore.xls,country-report,2024-spring,Singapore,archive,5632
 reports/2024-spring/Australia/tableau Australia 2022.xls,3. Country Reports/8. 2024 - Spring/Australia/tableau Australia 2022.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Belgium/2019-2022 ECI of main country and comparable countries.png,3. Country Reports/8. 2024 - Spring/Belgium/2019-2022 ECI of main country and comparable countries.png,country-report,2024-spring,Belgium,archive,57478
 reports/2024-spring/Belgium/Aggregate of GDP for main country and comparable countries.png,3. Country Reports/8. 2024 - Spring/Belgium/Aggregate of GDP for main country and comparable countries.png,country-report,2024-spring,Belgium,archive,18816
@@ -1178,8 +1198,8 @@ reports/2024-spring/Belgium/output files/Belgium Positive Shocking.png,3. Countr
 reports/2024-spring/Belgium/output files/Belgium_RID.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_RID.xlsx,country-report,2024-spring,Belgium,archive,5656
 reports/2024-spring/Belgium/output files/Belgium_eci_19to22_dict.txt,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_eci_19to22_dict.txt,country-report,2024-spring,Belgium,archive,284
 reports/2024-spring/Belgium/output files/Belgium_eci_19to22_dict.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_eci_19to22_dict.xlsx,country-report,2024-spring,Belgium,archive,5245
-reports/2024-spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Belgium,archive,31726
-reports/2024-spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Belgium,archive,44341
+reports/2024-spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Austria,archive,31726
+reports/2024-spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Austria,archive,44341
 reports/2024-spring/Belgium/output files/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Belgium.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Belgium.png,country-report,2024-spring,Belgium,archive,37054
 reports/2024-spring/Belgium/output files/Regression of GDP over SOI.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Regression of GDP over SOI.png,country-report,2024-spring,Belgium,archive,87944
 reports/2024-spring/Belgium/output files/SOI of Belgium.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/SOI of Belgium.png,country-report,2024-spring,Belgium,archive,163913
@@ -1188,11 +1208,11 @@ reports/2024-spring/Belgium/output files/comparable_countries_gdp.txt,3. Country
 reports/2024-spring/Belgium/output files/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/more_countries_RID3.xlsx,country-report,2024-spring,Belgium,archive,10245
 reports/2024-spring/Belgium/output files/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Belgium,archive,5922
 reports/2024-spring/Belgium/output files/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Belgium,archive,6470
-reports/2024-spring/Belgium/output files/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Austria.xls,country-report,2024-spring,Belgium,archive,5632
+reports/2024-spring/Belgium/output files/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Austria.xls,country-report,2024-spring,Austria,archive,5632
 reports/2024-spring/Belgium/output files/sequential strategy of Belgium.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Belgium.xls,country-report,2024-spring,Belgium,archive,13824
 reports/2024-spring/Belgium/output files/sequential strategy of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Netherlands.xls,country-report,2024-spring,Netherlands,archive,17920
 reports/2024-spring/Belgium/output files/sequential strategy of Sweden.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Sweden.xls,country-report,2024-spring,Belgium,archive,5632
-reports/2024-spring/Belgium/output files/sequential vector of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Austria.xls,country-report,2024-spring,Belgium,archive,5632
+reports/2024-spring/Belgium/output files/sequential vector of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Austria.xls,country-report,2024-spring,Austria,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Belgium.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Belgium.xls,country-report,2024-spring,Belgium,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Netherlands.xls,country-report,2024-spring,Netherlands,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Sweden.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Sweden.xls,country-report,2024-spring,Belgium,archive,5632
@@ -1226,14 +1246,14 @@ reports/2024-spring/Netherlands/sdv_and_sidsAustria.txt,3. Country Reports/8. 20
 reports/2024-spring/Netherlands/sdv_and_sidsBelgium.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsBelgium.txt,country-report,2024-spring,Netherlands,archive,4793
 reports/2024-spring/Netherlands/sdv_and_sidsNetherlands.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsNetherlands.txt,country-report,2024-spring,Netherlands,archive,6554
 reports/2024-spring/Netherlands/sdv_and_sidsSweden.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsSweden.txt,country-report,2024-spring,Netherlands,archive,644
-reports/2024-spring/Netherlands/sdv_and_sidsTimor-Leste.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsTimor-Leste.txt,country-report,2024-spring,Netherlands,archive,6508
+reports/2024-spring/Netherlands/sdv_and_sidsTimor-Leste.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsTimor-Leste.txt,country-report,2024-spring,Timor-Leste,archive,6508
 reports/2024-spring/Netherlands/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Netherlands,archive,9619
 reports/2024-spring/Netherlands/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Netherlands,archive,10231
 reports/2024-spring/Netherlands/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Austria.xls,country-report,2024-spring,Netherlands,archive,5632
 reports/2024-spring/Netherlands/sequential strategy of Belgium.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Belgium.xls,country-report,2024-spring,Netherlands,archive,13824
 reports/2024-spring/Netherlands/sequential strategy of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Netherlands.xls,country-report,2024-spring,Netherlands,archive,17920
 reports/2024-spring/Netherlands/sequential strategy of Sweden.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Sweden.xls,country-report,2024-spring,Netherlands,archive,5632
-reports/2024-spring/Netherlands/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Netherlands,archive,17920
+reports/2024-spring/Netherlands/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,17920
 reports/2024-spring/Netherlands/sequential vector (netherlands+comps).xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential vector (netherlands+comps).xls,country-report,2024-spring,Netherlands,archive,28672
 reports/2024-spring/Netherlands/tableau Netherlands 2022.pdf,3. Country Reports/8. 2024 - Spring/Netherlands/tableau Netherlands 2022.pdf,country-report,2024-spring,Netherlands,archive,12975
 reports/2024-spring/Netherlands/tableau Netherlands 2022.xls,3. Country Reports/8. 2024 - Spring/Netherlands/tableau Netherlands 2022.xls,country-report,2024-spring,Netherlands,archive,9728
@@ -1305,12 +1325,12 @@ reports/2024-spring/Sri Lanka/comparable_countries_gdp.txt,3. Country Reports/8.
 reports/2024-spring/Sri Lanka/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/more_countries_RID3.xlsx,country-report,2024-spring,Sri Lanka,archive,6459
 reports/2024-spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,country-report,2024-spring,Sri Lanka,archive,5923
 reports/2024-spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,country-report,2024-spring,Sri Lanka,archive,6471
-reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Argentina,archive,26112
+reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,26112
 reports/2024-spring/Sri Lanka/sequential strategy of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Chile.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,22016
 reports/2024-spring/Sri Lanka/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,17920
-reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Argentina,archive,5632
+reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Chile.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,5632
@@ -1369,7 +1389,7 @@ reports/2024-spring/Tunisia/comparable_countries_gdp.txt,3. Country Reports/8. 2
 reports/2024-spring/Tunisia/newplot-2.png,3. Country Reports/8. 2024 - Spring/Tunisia/newplot-2.png,country-report,2024-spring,Tunisia,archive,81752
 reports/2024-spring/Tunisia/newplot.png,3. Country Reports/8. 2024 - Spring/Tunisia/newplot.png,country-report,2024-spring,Tunisia,archive,85882
 reports/2024-spring/Tunisia/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Tunisia/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Tunisia,archive,5923
-reports/2024-spring/Tunisia/sequential vector of Morocco.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Morocco.xls,country-report,2024-spring,Morocco,archive,5632
+reports/2024-spring/Tunisia/sequential vector of Morocco.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Morocco.xls,country-report,2024-spring,Tunisia,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Senegal.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Senegal.xls,country-report,2024-spring,Tunisia,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Tunisia.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Tunisia.xls,country-report,2024-spring,Tunisia,archive,27648
@@ -1416,7 +1436,7 @@ reports/2025-fall/Singapore/(Final) ECI Auto Report Test/img/kix.we5usefgy5tx.pn
 reports/2025-fall/Singapore/(Naythan) All Code_v03_12_23.ipynb,Singapore 2025/(Naythan) All Code_v03_12_23.ipynb,country-report,2025-fall,Singapore,archive,1310953
 reports/2025-fall/Singapore/(Reference) Singapore_2021.docx,Singapore 2025/(Reference) Singapore_2021.docx,country-report,2025-fall,Singapore,archive,3055076
 reports/2025-fall/Singapore/New_result_update/sdv_and_sidsChina.txt,Singapore 2025/New_result_update/sdv_and_sidsChina.txt,country-report,2025-fall,Singapore,archive,8995
-reports/2025-fall/Singapore/New_result_update/sdv_and_sidsIndonesia.txt,Singapore 2025/New_result_update/sdv_and_sidsIndonesia.txt,country-report,2025-fall,Indonesia,archive,4845
+reports/2025-fall/Singapore/New_result_update/sdv_and_sidsIndonesia.txt,Singapore 2025/New_result_update/sdv_and_sidsIndonesia.txt,country-report,2025-fall,Singapore,archive,4845
 reports/2025-fall/Singapore/New_result_update/sdv_and_sidsSingapore.txt,Singapore 2025/New_result_update/sdv_and_sidsSingapore.txt,country-report,2025-fall,Singapore,archive,1413
 reports/2025-fall/Singapore/New_result_update/sdv_and_sidsThailand.txt,Singapore 2025/New_result_update/sdv_and_sidsThailand.txt,country-report,2025-fall,Singapore,archive,5986
 reports/2025-fall/Singapore/Singapore_2023.docx,Singapore 2025/Singapore_2023.docx,country-report,2025-fall,Singapore,archive,2335386
@@ -1815,3 +1835,4 @@ templates/archive-copies/Copy of Template(7).docx,2. Templates/Copy of Template(
 templates/archive-copies/Copy of Template(8).docx,2. Templates/Copy of Template(8).docx,template,,,current,2481746
 templates/archive-copies/Copy of Template(9).docx,2. Templates/Copy of Template(9).docx,template,,,current,2479002
 templates/archive-copies/Copy of Template.docx,2. Templates/Copy of Template.docx,template,,,current,2481757
+willbetts/exploration.ipynb,,other,,,archive,8469
