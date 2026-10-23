@@ -1,0 +1,7 @@
+model,formula,n,r2,loo_rmse,b[eci_hs4],b[eci_grp],b[log_diversity],b[resource_share],b[resource_dep],b[eci_hs4:resource_dep]
+A,log_gdppc ~ eci_hs4,126,0.5627296891718012,0.6866161540205843,+0.79 (p=0.000),,,,,
+B,log_gdppc ~ eci_grp,126,0.08116789432897087,0.9959647003121433,,+0.29 (p=0.002),,,,
+C,log_gdppc ~ log_diversity,126,0.09774093439416698,0.9901436835741755,,,+0.38 (p=0.002),,,
+D,log_gdppc ~ eci_hs4 + log_diversity,126,0.6032814811861191,0.6620277308116046,+0.96 (p=0.000),,-0.31 (p=0.002),,,
+E,log_gdppc ~ eci_hs4 + resource_share,126,0.63240514600967,0.6363705442177477,+0.94 (p=0.000),,,+1.07 (p=0.000),,
+F,log_gdppc ~ eci_hs4 * resource_dep,126,0.6053227403065964,0.6641408627204843,+0.84 (p=0.000),,,,+0.62 (p=0.000),+0.30 (p=0.079)
