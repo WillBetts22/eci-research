@@ -34,6 +34,8 @@ Every question below is ultimately a test of one of those three links.
   - *Instruments*: geography-based or neighbor-based export shocks, though instrument validity will be hard to defend.
 - **Reverse causality**: rich countries can afford to build complex industries. Initial-period ECI helps, but does not settle this.
 
+Broken into four two-week projects in `ECI_growth_prediction.md`.
+
 ### Starter tasks
 - [ ] Extend `exploration.ipynb`: compute the lab's ECI (port `compute_mcp` / `compute_eci`) for 2019 and regress 2019-2023 growth on it, next to entropy.
 - [ ] Get longer history (see section 6) to do a proper 10-year test.
