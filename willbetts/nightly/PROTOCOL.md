@@ -24,7 +24,7 @@ Background, which the agent must read every night:
 
 ## 2. Branch
 
-- Always branch from `origin/main`: `claude/nightly-YYYY-MM-DD` (use America/New_York date of the morning the PR is for).
+- Always branch from `origin/main`: `claude/nightly-YYYY-MM-DD`, using the **current** America/New_York date (`TZ=America/New_York date +%F`). If that branch already exists on origin, append `-2`, `-3`, and so on. Use the same date in the run folder name.
 - Every night writes **only new files** under `willbetts/nightly/` so PRs never conflict with each other:
   - `runs/YYYY-MM-DD_<QID>-<slug>/notebook.ipynb` (required)
   - `runs/YYYY-MM-DD_<QID>-<slug>/figures/*.png` and small `*.csv` outputs (optional, under 2 MB total)
