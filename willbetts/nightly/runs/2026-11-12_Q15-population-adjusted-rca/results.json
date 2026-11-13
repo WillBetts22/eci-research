@@ -1,0 +1,129 @@
+{
+  "descriptive": [
+    {
+      "variant": "eci_binary",
+      "spearman_log_gdppc": 0.8121373971861409,
+      "r2_log_gdppc": 0.6272031517535812,
+      "stability": 0.9812264904034498,
+      "spearman_vs_published": 0.9800665848123212
+    },
+    {
+      "variant": "eci_rpca",
+      "spearman_log_gdppc": 0.8360959130698296,
+      "r2_log_gdppc": 0.5802514809512924,
+      "stability": 0.9856110202654328,
+      "spearman_vs_published": 0.9231948326553812
+    },
+    {
+      "variant": "eci_rca_and_rpca",
+      "spearman_log_gdppc": 0.8554658456261245,
+      "r2_log_gdppc": 0.6878543029909925,
+      "stability": 0.9861110402389553,
+      "spearman_vs_published": 0.933512287411912
+    }
+  ],
+  "growth": [
+    {
+      "variant": "eci_binary",
+      "n": 358,
+      "coef_sd": 0.5658586428680057,
+      "p": 0.015406387514498675,
+      "delta_r2": 0.013971647158619205
+    },
+    {
+      "variant": "eci_rpca",
+      "n": 358,
+      "coef_sd": 0.3408986400220906,
+      "p": 0.19768506871896552,
+      "delta_r2": 0.006311588408575264
+    },
+    {
+      "variant": "eci_rca_and_rpca",
+      "n": 358,
+      "coef_sd": 0.284201007188146,
+      "p": 0.31564396877433754,
+      "delta_r2": 0.0033684101974486014
+    }
+  ],
+  "growth_n_obs": 358,
+  "both_in_model": {
+    "coef_binary": 0.4927296231420531,
+    "p_binary": 0.02341814588296546,
+    "coef_rpca": 0.1806183359771174,
+    "p_rpca": 0.4759057194402969
+  },
+  "spearman_rankdiff_vs_log_pop_2019": 0.19759151120158172,
+  "largest_movers_2019": {
+    "IND": {
+      "rca_rank": 49.0,
+      "rpca_rank": 104.0,
+      "diff": 55.0
+    },
+    "PHL": {
+      "rca_rank": 33.0,
+      "rpca_rank": 83.0,
+      "diff": 50.0
+    },
+    "BGD": {
+      "rca_rank": 111.0,
+      "rpca_rank": 64.0,
+      "diff": -47.0
+    },
+    "YEM": {
+      "rca_rank": 131.0,
+      "rpca_rank": 85.0,
+      "diff": -46.0
+    },
+    "KHM": {
+      "rca_rank": 96.0,
+      "rpca_rank": 60.0,
+      "diff": -36.0
+    },
+    "KEN": {
+      "rca_rank": 85.0,
+      "rpca_rank": 118.0,
+      "diff": 33.0
+    },
+    "BRA": {
+      "rca_rank": 64.0,
+      "rpca_rank": 95.0,
+      "diff": 31.0
+    },
+    "ALB": {
+      "rca_rank": 99.0,
+      "rpca_rank": 70.0,
+      "diff": -29.0
+    },
+    "UGA": {
+      "rca_rank": 108.0,
+      "rpca_rank": 135.0,
+      "diff": 27.0
+    },
+    "COD": {
+      "rca_rank": 105.0,
+      "rpca_rank": 132.0,
+      "diff": 27.0
+    }
+  },
+  "repo_2019_income": {
+    "RCA>=1": {
+      "r2": 0.5851052126061469,
+      "pearson": 0.7649217035789656,
+      "spearman": 0.7887424071991002,
+      "n": 126
+    },
+    "RpcA>=1": {
+      "r2": 0.6772331533284157,
+      "pearson": 0.8229417678842262,
+      "spearman": 0.8387221597300337,
+      "n": 126
+    },
+    "RCA>=1 & RpcA>=1": {
+      "r2": 0.735809236356146,
+      "pearson": 0.8577932363665186,
+      "spearman": 0.8366584176977878,
+      "n": 126
+    }
+  },
+  "runtime_s": 0.46662473678588867
+}

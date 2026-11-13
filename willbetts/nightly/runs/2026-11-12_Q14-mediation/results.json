@@ -1,0 +1,323 @@
+{
+  "main_atlas_eci": [
+    {
+      "model": "ECI + income + resources",
+      "n": 323,
+      "r2": 0.1942629289129163,
+      "eci_coef_sd": 0.49432456394720914,
+      "eci_se": 0.23766162998462928,
+      "eci_p": 0.03753002015122814,
+      "share_of_ref_coef": 1.0,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN,
+      "coef_wgi_gov_effectiveness": NaN,
+      "coef_wgi_rule_of_law": NaN,
+      "p_wgi_gov_effectiveness": NaN,
+      "p_wgi_rule_of_law": NaN
+    },
+    {
+      "model": "+ human capital",
+      "n": 323,
+      "r2": 0.21343757048372036,
+      "eci_coef_sd": 0.2905079970215814,
+      "eci_se": 0.23569927884892852,
+      "eci_p": 0.21774868878489584,
+      "share_of_ref_coef": 0.5876867511941121,
+      "coef_ln_hc": 0.5642884821235453,
+      "p_ln_hc": 0.004555991799947093,
+      "coef_wgi_gov_effectiveness": NaN,
+      "coef_wgi_rule_of_law": NaN,
+      "p_wgi_gov_effectiveness": NaN,
+      "p_wgi_rule_of_law": NaN
+    },
+    {
+      "model": "+ governance",
+      "n": 323,
+      "r2": 0.20527267484468315,
+      "eci_coef_sd": 0.4748541747684176,
+      "eci_se": 0.2352487472571588,
+      "eci_p": 0.043537189334935195,
+      "share_of_ref_coef": 0.9606121350245689,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN,
+      "coef_wgi_gov_effectiveness": 0.7257698198845866,
+      "coef_wgi_rule_of_law": -0.18006094207146967,
+      "p_wgi_gov_effectiveness": 0.13243268135852318,
+      "p_wgi_rule_of_law": 0.7079276159829677
+    },
+    {
+      "model": "+ human capital + governance",
+      "n": 323,
+      "r2": 0.22741852762360726,
+      "eci_coef_sd": 0.2524140178618254,
+      "eci_se": 0.23371308280891584,
+      "eci_p": 0.2801347713979029,
+      "share_of_ref_coef": 0.5106240641700777,
+      "coef_ln_hc": 0.609061715345763,
+      "p_ln_hc": 0.0019127843873838193,
+      "coef_wgi_gov_effectiveness": 0.8277896907690293,
+      "coef_wgi_rule_of_law": -0.21249136735015306,
+      "p_wgi_gov_effectiveness": 0.08220442898807681,
+      "p_wgi_rule_of_law": 0.659523828931474
+    }
+  ],
+  "main_our_eci": [
+    {
+      "model": "ECI + income + resources",
+      "n": 323,
+      "r2": 0.18447925122767728,
+      "eci_coef_sd": 0.2105362108944845,
+      "eci_se": 0.22335933865356775,
+      "eci_p": 0.34589081282411216,
+      "share_of_ref_coef": 1.0,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN,
+      "coef_wgi_gov_effectiveness": NaN,
+      "coef_wgi_rule_of_law": NaN,
+      "p_wgi_gov_effectiveness": NaN,
+      "p_wgi_rule_of_law": NaN
+    },
+    {
+      "model": "+ human capital",
+      "n": 323,
+      "r2": 0.20977811513432043,
+      "eci_coef_sd": -0.03370548426695624,
+      "eci_se": 0.21829821048343348,
+      "eci_p": 0.8772934847954145,
+      "share_of_ref_coef": -0.16009352559236753,
+      "coef_ln_hc": 0.6497691539285484,
+      "p_ln_hc": 0.0009646477074179805,
+      "coef_wgi_gov_effectiveness": NaN,
+      "coef_wgi_rule_of_law": NaN,
+      "p_wgi_gov_effectiveness": NaN,
+      "p_wgi_rule_of_law": NaN
+    },
+    {
+      "model": "+ governance",
+      "n": 323,
+      "r2": 0.19561593479240869,
+      "eci_coef_sd": 0.16509118350735452,
+      "eci_se": 0.22460258203545252,
+      "eci_p": 0.46231702734003777,
+      "share_of_ref_coef": 0.7841462654141435,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN,
+      "coef_wgi_gov_effectiveness": 0.7232302737747012,
+      "coef_wgi_rule_of_law": -0.16930878771878255,
+      "p_wgi_gov_effectiveness": 0.1304887729187098,
+      "p_wgi_rule_of_law": 0.7230270537937424
+    },
+    {
+      "model": "+ human capital + governance",
+      "n": 323,
+      "r2": 0.2251223543335148,
+      "eci_coef_sd": -0.10842400422125759,
+      "eci_se": 0.22025751127987844,
+      "eci_p": 0.6225354195669237,
+      "share_of_ref_coef": -0.5149898146290711,
+      "coef_ln_hc": 0.7060933533043481,
+      "p_ln_hc": 0.0002627613245747439,
+      "coef_wgi_gov_effectiveness": 0.8653253046688109,
+      "coef_wgi_rule_of_law": -0.21493223990541244,
+      "p_wgi_gov_effectiveness": 0.06692065895884557,
+      "p_wgi_rule_of_law": 0.6545130586406994
+    }
+  ],
+  "main_n_countries": 126,
+  "capabilities_without_eci": {
+    "coef": {
+      "lny0": -1.1173346581604922,
+      "resource_rents_pct_gdp": 0.010305579495836898,
+      "resource_share": -1.7007873538903744,
+      "ln_hc": 0.6765670562420061,
+      "wgi_gov_effectiveness": 0.8475446919023342,
+      "wgi_rule_of_law": -0.21187063029815223
+    },
+    "se": {
+      "lny0": 0.20796992833867828,
+      "resource_rents_pct_gdp": 0.02188944234739505,
+      "resource_share": 0.8183028885089656,
+      "ln_hc": 0.19954094425215924,
+      "wgi_gov_effectiveness": 0.4721508949833985,
+      "wgi_rule_of_law": 0.4805645665548644
+    },
+    "p": {
+      "lny0": 7.761884312210709e-08,
+      "resource_rents_pct_gdp": 0.6377825844806642,
+      "resource_share": 0.03766953792111043,
+      "ln_hc": 0.0006973530475838939,
+      "wgi_gov_effectiveness": 0.07264228301848412,
+      "wgi_rule_of_law": 0.6593008915128562
+    },
+    "r2": 0.22463324340109136,
+    "adj_r2": 0.20487867635398538,
+    "n": 323
+  },
+  "with_infrastructure": [
+    {
+      "model": "ECI + income + resources",
+      "n": 246,
+      "r2": 0.14746686733350511,
+      "eci_coef_sd": 0.4139224412071365,
+      "eci_se": 0.2767587892267534,
+      "eci_p": 0.13475604260687282,
+      "share_of_ref_coef": 1.0,
+      "coef_ln_hc": NaN,
+      "coef_wgi_gov_effectiveness": NaN,
+      "coef_wgi_rule_of_law": NaN,
+      "coef_internet_users_pct": NaN,
+      "coef_private_credit_pct_gdp": NaN,
+      "p_ln_hc": NaN,
+      "p_wgi_gov_effectiveness": NaN,
+      "p_wgi_rule_of_law": NaN,
+      "p_internet_users_pct": NaN,
+      "p_private_credit_pct_gdp": NaN
+    },
+    {
+      "model": "+ all capabilities + internet + credit",
+      "n": 246,
+      "r2": 0.17686819311959023,
+      "eci_coef_sd": 0.2650174500659353,
+      "eci_se": 0.2595492462663709,
+      "eci_p": 0.30722218576493376,
+      "share_of_ref_coef": 0.6402587143935845,
+      "coef_ln_hc": 0.5437046244716581,
+      "coef_wgi_gov_effectiveness": 0.4525169519292699,
+      "coef_wgi_rule_of_law": 0.14744968104452832,
+      "coef_internet_users_pct": -0.4579664687304223,
+      "coef_private_credit_pct_gdp": 0.10133428495743199,
+      "p_ln_hc": 0.007577840655797936,
+      "p_wgi_gov_effectiveness": 0.39961735950464117,
+      "p_wgi_rule_of_law": 0.7975234797676864,
+      "p_internet_users_pct": 0.22937802105185368,
+      "p_private_credit_pct_gdp": 0.5701710606808466
+    }
+  ],
+  "with_rnd": [
+    {
+      "model": "ECI + income + resources",
+      "n": 146,
+      "r2": 0.22097556179489453,
+      "eci_coef_sd": 0.6759932618887733,
+      "eci_se": 0.36384128069675115,
+      "eci_p": 0.06317831874273071,
+      "share_of_ref_coef": 1.0,
+      "coef_rnd_pct_gdp": NaN,
+      "p_rnd_pct_gdp": NaN,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN
+    },
+    {
+      "model": "+ R&D",
+      "n": 146,
+      "r2": 0.22196436271580622,
+      "eci_coef_sd": 0.7306764038156571,
+      "eci_se": 0.3639415137930126,
+      "eci_p": 0.04467780237148503,
+      "share_of_ref_coef": 1.0808930280963085,
+      "coef_rnd_pct_gdp": -0.09807497487989233,
+      "p_rnd_pct_gdp": 0.5787970189906384,
+      "coef_ln_hc": NaN,
+      "p_ln_hc": NaN
+    },
+    {
+      "model": "+ R&D + human capital",
+      "n": 146,
+      "r2": 0.22870361482220958,
+      "eci_coef_sd": 0.5671111182720814,
+      "eci_se": 0.370612659963117,
+      "eci_p": 0.12596748109999947,
+      "share_of_ref_coef": 0.8389301347287583,
+      "coef_rnd_pct_gdp": -0.09236383133844225,
+      "p_rnd_pct_gdp": 0.5974834703881216,
+      "coef_ln_hc": 0.37305991044702125,
+      "p_ln_hc": 0.2551518965014078
+    }
+  ],
+  "decomposition_2013": {
+    "capabilities": {
+      "coef": {
+        "ln_hc": 1.3734151096478122,
+        "wgi_gov_effectiveness": 0.5815093408468566,
+        "wgi_rule_of_law": -0.04590680843392714
+      },
+      "se": {
+        "ln_hc": 0.19302762932601294,
+        "wgi_gov_effectiveness": 0.18613028161163866,
+        "wgi_rule_of_law": 0.18411562256904065
+      },
+      "p": {
+        "ln_hc": 1.1181397963358506e-12,
+        "wgi_gov_effectiveness": 0.0017828559594263473,
+        "wgi_rule_of_law": 0.8031002329537396
+      },
+      "r2": 0.7495604542856569,
+      "adj_r2": 0.743402104800878,
+      "n": 126
+    },
+    "capabilities + income": {
+      "coef": {
+        "ln_hc": 1.4450368213005105,
+        "wgi_gov_effectiveness": 0.6256565285246463,
+        "wgi_rule_of_law": -0.048703174004101124,
+        "lny": -0.04486693881164653
+      },
+      "se": {
+        "ln_hc": 0.24933481974976845,
+        "wgi_gov_effectiveness": 0.19199378676964327,
+        "wgi_rule_of_law": 0.1851309600265438,
+        "lny": 0.0786233093413278
+      },
+      "p": {
+        "ln_hc": 6.809046351817355e-09,
+        "wgi_gov_effectiveness": 0.0011191085548903723,
+        "wgi_rule_of_law": 0.7924934107939656,
+        "lny": 0.568232198308939
+      },
+      "r2": 0.7502766465715215,
+      "adj_r2": 0.7420213291028115,
+      "n": 126
+    },
+    "income only": {
+      "coef": {
+        "lny": 0.543663496305521
+      },
+      "se": {
+        "lny": 0.03471875522764877
+      },
+      "p": {
+        "lny": 2.8806879260591487e-55
+      },
+      "r2": 0.5966684947673369,
+      "adj_r2": 0.5934158213380412,
+      "n": 126
+    },
+    "capabilities + income + resources": {
+      "coef": {
+        "ln_hc": 0.9649341512743985,
+        "wgi_gov_effectiveness": 0.34355666915148075,
+        "wgi_rule_of_law": -0.07285810865778927,
+        "lny": 0.1912370273726498,
+        "resource_share": -1.0928262017274264
+      },
+      "se": {
+        "ln_hc": 0.19871899380307437,
+        "wgi_gov_effectiveness": 0.1693106177345438,
+        "wgi_rule_of_law": 0.15024295521466674,
+        "lny": 0.07132642107438376,
+        "resource_share": 0.1788066148157701
+      },
+      "p": {
+        "ln_hc": 1.199185427324376e-06,
+        "wgi_gov_effectiveness": 0.04244299694641972,
+        "wgi_rule_of_law": 0.6277222597115011,
+        "lny": 0.00733690252044222,
+        "resource_share": 9.852764212681137e-10
+      },
+      "r2": 0.8217490646181353,
+      "adj_r2": 0.8143219423105577,
+      "n": 126
+    }
+  },
+  "runtime_s": 0.33536624908447266
+}

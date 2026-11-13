@@ -1,0 +1,199 @@
+{
+  "2022": {
+    "summary": [
+      {
+        "country": "Canada",
+        "best_grouped": "Services and Utilities",
+        "best_grouped_excl_services": "Daily Instruments",
+        "best_hs4": "Daily Instruments",
+        "agree_excl_services": true,
+        "spearman_gain_rankings": 0.4496328068188924,
+        "max_gain_grouped": 0.4964544724020227,
+        "max_gain_hs4": 0.17794517358826872,
+        "hs4_rank_of_grouped_best": 1
+      },
+      {
+        "country": "Germany",
+        "best_grouped": "Weapons",
+        "best_grouped_excl_services": "Weapons",
+        "best_hs4": "Daily Instruments",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.6278358016367921,
+        "max_gain_grouped": 0.34123526661236503,
+        "max_gain_hs4": 0.054960223033723166,
+        "hs4_rank_of_grouped_best": 5
+      },
+      {
+        "country": "Poland",
+        "best_grouped": "High-complexity Products",
+        "best_grouped_excl_services": "High-complexity Products",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.13193838914302022,
+        "max_gain_grouped": 0.06811835318718051,
+        "max_gain_hs4": 0.07419656183304657,
+        "hs4_rank_of_grouped_best": 3
+      },
+      {
+        "country": "Singapore",
+        "best_grouped": "High-complexity Products",
+        "best_grouped_excl_services": "High-complexity Products",
+        "best_hs4": "Daily Instruments",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.5980392156862745,
+        "max_gain_grouped": 0.36003016932479315,
+        "max_gain_hs4": 0.09836847595120268,
+        "hs4_rank_of_grouped_best": 4
+      },
+      {
+        "country": "UAE",
+        "best_grouped": "Services and Utilities",
+        "best_grouped_excl_services": "Daily Instruments",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.2580843806618869,
+        "max_gain_grouped": 1.7321784782827148,
+        "max_gain_hs4": 0.5271157626354348,
+        "hs4_rank_of_grouped_best": 3
+      },
+      {
+        "country": "UK",
+        "best_grouped": "Daily Instruments",
+        "best_grouped_excl_services": "Daily Instruments",
+        "best_hs4": "Daily Instruments",
+        "agree_excl_services": true,
+        "spearman_gain_rankings": 0.6535646263050566,
+        "max_gain_grouped": 0.12352331164154107,
+        "max_gain_hs4": 0.07817448412720118,
+        "hs4_rank_of_grouped_best": 1
+      },
+      {
+        "country": "Vietnam",
+        "best_grouped": "Services and Utilities",
+        "best_grouped_excl_services": "Machinery and Construction",
+        "best_hs4": "Metals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.14154933949168397,
+        "max_gain_grouped": 0.31807980704108674,
+        "max_gain_hs4": 0.1758587509300519,
+        "hs4_rank_of_grouped_best": 6
+      }
+    ],
+    "n_agree": 2,
+    "n_countries": 7,
+    "mean_spearman": 0.4086635085348009,
+    "notebook_base_sign_agrees_with_diversity": false,
+    "notebook_sign_flips": 0,
+    "notebook_perturbations": 126,
+    "best_grouped_counts": {
+      "Services and Utilities": 3,
+      "High-complexity Products": 2,
+      "Weapons": 1,
+      "Daily Instruments": 1
+    },
+    "best_hs4_counts": {
+      "Daily Instruments": 4,
+      "Chemicals": 2,
+      "Metals": 1
+    }
+  },
+  "2019": {
+    "summary": [
+      {
+        "country": "Canada",
+        "best_grouped": "High-complexity Products",
+        "best_grouped_excl_services": "High-complexity Products",
+        "best_hs4": "Daily Instruments",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.49322762296456163,
+        "max_gain_grouped": 0.32769086186886454,
+        "max_gain_hs4": 0.1400680872823657,
+        "hs4_rank_of_grouped_best": 5
+      },
+      {
+        "country": "Germany",
+        "best_grouped": "Machinery and Construction",
+        "best_grouped_excl_services": "Machinery and Construction",
+        "best_hs4": "Weapons",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.536764705882353,
+        "max_gain_grouped": 1.8149421280712983,
+        "max_gain_hs4": 0.06201246760342238,
+        "hs4_rank_of_grouped_best": 7
+      },
+      {
+        "country": "Poland",
+        "best_grouped": "Transportation",
+        "best_grouped_excl_services": "Transportation",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.4587016893570423,
+        "max_gain_grouped": 0.028588701011380224,
+        "max_gain_hs4": 0.06603131063588885,
+        "hs4_rank_of_grouped_best": 10
+      },
+      {
+        "country": "Singapore",
+        "best_grouped": "High-complexity Products",
+        "best_grouped_excl_services": "High-complexity Products",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.7248179126315478,
+        "max_gain_grouped": 0.005504698939013952,
+        "max_gain_hs4": 0.09095058382205679,
+        "hs4_rank_of_grouped_best": 2
+      },
+      {
+        "country": "UAE",
+        "best_grouped": "Machinery and Construction",
+        "best_grouped_excl_services": "Machinery and Construction",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.5184290832720562,
+        "max_gain_grouped": 1.7462246169809563,
+        "max_gain_hs4": 0.514580505545664,
+        "hs4_rank_of_grouped_best": 4
+      },
+      {
+        "country": "UK",
+        "best_grouped": "Transportation",
+        "best_grouped_excl_services": "Transportation",
+        "best_hs4": "Chemicals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.6425507032376544,
+        "max_gain_grouped": 0.6245655349660681,
+        "max_gain_hs4": 0.11346831925994239,
+        "hs4_rank_of_grouped_best": 8
+      },
+      {
+        "country": "Vietnam",
+        "best_grouped": "Machinery and Construction",
+        "best_grouped_excl_services": "Machinery and Construction",
+        "best_hs4": "Metals",
+        "agree_excl_services": false,
+        "spearman_gain_rankings": 0.3205979549269651,
+        "max_gain_grouped": 0.3454975370929658,
+        "max_gain_hs4": 0.1553482622804211,
+        "hs4_rank_of_grouped_best": 2
+      }
+    ],
+    "n_agree": 0,
+    "n_countries": 7,
+    "mean_spearman": 0.52786995318174,
+    "notebook_base_sign_agrees_with_diversity": true,
+    "notebook_sign_flips": 0,
+    "notebook_perturbations": 126,
+    "best_grouped_counts": {
+      "Machinery and Construction": 3,
+      "High-complexity Products": 2,
+      "Transportation": 2
+    },
+    "best_hs4_counts": {
+      "Chemicals": 4,
+      "Daily Instruments": 1,
+      "Weapons": 1,
+      "Metals": 1
+    }
+  },
+  "runtime_s": 7.092124938964844
+}

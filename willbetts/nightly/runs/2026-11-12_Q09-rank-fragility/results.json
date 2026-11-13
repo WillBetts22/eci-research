@@ -1,0 +1,255 @@
+{
+  "eigengap": {
+    "2019": {
+      "grouped": {
+        "lambda1": 0.9999999999999993,
+        "lambda2": 0.3319828460313764,
+        "lambda3": 0.2496340020564206,
+        "eigengap_23": 0.08234884397495579,
+        "n_countries": 121,
+        "n_products": 18
+      },
+      "hs4_repo": {
+        "lambda1": 0.9999999999999991,
+        "lambda2": 0.2619674495583836,
+        "lambda3": 0.1820359779702472,
+        "eigengap_23": 0.07993147158813638,
+        "n_countries": 133,
+        "n_products": 1224
+      },
+      "hs4_growthlab": {
+        "lambda1": 1.0,
+        "lambda2": 0.27008525918774584,
+        "lambda3": 0.19417680359689116,
+        "eigengap_23": 0.07590845559085468,
+        "n_countries": 141,
+        "n_products": 1242
+      }
+    },
+    "2020": {
+      "grouped": {
+        "lambda1": 1.0000000000000004,
+        "lambda2": 0.3373623724195419,
+        "lambda3": 0.23989541256719787,
+        "eigengap_23": 0.09746695985234405,
+        "n_countries": 121,
+        "n_products": 18
+      },
+      "hs4_repo": {
+        "lambda1": 1.0000000000000004,
+        "lambda2": 0.262928095790997,
+        "lambda3": 0.1847661279524442,
+        "eigengap_23": 0.07816196783855281,
+        "n_countries": 130,
+        "n_products": 1223
+      },
+      "hs4_growthlab": {
+        "lambda1": 1.0000000000000018,
+        "lambda2": 0.2728836291628956,
+        "lambda3": 0.18939216534189363,
+        "eigengap_23": 0.08349146382100198,
+        "n_countries": 141,
+        "n_products": 1242
+      }
+    },
+    "2021": {
+      "grouped": {
+        "lambda1": 0.9999999999999987,
+        "lambda2": 0.33846906712171854,
+        "lambda3": 0.2691445572881331,
+        "eigengap_23": 0.06932450983358546,
+        "n_countries": 106,
+        "n_products": 18
+      },
+      "hs4_repo": {
+        "lambda1": 0.9999999999999996,
+        "lambda2": 0.2642324314102781,
+        "lambda3": 0.18135555725663147,
+        "eigengap_23": 0.08287687415364661,
+        "n_countries": 136,
+        "n_products": 1223
+      },
+      "hs4_growthlab": {
+        "lambda1": 1.0000000000000013,
+        "lambda2": 0.2754259539337401,
+        "lambda3": 0.1900987540120201,
+        "eigengap_23": 0.08532719992172,
+        "n_countries": 145,
+        "n_products": 1242
+      }
+    },
+    "2022": {
+      "grouped": {
+        "lambda1": 1.0,
+        "lambda2": 0.34585566974364534,
+        "lambda3": 0.2753837988048874,
+        "eigengap_23": 0.07047187093875795,
+        "n_countries": 121,
+        "n_products": 18
+      },
+      "hs4_repo": {
+        "lambda1": 1.0000000000000004,
+        "lambda2": 0.2658154007234851,
+        "lambda3": 0.17144542865077264,
+        "eigengap_23": 0.09436997207271244,
+        "n_countries": 119,
+        "n_products": 1231
+      },
+      "hs4_growthlab": {
+        "lambda1": 1.0000000000000004,
+        "lambda2": 0.2731083260909914,
+        "lambda3": 0.19089363738469703,
+        "eigengap_23": 0.08221468870629436,
+        "n_countries": 145,
+        "n_products": 1241
+      }
+    },
+    "2023": {
+      "grouped": {
+        "lambda1": 1.0000000000000004,
+        "lambda2": 0.34117545159361357,
+        "lambda3": 0.21597019464109937,
+        "eigengap_23": 0.1252052569525142,
+        "n_countries": 123,
+        "n_products": 18
+      },
+      "hs4_repo": {
+        "lambda1": 0.9999999999999993,
+        "lambda2": 0.26111059445911994,
+        "lambda3": 0.17775367925270513,
+        "eigengap_23": 0.0833569152064148,
+        "n_countries": 131,
+        "n_products": 1230
+      },
+      "hs4_growthlab": {
+        "lambda1": 1.0,
+        "lambda2": 0.26946075042918405,
+        "lambda3": 0.19366139589672723,
+        "eigengap_23": 0.07579935453245681,
+        "n_countries": 143,
+        "n_products": 1241
+      }
+    }
+  },
+  "bootstrap_2019": {
+    "grouped (18, lab rules)": {
+      "n": 121,
+      "median_ci_width_share": 0.6797520661157029,
+      "mean_ci_width_ranks": 84.57045454545455,
+      "share_ci_wider_than_quarter": 1.0,
+      "loco_mean_abs_rank_change": 1.235399449035813,
+      "loco_max_mean_abs_rank_change": 5.683333333333334,
+      "report_countries": {
+        "Canada": {
+          "rank": 93,
+          "ci90": [
+            27.950000000000003,
+            106.0
+          ]
+        },
+        "Germany": {
+          "rank": 2,
+          "ci90": [
+            1.5,
+            55.150000000000034
+          ]
+        },
+        "Poland": {
+          "rank": 25,
+          "ci90": [
+            12.0,
+            91.05000000000001
+          ]
+        },
+        "Singapore": {
+          "rank": 31,
+          "ci90": [
+            6.0,
+            103.0
+          ]
+        },
+        "UAE": {
+          "rank": 119,
+          "ci90": [
+            30.425,
+            121.0
+          ]
+        },
+        "UK": {
+          "rank": 41,
+          "ci90": [
+            5.0,
+            110.0
+          ]
+        },
+        "Vietnam": {
+          "rank": 34,
+          "ci90": [
+            8.475000000000001,
+            109.05000000000001
+          ]
+        }
+      }
+    },
+    "HS4 (repo)": {
+      "n": 133,
+      "median_ci_width_share": 0.19586466165413544,
+      "mean_ci_width_ranks": 28.592857142857145,
+      "share_ci_wider_than_quarter": 0.2631578947368421,
+      "loco_mean_abs_rank_change": 0.6136933242196401,
+      "loco_max_mean_abs_rank_change": 2.484848484848485,
+      "report_countries": {
+        "Canada": {
+          "rank": 45,
+          "ci90": [
+            31.0,
+            60.05000000000001
+          ]
+        },
+        "Germany": {
+          "rank": 6,
+          "ci90": [
+            4.0,
+            7.0
+          ]
+        },
+        "Poland": {
+          "rank": 31,
+          "ci90": [
+            26.0,
+            36.0
+          ]
+        },
+        "Singapore": {
+          "rank": 5,
+          "ci90": [
+            2.0,
+            6.050000000000011
+          ]
+        },
+        "UAE": {
+          "rank": 56,
+          "ci90": [
+            46.0,
+            90.20000000000005
+          ]
+        },
+        "UK": {
+          "rank": 14,
+          "ci90": [
+            8.0,
+            18.0
+          ]
+        },
+        "Vietnam": {
+          "rank": 58,
+          "ci90": [
+            49.0,
+            78.0
+          ]
+        }
+      }
+    }
+  },
+  "runtime_s": 4.5995988845825195
+}

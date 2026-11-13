@@ -1,0 +1,299 @@
+{
+  "totals_trillions": [
+    {
+      "year": 2019,
+      "cleaned_all_columns": 24.87204155353,
+      "cleaned_without_HC_aggregate": 17.947838348634,
+      "cleaned_without_HC_and_EU28": 16.078436457575,
+      "HC_aggregate_column": 6.924203204896,
+      "EU28_row": 2.886085029543,
+      "raw_all_reporters": 20.708689294417,
+      "raw_regional_aggregate_reporters": 2.279439566345,
+      "raw_countries_only": 18.429249728072,
+      "raw_countries_ch99": 0.833479068092,
+      "raw_countries_ch98": 0.0,
+      "raw_n_reporters": 168,
+      "raw_n_hs6_rows": 5524,
+      "atlas_goods_exports_all_countries": 17.288780328139,
+      "wdi_world_merch_exports": 19.101899445690893
+    },
+    {
+      "year": 2020,
+      "cleaned_all_columns": 23.262816681407,
+      "cleaned_without_HC_aggregate": 16.798858594605,
+      "cleaned_without_HC_and_EU28": 14.978778780477,
+      "HC_aggregate_column": 6.463958086802,
+      "EU28_row": 2.800917809243,
+      "raw_all_reporters": 19.365589559397,
+      "raw_regional_aggregate_reporters": 2.174372889616,
+      "raw_countries_only": 17.191216669781,
+      "raw_countries_ch99": 0.712718299339,
+      "raw_countries_ch98": 0.0,
+      "raw_n_reporters": 163,
+      "raw_n_hs6_rows": 5497,
+      "atlas_goods_exports_all_countries": 16.1863282618,
+      "wdi_world_merch_exports": 17.734593054238523
+    },
+    {
+      "year": 2021,
+      "cleaned_all_columns": 28.675060631944,
+      "cleaned_without_HC_aggregate": 21.104727203834,
+      "cleaned_without_HC_and_EU28": 18.933953952727,
+      "HC_aggregate_column": 7.57033342811,
+      "EU28_row": 3.29462087952,
+      "raw_all_reporters": 24.287890327005,
+      "raw_regional_aggregate_reporters": 2.576314016507,
+      "raw_countries_only": 21.711576310498,
+      "raw_countries_ch99": 0.749963901504,
+      "raw_countries_ch98": 0.0,
+      "raw_n_reporters": 162,
+      "raw_n_hs6_rows": 5489,
+      "atlas_goods_exports_all_countries": 20.329365541091,
+      "wdi_world_merch_exports": 22.400021018447937
+    },
+    {
+      "year": 2022,
+      "cleaned_all_columns": 30.888948332236,
+      "cleaned_without_HC_aggregate": 22.84123390679,
+      "cleaned_without_HC_and_EU28": 20.535108255206,
+      "HC_aggregate_column": 8.047714425446,
+      "EU28_row": 3.476351580379,
+      "raw_all_reporters": 25.839829865053,
+      "raw_regional_aggregate_reporters": 2.708240971647,
+      "raw_countries_only": 23.131588893406,
+      "raw_countries_ch99": 0.901871483275,
+      "raw_countries_ch98": 0.0,
+      "raw_n_reporters": 142,
+      "raw_n_hs6_rows": 5818,
+      "atlas_goods_exports_all_countries": 22.664682463859,
+      "wdi_world_merch_exports": 25.037933627191958
+    },
+    {
+      "year": 2023,
+      "cleaned_all_columns": 45.29956958975316,
+      "cleaned_without_HC_aggregate": 32.63987388900649,
+      "cleaned_without_HC_and_EU28": 28.008702397571348,
+      "HC_aggregate_column": 12.659695700746676,
+      "EU28_row": 7.1099554450004305,
+      "raw_all_reporters": 37.03514331664333,
+      "raw_regional_aggregate_reporters": 5.520026214114542,
+      "raw_countries_only": 31.51511710252878,
+      "raw_countries_ch99": 1.2262812650296928,
+      "raw_countries_ch98": 0.0,
+      "raw_n_reporters": 155,
+      "raw_n_hs6_rows": 5828,
+      "atlas_goods_exports_all_countries": 21.656869881614,
+      "wdi_world_merch_exports": 24.020257385719326
+    }
+  ],
+  "raw_vs_atlas_by_reporter": {
+    "2019": {
+      "n": 167,
+      "median_ratio_raw_to_atlas": 1.0379731036228004,
+      "share_within_10pct": 0.5329341317365269,
+      "n_ratio_gt_1_5": 3,
+      "n_ratio_1_8_to_2_2": 0,
+      "n_ratio_gt_2_2": 1
+    },
+    "2020": {
+      "n": 162,
+      "median_ratio_raw_to_atlas": 1.033580823707366,
+      "share_within_10pct": 0.5432098765432098,
+      "n_ratio_gt_1_5": 6,
+      "n_ratio_1_8_to_2_2": 1,
+      "n_ratio_gt_2_2": 2
+    },
+    "2021": {
+      "n": 161,
+      "median_ratio_raw_to_atlas": 1.0294140602976198,
+      "share_within_10pct": 0.5031055900621118,
+      "n_ratio_gt_1_5": 7,
+      "n_ratio_1_8_to_2_2": 0,
+      "n_ratio_gt_2_2": 3
+    },
+    "2022": {
+      "n": 141,
+      "median_ratio_raw_to_atlas": 1.0320503797670775,
+      "share_within_10pct": 0.5460992907801419,
+      "n_ratio_gt_1_5": 7,
+      "n_ratio_1_8_to_2_2": 0,
+      "n_ratio_gt_2_2": 3
+    },
+    "2023": {
+      "n": 154,
+      "median_ratio_raw_to_atlas": 1.1819087231862508,
+      "share_within_10pct": 0.2792207792207792,
+      "n_ratio_gt_1_5": 64,
+      "n_ratio_1_8_to_2_2": 20,
+      "n_ratio_gt_2_2": 36
+    }
+  },
+  "duplicated_hs6_codes": {
+    "2019": 0,
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0
+  },
+  "top_reporter_increases": [
+    {
+      "m49": 276,
+      "iso3": "DEU",
+      "change_bn": 2362.6220128786044,
+      "raw2023_bn": 4048.7640062076043,
+      "ratio_raw_to_atlas_2023": 2.5801499552667226,
+      "ratio_raw_to_atlas_2022": 1.073917361363424
+    },
+    {
+      "m49": 757,
+      "iso3": "CHE",
+      "change_bn": 1268.683800826253,
+      "raw2023_bn": 1668.7409729052529,
+      "ratio_raw_to_atlas_2023": 4.2153698448627335,
+      "ratio_raw_to_atlas_2022": 1.0498742521644417
+    },
+    {
+      "m49": 203,
+      "iso3": "CZE",
+      "change_bn": 636.056014,
+      "raw2023_bn": 877.745145117,
+      "ratio_raw_to_atlas_2023": 4.089739217675852,
+      "ratio_raw_to_atlas_2022": 1.1945852953532343
+    },
+    {
+      "m49": 484,
+      "iso3": "MEX",
+      "change_bn": 608.263755202,
+      "raw2023_bn": 1185.994468618,
+      "ratio_raw_to_atlas_2023": 1.9557362823794422,
+      "ratio_raw_to_atlas_2022": 0.992429133928992
+    },
+    {
+      "m49": 124,
+      "iso3": "CAN",
+      "change_bn": 536.7288814256399,
+      "raw2023_bn": 1133.3093842966398,
+      "ratio_raw_to_atlas_2023": 1.978342877272338,
+      "ratio_raw_to_atlas_2022": 0.9941853511387025
+    },
+    {
+      "m49": 699,
+      "iso3": "IND",
+      "change_bn": 410.13974337062206,
+      "raw2023_bn": 862.823954422622,
+      "ratio_raw_to_atlas_2023": 2.102450193173971,
+      "ratio_raw_to_atlas_2022": 1.0567175002220042
+    },
+    {
+      "m49": 348,
+      "iso3": "HUN",
+      "change_bn": 394.424624594,
+      "raw2023_bn": 544.358739308,
+      "ratio_raw_to_atlas_2023": 3.5442708065461774,
+      "ratio_raw_to_atlas_2022": 1.0615913735571278
+    },
+    {
+      "m49": 76,
+      "iso3": "BRA",
+      "change_bn": 344.928452821,
+      "raw2023_bn": 679.391532016,
+      "ratio_raw_to_atlas_2023": 2.0660378727302615,
+      "ratio_raw_to_atlas_2022": 1.0320503797670775
+    },
+    {
+      "m49": 704,
+      "iso3": "VNM",
+      "change_bn": 335.2458710690371,
+      "raw2023_bn": 706.1550265920371,
+      "ratio_raw_to_atlas_2023": 1.8316047086521747,
+      "ratio_raw_to_atlas_2022": 0.9390848303840672
+    },
+    {
+      "m49": 36,
+      "iso3": "AUS",
+      "change_bn": 328.21741628112,
+      "raw2023_bn": 738.47024831812,
+      "ratio_raw_to_atlas_2023": 2.334422209649587,
+      "ratio_raw_to_atlas_2022": 1.1811516184607884
+    },
+    {
+      "m49": 682,
+      "iso3": "SAU",
+      "change_bn": 320.018426729213,
+      "raw2023_bn": 320.018426729213,
+      "ratio_raw_to_atlas_2023": 1.4197603403218024,
+      "ratio_raw_to_atlas_2022": 0.0
+    },
+    {
+      "m49": 710,
+      "iso3": "ZAF",
+      "change_bn": 308.38404113454396,
+      "raw2023_bn": 430.00032048854393,
+      "ratio_raw_to_atlas_2023": 3.376271744572568,
+      "ratio_raw_to_atlas_2022": 0.9021167019887661
+    }
+  ],
+  "top_chapter_increases": [
+    {
+      "chapter": "87",
+      "change_bn": 1230.5126994137481,
+      "v2022_bn": 1572.592948354,
+      "v2023_bn": 2803.105647767748
+    },
+    {
+      "chapter": "85",
+      "change_bn": 914.8987520880567,
+      "v2022_bn": 3546.845041318,
+      "v2023_bn": 4461.743793406056
+    },
+    {
+      "chapter": "84",
+      "change_bn": 879.6415642451641,
+      "v2022_bn": 2499.667907759,
+      "v2023_bn": 3379.309472004164
+    },
+    {
+      "chapter": "71",
+      "change_bn": 692.2662857486868,
+      "v2022_bn": 845.835286175,
+      "v2023_bn": 1538.1015719236868
+    },
+    {
+      "chapter": "30",
+      "change_bn": 601.700033289674,
+      "v2022_bn": 796.370986698,
+      "v2023_bn": 1398.0710199876742
+    },
+    {
+      "chapter": "27",
+      "change_bn": 385.51419472213917,
+      "v2022_bn": 3088.995144854,
+      "v2023_bn": 3474.509339576139
+    },
+    {
+      "chapter": "99",
+      "change_bn": 324.40978175469286,
+      "v2022_bn": 901.871483275,
+      "v2023_bn": 1226.2812650296928
+    },
+    {
+      "chapter": "90",
+      "change_bn": 284.974788037318,
+      "v2022_bn": 641.520747353,
+      "v2023_bn": 926.495535390318
+    },
+    {
+      "chapter": "26",
+      "change_bn": 258.52826832865196,
+      "v2022_bn": 293.105283147,
+      "v2023_bn": 551.633551475652
+    },
+    {
+      "chapter": "29",
+      "change_bn": 157.97948499413403,
+      "v2022_bn": 496.950110199,
+      "v2023_bn": 654.929595193134
+    }
+  ],
+  "runtime_s": 0.24741220474243164
+}

@@ -60,7 +60,8 @@ NOTEBOOK_RENAMES = {
 # Comtrade reporter codes that are regional aggregates, not countries (from maitreemody/analyze.py).
 M49_AGGREGATES = {97, 899, 472, 129, 221, 290, 292, 527, 568, 577, 636, 637, 697, 838, 839, 849, 879}
 # Comtrade codes that pycountry does not map (or maps to a different ISO numeric).
-M49_SPECIAL_ISO3 = {842: 'USA', 757: 'CHE', 251: 'FRA', 579: 'NOR', 699: 'IND', 711: 'ZAF', 490: 'TWN'}
+M49_SPECIAL_ISO3 = {842: 'USA', 757: 'CHE', 251: 'FRA', 579: 'NOR', 699: 'IND', 711: 'ZAF', 490: 'TWN',
+                    381: 'ITA'}  # 381 added 2026-11-12 (data-request 2026-11-12-eu28-and-italy-codes)
 
 
 # --------------------------------------------------------------------------- loaders
