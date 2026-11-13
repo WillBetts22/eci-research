@@ -1,0 +1,8 @@
+country,best_grouped,best_grouped_excl_services,best_hs4,agree_excl_services,spearman_gain_rankings,max_gain_grouped,max_gain_hs4,hs4_rank_of_grouped_best
+Canada,High-complexity Products,High-complexity Products,Daily Instruments,False,0.49322762296456163,0.32769086186886454,0.1400680872823657,5
+Germany,Machinery and Construction,Machinery and Construction,Weapons,False,0.536764705882353,1.8149421280712983,0.06201246760342238,7
+Poland,Transportation,Transportation,Chemicals,False,0.4587016893570423,0.028588701011380224,0.06603131063588885,10
+Singapore,High-complexity Products,High-complexity Products,Chemicals,False,0.7248179126315478,0.005504698939013952,0.09095058382205679,2
+UAE,Machinery and Construction,Machinery and Construction,Chemicals,False,0.5184290832720562,1.7462246169809563,0.514580505545664,4
+UK,Transportation,Transportation,Chemicals,False,0.6425507032376544,0.6245655349660681,0.11346831925994239,8
+Vietnam,Machinery and Construction,Machinery and Construction,Metals,False,0.3205979549269651,0.3454975370929658,0.1553482622804211,2

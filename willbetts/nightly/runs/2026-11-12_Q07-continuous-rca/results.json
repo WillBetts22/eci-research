@@ -1,0 +1,71 @@
+{
+  "repo Comtrade HS4": [
+    {
+      "variant": "binary RCA>=1",
+      "spearman_log_gdppc": 0.7832328131851793,
+      "r2_log_gdppc": 0.5811216641451629,
+      "stability": 0.9716901305765528,
+      "spearman_vs_binary_2019": 1.0,
+      "n_2019": 132
+    },
+    {
+      "variant": "log(1+RCA)",
+      "spearman_log_gdppc": 0.7843216419690374,
+      "r2_log_gdppc": 0.5828273201588572,
+      "stability": 0.982945977161369,
+      "spearman_vs_binary_2019": 0.9866559206700605,
+      "n_2019": 132
+    },
+    {
+      "variant": "capped RCA (min(RCA,2))",
+      "spearman_log_gdppc": 0.7936689721076716,
+      "r2_log_gdppc": 0.6051727919763125,
+      "stability": 0.9746052889511324,
+      "spearman_vs_binary_2019": 0.991955805388641,
+      "n_2019": 132
+    },
+    {
+      "variant": "RCA percentile (within product)",
+      "spearman_log_gdppc": 0.7335745559193979,
+      "r2_log_gdppc": 0.4504546930182414,
+      "stability": 0.9817095486936981,
+      "spearman_vs_binary_2019": 0.7924424358045724,
+      "n_2019": 132
+    }
+  ],
+  "Growth Lab HS4": [
+    {
+      "variant": "binary RCA>=1",
+      "spearman_log_gdppc": 0.8121373971861409,
+      "r2_log_gdppc": 0.6272031517535812,
+      "stability": 0.9812264904034498,
+      "spearman_vs_binary_2019": 1.0,
+      "n_2019": 137
+    },
+    {
+      "variant": "log(1+RCA)",
+      "spearman_log_gdppc": 0.816224970990366,
+      "r2_log_gdppc": 0.6385649925007904,
+      "stability": 0.9940294707893168,
+      "spearman_vs_binary_2019": 0.9805642364827261,
+      "n_2019": 137
+    },
+    {
+      "variant": "capped RCA (min(RCA,2))",
+      "spearman_log_gdppc": 0.8134906579637213,
+      "r2_log_gdppc": 0.6350593116274027,
+      "stability": 0.9912513677345233,
+      "spearman_vs_binary_2019": 0.9902393081895629,
+      "n_2019": 137
+    },
+    {
+      "variant": "RCA percentile (within product)",
+      "spearman_log_gdppc": 0.8311153909718022,
+      "r2_log_gdppc": 0.645726367961346,
+      "stability": 0.9903707877352662,
+      "spearman_vs_binary_2019": 0.8859411789888265,
+      "n_2019": 137
+    }
+  ],
+  "runtime_s": 0.7211828231811523
+}

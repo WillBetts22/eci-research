@@ -1,0 +1,301 @@
+{
+  "table": [
+    {
+      "year": 2019,
+      "version": "repo HS4 (all >= $1B)",
+      "n": 133,
+      "spearman": 0.9721780492697059,
+      "pearson": 0.9509366427130157
+    },
+    {
+      "year": 2019,
+      "version": "repo HS4 (pop >= 1M)",
+      "n": 126,
+      "spearman": 0.9736872101647411,
+      "pearson": 0.952029905618097
+    },
+    {
+      "year": 2019,
+      "version": "Growth Lab HS4 + our library",
+      "n": 141,
+      "spearman": 0.9789866410969839,
+      "pearson": 0.9693394150950846
+    },
+    {
+      "year": 2019,
+      "version": "lab grouped, oriented",
+      "n": 120,
+      "spearman": 0.687457570618287,
+      "pearson": 0.6321009815937005
+    },
+    {
+      "year": 2019,
+      "version": "notebook as-is",
+      "n": 120,
+      "spearman": 0.6871995207969313,
+      "pearson": 0.6321009815937009
+    },
+    {
+      "year": 2020,
+      "version": "repo HS4 (all >= $1B)",
+      "n": 130,
+      "spearman": 0.9738464269619959,
+      "pearson": 0.9531555910595279
+    },
+    {
+      "year": 2020,
+      "version": "repo HS4 (pop >= 1M)",
+      "n": 123,
+      "spearman": 0.9750551392346288,
+      "pearson": 0.9535906348602909
+    },
+    {
+      "year": 2020,
+      "version": "Growth Lab HS4 + our library",
+      "n": 141,
+      "spearman": 0.9775172069841709,
+      "pearson": 0.9577286816412057
+    },
+    {
+      "year": 2020,
+      "version": "lab grouped, oriented",
+      "n": 120,
+      "spearman": 0.736611460191853,
+      "pearson": 0.6496561247568325
+    },
+    {
+      "year": 2020,
+      "version": "notebook as-is",
+      "n": 120,
+      "spearman": 0.7367920286003684,
+      "pearson": 0.6496561247568327
+    },
+    {
+      "year": 2021,
+      "version": "repo HS4 (all >= $1B)",
+      "n": 136,
+      "spearman": 0.9656695768331662,
+      "pearson": 0.9468134891327437
+    },
+    {
+      "year": 2021,
+      "version": "repo HS4 (pop >= 1M)",
+      "n": 127,
+      "spearman": 0.9669748312710911,
+      "pearson": 0.9488665687207176
+    },
+    {
+      "year": 2021,
+      "version": "Growth Lab HS4 + our library",
+      "n": 145,
+      "spearman": 0.9851598173515982,
+      "pearson": 0.9733585707454414
+    },
+    {
+      "year": 2021,
+      "version": "lab grouped, oriented",
+      "n": 105,
+      "spearman": 0.7701418730140629,
+      "pearson": 0.7534372479531797
+    },
+    {
+      "year": 2021,
+      "version": "notebook as-is",
+      "n": 105,
+      "spearman": -0.7706570391149596,
+      "pearson": -0.7534372479531793
+    },
+    {
+      "year": 2022,
+      "version": "repo HS4 (all >= $1B)",
+      "n": 119,
+      "spearman": 0.9691441878655607,
+      "pearson": 0.9450120971403788
+    },
+    {
+      "year": 2022,
+      "version": "repo HS4 (pop >= 1M)",
+      "n": 110,
+      "spearman": 0.9702610526632554,
+      "pearson": 0.9439556831780167
+    },
+    {
+      "year": 2022,
+      "version": "Growth Lab HS4 + our library",
+      "n": 145,
+      "spearman": 0.978602673816532,
+      "pearson": 0.9583312305165275
+    },
+    {
+      "year": 2022,
+      "version": "lab grouped, oriented",
+      "n": 120,
+      "spearman": 0.770145237042249,
+      "pearson": 0.7394345099154657
+    },
+    {
+      "year": 2022,
+      "version": "notebook as-is",
+      "n": 120,
+      "spearman": -0.7700498827447344,
+      "pearson": -0.7394345099154657
+    },
+    {
+      "year": 2023,
+      "version": "repo HS4 (all >= $1B)",
+      "n": 131,
+      "spearman": 0.9669592883162835,
+      "pearson": 0.9476997387073703
+    },
+    {
+      "year": 2023,
+      "version": "repo HS4 (pop >= 1M)",
+      "n": 120,
+      "spearman": 0.9701089315598858,
+      "pearson": 0.9496637240451058
+    },
+    {
+      "year": 2023,
+      "version": "Growth Lab HS4 + our library",
+      "n": 143,
+      "spearman": 0.974893427111837,
+      "pearson": 0.9577088758348364
+    },
+    {
+      "year": 2023,
+      "version": "lab grouped, oriented",
+      "n": 122,
+      "spearman": 0.7174643982449732,
+      "pearson": 0.6304240896450526
+    },
+    {
+      "year": 2023,
+      "version": "notebook as-is",
+      "n": 122,
+      "spearman": -0.7175175221523759,
+      "pearson": -0.6304240896450523
+    }
+  ],
+  "largest_disagreements_2019": {
+    "COG": {
+      "repo_rank": 92.0,
+      "atlas_rank": 119.0,
+      "diff": -27.0
+    },
+    "KWT": {
+      "repo_rank": 35.0,
+      "atlas_rank": 58.0,
+      "diff": -23.0
+    },
+    "ARG": {
+      "repo_rank": 94.0,
+      "atlas_rank": 71.0,
+      "diff": 23.0
+    },
+    "QAT": {
+      "repo_rank": 89.0,
+      "atlas_rank": 67.0,
+      "diff": 22.0
+    },
+    "COD": {
+      "repo_rank": 106.0,
+      "atlas_rank": 126.0,
+      "diff": -20.0
+    },
+    "MLI": {
+      "repo_rank": 113.0,
+      "atlas_rank": 95.0,
+      "diff": 18.0
+    },
+    "SLV": {
+      "repo_rank": 56.0,
+      "atlas_rank": 73.0,
+      "diff": -17.0
+    },
+    "AUS": {
+      "repo_rank": 78.0,
+      "atlas_rank": 62.0,
+      "diff": 16.0
+    },
+    "SAU": {
+      "repo_rank": 29.0,
+      "atlas_rank": 45.0,
+      "diff": -16.0
+    },
+    "BRA": {
+      "repo_rank": 66.0,
+      "atlas_rank": 51.0,
+      "diff": 15.0
+    }
+  },
+  "disagreement_trade_totals": {
+    "COG": {
+      "repo_bn": 5.568099743,
+      "growthlab_bn": 8.636837372
+    },
+    "KWT": {
+      "repo_bn": 64.184951546,
+      "growthlab_bn": 49.776305125
+    },
+    "ARG": {
+      "repo_bn": 52.570268812,
+      "growthlab_bn": 62.490796472
+    },
+    "QAT": {
+      "repo_bn": 63.313612444,
+      "growthlab_bn": 68.504133915
+    },
+    "COD": {
+      "repo_bn": 13.382255928,
+      "growthlab_bn": 8.382023813
+    },
+    "MLI": {
+      "repo_bn": 3.643181167,
+      "growthlab_bn": 4.158350826
+    },
+    "SLV": {
+      "repo_bn": 5.904292634,
+      "growthlab_bn": 5.948626784
+    },
+    "AUS": {
+      "repo_bn": 262.504746124,
+      "growthlab_bn": 236.857395247
+    },
+    "SAU": {
+      "repo_bn": 49.417789342,
+      "growthlab_bn": 188.635708059
+    },
+    "BRA": {
+      "repo_bn": 221.116234636,
+      "growthlab_bn": 214.215460315
+    }
+  },
+  "mean_2019_2022": {
+    "Growth Lab HS4 + our library": {
+      "spearman": 0.9800665848123212,
+      "pearson": 0.9646894744995648,
+      "n": 143.0
+    },
+    "lab grouped, oriented": {
+      "spearman": 0.741089035216613,
+      "pearson": 0.6936572160547946,
+      "n": 116.25
+    },
+    "notebook as-is": {
+      "spearman": -0.029178843115598596,
+      "pearson": -0.05277866287952787,
+      "n": 116.25
+    },
+    "repo HS4 (all >= $1B)": {
+      "spearman": 0.9702095602326072,
+      "pearson": 0.9489794550114166,
+      "n": 129.5
+    },
+    "repo HS4 (pop >= 1M)": {
+      "spearman": 0.9714945583334291,
+      "pearson": 0.9496106980942806,
+      "n": 121.5
+    }
+  },
+  "runtime_s": 1.5184099674224854
+}

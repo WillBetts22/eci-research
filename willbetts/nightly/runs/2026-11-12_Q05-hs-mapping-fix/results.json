@@ -1,0 +1,845 @@
+{
+  "mappings": {
+    "fix84": {
+      "Animals and By-products": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        16
+      ],
+      "Vegetables, Fruits and Plants": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "Food and Preparations": [
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "Energy Drilling and Mining": [
+        25,
+        26,
+        27
+      ],
+      "Chemicals": [
+        28,
+        29
+      ],
+      "Chemical Manufacturing": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        38
+      ],
+      "Raw Manufacturing": [
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        46,
+        69,
+        68
+      ],
+      "Wood Products": [
+        44,
+        45,
+        47,
+        48,
+        49
+      ],
+      "Clothing and Accessories": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "Textile": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "Metals": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "Machinery and Construction": [
+        83,
+        84
+      ],
+      "Transportation": [
+        85,
+        86,
+        87,
+        88,
+        98
+      ],
+      "Weapons": [
+        92,
+        36
+      ],
+      "Daily Instruments": [
+        89,
+        90,
+        91,
+        93,
+        94,
+        95
+      ],
+      "Precious Stones": [
+        70,
+        71
+      ],
+      "High-complexity Products": [
+        28,
+        29,
+        30,
+        38,
+        83,
+        84,
+        87,
+        92,
+        99
+      ],
+      "Services and Utilities": [
+        99
+      ]
+    },
+    "table1": {
+      "Animals and By-products": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        16
+      ],
+      "Vegetables, Fruits and Plants": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "Food and Preparations": [
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "Energy Drilling and Mining": [
+        25,
+        26,
+        27
+      ],
+      "Chemicals": [
+        28,
+        29
+      ],
+      "Chemical Manufacturing": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        38
+      ],
+      "Raw Manufacturing": [
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        46,
+        69,
+        68
+      ],
+      "Wood Products": [
+        44,
+        45,
+        47,
+        48,
+        49
+      ],
+      "Clothing and Accessories": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "Textile": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "Metals": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "Machinery and Construction": [
+        84,
+        85
+      ],
+      "Transportation": [
+        86,
+        87,
+        88,
+        89,
+        98
+      ],
+      "Weapons": [
+        92,
+        36
+      ],
+      "Daily Instruments": [
+        90,
+        91,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "Precious Stones": [
+        70,
+        71
+      ],
+      "High-complexity Products": [
+        28,
+        29,
+        30,
+        38,
+        83,
+        84,
+        87,
+        92,
+        99
+      ],
+      "Services and Utilities": [
+        99
+      ]
+    },
+    "table1_noagg": {
+      "Animals and By-products": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        16
+      ],
+      "Vegetables, Fruits and Plants": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "Food and Preparations": [
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "Energy Drilling and Mining": [
+        25,
+        26,
+        27
+      ],
+      "Chemicals": [
+        28,
+        29
+      ],
+      "Chemical Manufacturing": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        38
+      ],
+      "Raw Manufacturing": [
+        37,
+        39,
+        40,
+        41,
+        42,
+        43,
+        46,
+        69,
+        68
+      ],
+      "Wood Products": [
+        44,
+        45,
+        47,
+        48,
+        49
+      ],
+      "Clothing and Accessories": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "Textile": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "Metals": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "Machinery and Construction": [
+        84,
+        85
+      ],
+      "Transportation": [
+        86,
+        87,
+        88,
+        89,
+        98
+      ],
+      "Weapons": [
+        92,
+        36
+      ],
+      "Daily Instruments": [
+        90,
+        91,
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "Precious Stones": [
+        70,
+        71
+      ],
+      "Services and Utilities": [
+        99
+      ]
+    }
+  },
+  "chapters_in_no_regular_group": {
+    "rebuilt": [
+      84,
+      96,
+      97
+    ],
+    "fix84": [
+      96,
+      97
+    ],
+    "table1": [],
+    "table1_noagg": []
+  },
+  "reproduction": {
+    "2019": {
+      "common_countries": 160,
+      "cleaned_only": 0,
+      "raw_only": 7,
+      "rel_total_diff": -0.001367019258371102,
+      "share_cells_equal": 0.9069444444444444
+    },
+    "2020": {
+      "common_countries": 154,
+      "cleaned_only": 0,
+      "raw_only": 8,
+      "rel_total_diff": -0.0005279766118723594,
+      "share_cells_equal": 0.8362193362193362
+    },
+    "2021": {
+      "common_countries": 136,
+      "cleaned_only": 0,
+      "raw_only": 25,
+      "rel_total_diff": -0.0028881699008386596,
+      "share_cells_equal": 0.7736928104575164
+    },
+    "2022": {
+      "common_countries": 141,
+      "cleaned_only": 0,
+      "raw_only": 0,
+      "rel_total_diff": 0.0,
+      "share_cells_equal": 1.0
+    },
+    "2023": {
+      "common_countries": 154,
+      "cleaned_only": 0,
+      "raw_only": 0,
+      "rel_total_diff": 0.0,
+      "share_cells_equal": 1.0
+    }
+  },
+  "by_year": [
+    {
+      "year": 2019,
+      "variant": "baseline (cleaned CSV)",
+      "n": 120,
+      "spearman_vs_baseline": 0.9999999999999998,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.21439939431244204,
+      "spearman_log_gdppc": 0.4796735051703079,
+      "spearman_vs_hs4": 0.7345075673699155
+    },
+    {
+      "year": 2019,
+      "variant": "rebuilt",
+      "n": 125,
+      "spearman_vs_baseline": 0.9908638854416669,
+      "mean_abs_rank_change": 2.65,
+      "max_abs_rank_change": 26.0,
+      "r2_log_gdppc": 0.2489743988819694,
+      "spearman_log_gdppc": 0.5273488261136717,
+      "spearman_vs_hs4": 0.7497227406822382
+    },
+    {
+      "year": 2019,
+      "variant": "fix84",
+      "n": 125,
+      "spearman_vs_baseline": 0.9646674398796953,
+      "mean_abs_rank_change": 6.158333333333333,
+      "max_abs_rank_change": 36.0,
+      "r2_log_gdppc": 0.29671507951569165,
+      "spearman_log_gdppc": 0.5693902096939537,
+      "spearman_vs_hs4": 0.7863660544500013
+    },
+    {
+      "year": 2019,
+      "variant": "table1",
+      "n": 125,
+      "spearman_vs_baseline": 0.9136269326610467,
+      "mean_abs_rank_change": 7.658333333333333,
+      "max_abs_rank_change": 98.0,
+      "r2_log_gdppc": 0.28140370119151087,
+      "spearman_log_gdppc": 0.5599358964053062,
+      "spearman_vs_hs4": 0.793582024621687
+    },
+    {
+      "year": 2019,
+      "variant": "table1_noagg",
+      "n": 125,
+      "spearman_vs_baseline": 0.8902319815521728,
+      "mean_abs_rank_change": 10.016666666666667,
+      "max_abs_rank_change": 96.5,
+      "r2_log_gdppc": 0.22865055977011128,
+      "spearman_log_gdppc": 0.5299608862595245,
+      "spearman_vs_hs4": 0.7671472495051226
+    },
+    {
+      "year": 2020,
+      "variant": "baseline (cleaned CSV)",
+      "n": 120,
+      "spearman_vs_baseline": 1.0,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.24598183769647008,
+      "spearman_log_gdppc": 0.5338843191955882,
+      "spearman_vs_hs4": 0.7813456466398742
+    },
+    {
+      "year": 2020,
+      "variant": "rebuilt",
+      "n": 127,
+      "spearman_vs_baseline": 0.9946037731917953,
+      "mean_abs_rank_change": 2.55,
+      "max_abs_rank_change": 12.0,
+      "r2_log_gdppc": 0.26587092666989925,
+      "spearman_log_gdppc": 0.5624093230848405,
+      "spearman_vs_hs4": 0.7826241806277519
+    },
+    {
+      "year": 2020,
+      "variant": "fix84",
+      "n": 128,
+      "spearman_vs_baseline": 0.9661503095711841,
+      "mean_abs_rank_change": 6.1,
+      "max_abs_rank_change": 31.0,
+      "r2_log_gdppc": 0.2809297994349326,
+      "spearman_log_gdppc": 0.5682444492943844,
+      "spearman_vs_hs4": 0.7847261527197008
+    },
+    {
+      "year": 2020,
+      "variant": "table1",
+      "n": 128,
+      "spearman_vs_baseline": 0.938427695124488,
+      "mean_abs_rank_change": 7.041666666666667,
+      "max_abs_rank_change": 60.0,
+      "r2_log_gdppc": 0.2868935574786791,
+      "spearman_log_gdppc": 0.592686920699942,
+      "spearman_vs_hs4": 0.8064443947269386
+    },
+    {
+      "year": 2020,
+      "variant": "table1_noagg",
+      "n": 128,
+      "spearman_vs_baseline": 0.9292603440895878,
+      "mean_abs_rank_change": 8.441666666666666,
+      "max_abs_rank_change": 58.0,
+      "r2_log_gdppc": 0.2540298808986634,
+      "spearman_log_gdppc": 0.5571414965970889,
+      "spearman_vs_hs4": 0.7879027198334868
+    },
+    {
+      "year": 2021,
+      "variant": "baseline (cleaned CSV)",
+      "n": 105,
+      "spearman_vs_baseline": 0.9999999999999999,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.2436536905019848,
+      "spearman_log_gdppc": 0.5276339689391673,
+      "spearman_vs_hs4": 0.8147956326987681
+    },
+    {
+      "year": 2021,
+      "variant": "rebuilt",
+      "n": 121,
+      "spearman_vs_baseline": 0.9893841456777196,
+      "mean_abs_rank_change": 3.0095238095238095,
+      "max_abs_rank_change": 17.0,
+      "r2_log_gdppc": 0.22726079863608398,
+      "spearman_log_gdppc": 0.5248674950268661,
+      "spearman_vs_hs4": 0.778472179227916
+    },
+    {
+      "year": 2021,
+      "variant": "fix84",
+      "n": 121,
+      "spearman_vs_baseline": 0.9644408505297567,
+      "mean_abs_rank_change": 5.609523809523809,
+      "max_abs_rank_change": 36.0,
+      "r2_log_gdppc": 0.26440280582565606,
+      "spearman_log_gdppc": 0.5528311695850883,
+      "spearman_vs_hs4": 0.7905083551222829
+    },
+    {
+      "year": 2021,
+      "variant": "table1",
+      "n": 121,
+      "spearman_vs_baseline": 0.9671883018261549,
+      "mean_abs_rank_change": 5.523809523809524,
+      "max_abs_rank_change": 27.0,
+      "r2_log_gdppc": 0.2517803212159345,
+      "spearman_log_gdppc": 0.5458760105975025,
+      "spearman_vs_hs4": 0.7889898205707494
+    },
+    {
+      "year": 2021,
+      "variant": "table1_noagg",
+      "n": 121,
+      "spearman_vs_baseline": 0.9629067121434383,
+      "mean_abs_rank_change": 6.133333333333334,
+      "max_abs_rank_change": 27.0,
+      "r2_log_gdppc": 0.14568167281128347,
+      "spearman_log_gdppc": 0.4701705784708416,
+      "spearman_vs_hs4": 0.7585039036350004
+    },
+    {
+      "year": 2022,
+      "variant": "baseline (cleaned CSV)",
+      "n": 120,
+      "spearman_vs_baseline": 1.0,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.2628459725883071,
+      "spearman_log_gdppc": 0.5544668356390468,
+      "spearman_vs_hs4": 0.7730578458292051
+    },
+    {
+      "year": 2022,
+      "variant": "rebuilt",
+      "n": 120,
+      "spearman_vs_baseline": 1.0,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.2628459725883071,
+      "spearman_log_gdppc": 0.5544668356390468,
+      "spearman_vs_hs4": 0.7730578458292051
+    },
+    {
+      "year": 2022,
+      "variant": "fix84",
+      "n": 120,
+      "spearman_vs_baseline": 0.9675268641843333,
+      "mean_abs_rank_change": 5.45,
+      "max_abs_rank_change": 42.0,
+      "r2_log_gdppc": 0.2909156766068137,
+      "spearman_log_gdppc": 0.5663610483899391,
+      "spearman_vs_hs4": 0.7785595348779897
+    },
+    {
+      "year": 2022,
+      "variant": "table1",
+      "n": 120,
+      "spearman_vs_baseline": 0.9735535353395051,
+      "mean_abs_rank_change": 4.933333333333334,
+      "max_abs_rank_change": 31.0,
+      "r2_log_gdppc": 0.2862557995080192,
+      "spearman_log_gdppc": 0.57198942363557,
+      "spearman_vs_hs4": 0.7684025704802336
+    },
+    {
+      "year": 2022,
+      "variant": "table1_noagg",
+      "n": 120,
+      "spearman_vs_baseline": 0.9520356837853667,
+      "mean_abs_rank_change": 7.466666666666667,
+      "max_abs_rank_change": 47.0,
+      "r2_log_gdppc": 0.18532144424028738,
+      "spearman_log_gdppc": 0.5127924197548407,
+      "spearman_vs_hs4": 0.789671633581968
+    },
+    {
+      "year": 2023,
+      "variant": "baseline (cleaned CSV)",
+      "n": 122,
+      "spearman_vs_baseline": 0.9999999999999998,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.18776988544988255,
+      "spearman_log_gdppc": 0.5129768406975052,
+      "spearman_vs_hs4": 0.7354544942704376
+    },
+    {
+      "year": 2023,
+      "variant": "rebuilt",
+      "n": 122,
+      "spearman_vs_baseline": 0.9999999999999998,
+      "mean_abs_rank_change": 0.0,
+      "max_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.18776988544988255,
+      "spearman_log_gdppc": 0.5129768406975052,
+      "spearman_vs_hs4": 0.7354544942704376
+    },
+    {
+      "year": 2023,
+      "variant": "fix84",
+      "n": 123,
+      "spearman_vs_baseline": 0.9674373878585752,
+      "mean_abs_rank_change": 5.10655737704918,
+      "max_abs_rank_change": 50.0,
+      "r2_log_gdppc": 0.23642910723232913,
+      "spearman_log_gdppc": 0.5438810123009982,
+      "spearman_vs_hs4": 0.7548593751229231
+    },
+    {
+      "year": 2023,
+      "variant": "table1",
+      "n": 123,
+      "spearman_vs_baseline": 0.9452676311595717,
+      "mean_abs_rank_change": 6.918032786885246,
+      "max_abs_rank_change": 56.0,
+      "r2_log_gdppc": 0.24172426919460657,
+      "spearman_log_gdppc": 0.5550912776901409,
+      "spearman_vs_hs4": 0.7616589537673562
+    },
+    {
+      "year": 2023,
+      "variant": "table1_noagg",
+      "n": 123,
+      "spearman_vs_baseline": 0.909057413093935,
+      "mean_abs_rank_change": 9.631147540983607,
+      "max_abs_rank_change": 55.0,
+      "r2_log_gdppc": 0.19173704102640085,
+      "spearman_log_gdppc": 0.48216472008675126,
+      "spearman_vs_hs4": 0.7510025405388713
+    }
+  ],
+  "mean_2019_2022": {
+    "baseline (cleaned CSV)": {
+      "spearman_vs_baseline": 0.9999999999999999,
+      "mean_abs_rank_change": 0.0,
+      "r2_log_gdppc": 0.241720223774801,
+      "spearman_log_gdppc": 0.5239146572360275,
+      "spearman_vs_hs4": 0.7759266731344407
+    },
+    "fix84": {
+      "spearman_vs_baseline": 0.9656963660412423,
+      "mean_abs_rank_change": 5.829464285714286,
+      "r2_log_gdppc": 0.2832408403457735,
+      "spearman_log_gdppc": 0.5642067192408413,
+      "spearman_vs_hs4": 0.7850400242924936
+    },
+    "rebuilt": {
+      "spearman_vs_baseline": 0.9937129510777954,
+      "mean_abs_rank_change": 2.052380952380952,
+      "r2_log_gdppc": 0.25123802419406494,
+      "spearman_log_gdppc": 0.5422731199661063,
+      "spearman_vs_hs4": 0.7709692365917777
+    },
+    "table1": {
+      "spearman_vs_baseline": 0.9481991162377986,
+      "mean_abs_rank_change": 6.289285714285715,
+      "r2_log_gdppc": 0.2765833448485359,
+      "spearman_log_gdppc": 0.5676220628345802,
+      "spearman_vs_hs4": 0.7893547025999021
+    },
+    "table1_noagg": {
+      "spearman_vs_baseline": 0.9336086803926413,
+      "mean_abs_rank_change": 8.014583333333334,
+      "r2_log_gdppc": 0.20342088943008638,
+      "spearman_log_gdppc": 0.517516345270574,
+      "spearman_vs_hs4": 0.7758063766388945
+    }
+  },
+  "report_ranks_2019": {
+    "Canada": {
+      "baseline (cleaned CSV)": 108,
+      "fix84": 89,
+      "rebuilt": 93,
+      "table1": 70,
+      "table1_noagg": 64
+    },
+    "Germany": {
+      "baseline (cleaned CSV)": 1,
+      "fix84": 2,
+      "rebuilt": 1,
+      "table1": 6,
+      "table1_noagg": 9
+    },
+    "Poland": {
+      "baseline (cleaned CSV)": 36,
+      "fix84": 32,
+      "rebuilt": 36,
+      "table1": 39,
+      "table1_noagg": 27
+    },
+    "Singapore": {
+      "baseline (cleaned CSV)": 28,
+      "fix84": 22,
+      "rebuilt": 28,
+      "table1": 22,
+      "table1_noagg": 24
+    },
+    "UAE": {
+      "baseline (cleaned CSV)": 118,
+      "fix84": 125,
+      "rebuilt": 124,
+      "table1": 124,
+      "table1_noagg": 122
+    },
+    "UK": {
+      "baseline (cleaned CSV)": 39,
+      "fix84": 16,
+      "rebuilt": 38,
+      "table1": 13,
+      "table1_noagg": 25
+    },
+    "Vietnam": {
+      "baseline (cleaned CSV)": 34,
+      "fix84": 39,
+      "rebuilt": 34,
+      "table1": 37,
+      "table1_noagg": 30
+    }
+  },
+  "runtime_s": 0.5277466773986816
+}

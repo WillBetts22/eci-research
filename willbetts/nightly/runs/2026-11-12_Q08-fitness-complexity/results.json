@@ -1,0 +1,142 @@
+{
+  "largest_disagreements_2019": {
+    "BRN": {
+      "eci_rank": 29.0,
+      "fitness_rank": 126.0,
+      "diff": 97.0
+    },
+    "KWT": {
+      "eci_rank": 39.0,
+      "fitness_rank": 123.0,
+      "diff": 84.0
+    },
+    "MLT": {
+      "eci_rank": 20.0,
+      "fitness_rank": 81.0,
+      "diff": 61.0
+    },
+    "ISL": {
+      "eci_rank": 53.0,
+      "fitness_rank": 103.0,
+      "diff": 50.0
+    },
+    "IRL": {
+      "eci_rank": 17.0,
+      "fitness_rank": 62.0,
+      "diff": 45.0
+    },
+    "CYP": {
+      "eci_rank": 44.0,
+      "fitness_rank": 89.0,
+      "diff": 45.0
+    },
+    "BHR": {
+      "eci_rank": 51.0,
+      "fitness_rank": 94.0,
+      "diff": 43.0
+    },
+    "QAT": {
+      "eci_rank": 94.0,
+      "fitness_rank": 133.0,
+      "diff": 39.0
+    },
+    "MDG": {
+      "eci_rank": 122.0,
+      "fitness_rank": 84.0,
+      "diff": -38.0
+    },
+    "IND": {
+      "eci_rank": 52.0,
+      "fitness_rank": 15.0,
+      "diff": -37.0
+    }
+  },
+  "repo Comtrade HS4": {
+    "table": [
+      {
+        "measure": "ECI (binary)",
+        "spearman_log_gdppc": 0.7832328131851793,
+        "r2_log_gdppc": 0.5811216641451629,
+        "stability": 0.9716901305765528
+      },
+      {
+        "measure": "log Fitness",
+        "spearman_log_gdppc": 0.47250601009268933,
+        "r2_log_gdppc": 0.08365960044482945,
+        "stability": 0.9816930872310521
+      },
+      {
+        "measure": "diversity",
+        "spearman_log_gdppc": 0.3592030492123496,
+        "r2_log_gdppc": 0.15118108632900298,
+        "stability": 0.9833697276561834
+      }
+    ],
+    "spearman_eci_fitness_2019": 0.8273584231950295,
+    "mean_abs_rank_diff_2019": 16.736842105263158,
+    "n_2019": 133
+  },
+  "Growth Lab HS4": {
+    "table": [
+      {
+        "measure": "ECI (binary)",
+        "spearman_log_gdppc": 0.8121373971861409,
+        "r2_log_gdppc": 0.6272031517535812,
+        "stability": 0.9812264904034498
+      },
+      {
+        "measure": "log Fitness",
+        "spearman_log_gdppc": 0.6067929375866346,
+        "r2_log_gdppc": 0.06933738580649411,
+        "stability": 0.9880058741638126
+      },
+      {
+        "measure": "diversity",
+        "spearman_log_gdppc": 0.5130648990157382,
+        "r2_log_gdppc": 0.25186307145793985,
+        "stability": 0.9889512365100455
+      }
+    ],
+    "spearman_eci_fitness_2019": 0.895004066954921,
+    "mean_abs_rank_diff_2019": 14.0,
+    "n_2019": 141
+  },
+  "iteration_diagnostic_2019": [
+    {
+      "n_iter": 10,
+      "r2": 0.15312775891749894,
+      "pearson": 0.3913154212620542,
+      "spearman": 0.503837664946544,
+      "n": 132
+    },
+    {
+      "n_iter": 20,
+      "r2": 0.13581883657383784,
+      "pearson": 0.36853607228307766,
+      "spearman": 0.5065195953102742,
+      "n": 132
+    },
+    {
+      "n_iter": 50,
+      "r2": 0.11357243411528369,
+      "pearson": 0.33700509508801746,
+      "spearman": 0.5063004492494246,
+      "n": 132
+    },
+    {
+      "n_iter": 100,
+      "r2": 0.0981602894454317,
+      "pearson": 0.31330542517714516,
+      "spearman": 0.5063004492494246,
+      "n": 132
+    },
+    {
+      "n_iter": 200,
+      "r2": 0.08139960388627492,
+      "pearson": 0.2853061581639536,
+      "spearman": 0.5063004492494246,
+      "n": 132
+    }
+  ],
+  "runtime_s": 0.4979209899902344
+}
