@@ -975,6 +975,51 @@ literature/Member Submissions/ECI Lit Review - Young Kim.docx,7. Literature Revi
 literature/Member Submissions/Hartmann + Hidalgo Lit Review - Jaeyi.docx,7. Literature Review/Member Submissions/Hartmann + Hidalgo Lit Review - Jaeyi.docx,literature-review,,,current,9362
 maitreemody/analyze.py,,other,,,archive,8187
 maitreemody/build_notebook.py,,other,,,archive,5187
+maitreemody/eci_growth/build_notebook.py,,other,,,archive,42884
+maitreemody/eci_growth/data/derived/country_year.csv,,other,,,archive,2344327
+maitreemody/eci_growth/data/raw/atlas_hs92_country_year.csv,,other,,,archive,363501
+maitreemody/eci_growth/data/raw/atlas_hs92_data_dictionary.csv,,other,,,archive,3257
+maitreemody/eci_growth/data/raw/atlas_sitc_country_year.csv,,other,,,archive,655792
+maitreemody/eci_growth/data/raw/atlas_sitc_data_dictionary.csv,,other,,,archive,3261
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v1.0_2019-06-03__rankings.dta,,other,,,archive,130186
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v10.0_2025-08-21__growth_proj_eci_rankings.csv,,other,,,archive,192124
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v10.0_2025-08-21__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v11.0_2025-08-21__growth_proj_eci_rankings.csv,,other,,,archive,192124
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v11.0_2025-08-21__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v12.0_2026-02-08__growth_proj_eci_rankings.csv,,other,,,archive,198703
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v12.0_2026-02-08__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v2.0_2019-06-19__data_dictionary.pdf,,other,,,archive,72584
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v2.0_2019-06-19__rankings.dta,,other,,,archive,130186
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v2.1_2019-08-20__data_dictionary.pdf,,other,,,archive,72584
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v2.1_2019-08-20__rankings.dta,,other,,,archive,130186
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v3.0_2022-07-28__data_dictionary.pdf,,other,,,archive,72584
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v3.0_2022-07-28__rankings.dta,,other,,,archive,174608
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v4.0_2023-07-28__data_dictionary.pdf,,other,,,archive,72584
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v4.0_2023-07-28__rankings.dta,,other,,,archive,181258
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v5.0_2024-09-17__data_dictionary.pdf,,other,,,archive,103051
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v5.0_2024-09-17__rankings.dta,,other,,,archive,219209
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v6.0_2024-09-17__data_dictionary.pdf,,other,,,archive,103054
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v6.0_2024-09-17__rankings.dta,,other,,,archive,219209
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v7.0_2025-03-31__growth_proj_eci_rankings.csv,,other,,,archive,442906
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v7.0_2025-03-31__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v8.0_2025-06-10__growth_proj_eci_rankings.csv,,other,,,archive,443589
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v8.0_2025-06-10__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v9.0_2025-06-10__growth_proj_eci_rankings.csv,,other,,,archive,227035
+maitreemody/eci_growth/data/raw/growth_proj_vintages/v9.0_2025-06-10__rankings_data_dictionary.csv,,other,,,archive,2566
+maitreemody/eci_growth/data/raw/growth_proj_vintages/versions.json,,other,,,archive,105931
+maitreemody/eci_growth/data/raw/pwt1001.dta,,other,,,archive,3452645
+maitreemody/eci_growth/data/raw/wb_countries.csv,,other,,,archive,12093
+maitreemody/eci_growth/data/raw/wdi_panel.csv,,other,,,archive,910161
+maitreemody/eci_growth/eci_growth_projects_1_2.ipynb,,other,,,archive,296991
+maitreemody/eci_growth/outputs/p1_coef_by_decade.png,,other,,,archive,27755
+maitreemody/eci_growth/outputs/p2_forecast_vs_actual.png,,other,,,archive,58279
+maitreemody/eci_growth/outputs/p2_rolling_origin.png,,other,,,archive,43572
+maitreemody/eci_growth/scripts/fetch_atlas.sh,,other,,,archive,1696
+maitreemody/eci_growth/scripts/fetch_worldbank.py,,other,,,archive,2184
+maitreemody/eci_growth/scripts/panel.py,,other,,,archive,4634
+maitreemody/eci_growth/scripts/rolling_origin.py,,other,,,archive,9068
+maitreemody/eci_growth/scripts/score_forecasts.py,,other,,,archive,8999
+maitreemody/eci_growth/scripts/vintages.py,,other,,,archive,2158
 maitreemody/exploration.ipynb,,other,,,archive,141757
 maitreemody/outputs/2019_eci_vs_gdppc.png,,other,,,archive,111657
 maitreemody/outputs/2019_residuals.csv,,other,,,archive,13320
@@ -1334,12 +1379,12 @@ reports/2024-spring/Sri Lanka/comparable_countries_gdp.txt,3. Country Reports/8.
 reports/2024-spring/Sri Lanka/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/more_countries_RID3.xlsx,country-report,2024-spring,Sri Lanka,archive,6459
 reports/2024-spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,country-report,2024-spring,Sri Lanka,archive,5923
 reports/2024-spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,country-report,2024-spring,Sri Lanka,archive,6471
-reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Argentina,archive,26112
+reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,26112
 reports/2024-spring/Sri Lanka/sequential strategy of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Chile.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,22016
 reports/2024-spring/Sri Lanka/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,17920
-reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Argentina,archive,5632
+reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Chile.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,5632
@@ -1398,8 +1443,8 @@ reports/2024-spring/Tunisia/comparable_countries_gdp.txt,3. Country Reports/8. 2
 reports/2024-spring/Tunisia/newplot-2.png,3. Country Reports/8. 2024 - Spring/Tunisia/newplot-2.png,country-report,2024-spring,Tunisia,archive,81752
 reports/2024-spring/Tunisia/newplot.png,3. Country Reports/8. 2024 - Spring/Tunisia/newplot.png,country-report,2024-spring,Tunisia,archive,85882
 reports/2024-spring/Tunisia/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Tunisia/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Tunisia,archive,5923
-reports/2024-spring/Tunisia/sequential vector of Morocco.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Morocco.xls,country-report,2024-spring,Tunisia,archive,5632
-reports/2024-spring/Tunisia/sequential vector of Senegal.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Senegal.xls,country-report,2024-spring,Tunisia,archive,5632
+reports/2024-spring/Tunisia/sequential vector of Morocco.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Morocco.xls,country-report,2024-spring,Morocco,archive,5632
+reports/2024-spring/Tunisia/sequential vector of Senegal.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Senegal.xls,country-report,2024-spring,Senegal,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Tunisia.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Tunisia.xls,country-report,2024-spring,Tunisia,archive,27648
 reports/2024-spring/Tunisia/tableau Tunisia 2022.xls,3. Country Reports/8. 2024 - Spring/Tunisia/tableau Tunisia 2022.xls,country-report,2024-spring,Tunisia,archive,27648
@@ -1844,4 +1889,12 @@ templates/archive-copies/Copy of Template(7).docx,2. Templates/Copy of Template(
 templates/archive-copies/Copy of Template(8).docx,2. Templates/Copy of Template(8).docx,template,,,current,2481746
 templates/archive-copies/Copy of Template(9).docx,2. Templates/Copy of Template(9).docx,template,,,current,2479002
 templates/archive-copies/Copy of Template.docx,2. Templates/Copy of Template.docx,template,,,current,2481757
-willbetts/exploration.ipynb,,other,,,archive,8469
+willbetts/exploration.ipynb,,other,,,archive,98260
+willbetts/nightly/lib/eci.py,,other,,,archive,9974
+willbetts/nightly/runs/2026-11-11_Q01-eci-library-repro/figures/spring2026_eci_paths.png,,other,,,archive,100808
+willbetts/nightly/runs/2026-11-11_Q01-eci-library-repro/notebook.ipynb,,other,,,archive,33852
+willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/spring2026_focus_eci.csv,,other,,,archive,4098
+willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/spring2026_with_without.png,,other,,,archive,58199
+willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/with_vs_without_2019.png,,other,,,archive,45115
+willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/with_without_summary.csv,,other,,,archive,1335
+willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/notebook.ipynb,,other,,,archive,112107
