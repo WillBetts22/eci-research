@@ -1,0 +1,11 @@
+start,stage,remaining,excluded
+1998,start-year rows,217,0
+1998,positive GDP at both endpoints,190,27
+1998,population >= 1 million,146,44
+1998,HS4 goods exports >= $1 billion,96,50
+1998,start-year resource rents available,95,1
+2008,start-year rows,217,0
+2008,positive GDP at both endpoints,197,20
+2008,population >= 1 million,153,44
+2008,HS4 goods exports >= $1 billion,129,24
+2008,start-year resource rents available,129,0

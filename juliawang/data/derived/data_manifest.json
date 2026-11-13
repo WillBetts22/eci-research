@@ -1,0 +1,63 @@
+{
+  "dataset_doi": "10.7910/DVN/T4CHWJ",
+  "version": "18.0",
+  "release_time": "2026-04-22T16:48:45Z",
+  "download_date": "2026-11-13",
+  "source_url": "https://dataverse.harvard.edu/api/access/datafile/13685110?format=original",
+  "file_id": 13685110,
+  "bytes": 451749132,
+  "md5": "5d87b2ac45517bf4e0e50600140672e5",
+  "classification": "HS 1992, 4 digits",
+  "units": "current USD",
+  "source_year_min": 1995,
+  "source_year_max": 2024,
+  "source_rows": 6752528,
+  "selected_years": [
+    1997,
+    1998,
+    1999,
+    2007,
+    2008,
+    2009
+  ],
+  "non_four_digit_codes_excluded": [
+    "XXXX"
+  ],
+  "unmatched_trade_country_codes": [
+    "AIA",
+    "ANS",
+    "ANT",
+    "ATA",
+    "ATF",
+    "BVT",
+    "CCK",
+    "COK",
+    "CXR",
+    "FLK",
+    "HMD",
+    "MSR",
+    "NFK",
+    "NIU",
+    "PCN",
+    "SGS",
+    "SHN",
+    "SPM",
+    "TKL",
+    "TWN",
+    "VAT"
+  ],
+  "fixed_positive_trade_network_countries": 210,
+  "eligible_countries": {
+    "1998": 95,
+    "2008": 129
+  },
+  "eligible_countries_missing_from_fixed_network": [
+    "BWA",
+    "NAM",
+    "SRB"
+  ],
+  "threshold_disagreements_vs_published_exports": 0,
+  "missing_trade_cells": "Not converted to zero here. A later matrix construction must explicitly justify zero-filling absent country-product records.",
+  "network_rule": "Candidate: positive goods exports in all six selected years. No GDP or outcome eligibility used to construct network.",
+  "status": "Data readiness audit only; no competing measures or growth regressions computed."
+}

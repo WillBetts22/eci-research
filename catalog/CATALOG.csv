@@ -945,7 +945,19 @@ docs/original-instructions/Copy of Code Execution Instructions [Fall 2023].docx,
 docs/original-instructions/Instructions For ECI Research Procedure.docx,1. Instructions - Onboarding/Instructions For ECI Research Procedure.docx,docs,,,current,1261835
 docs/original-instructions/Semesterly Update Instructions.docx,_To-Do & Trackers/Semesterly Update Instructions.docx,docs,,,current,723198
 docs/original-instructions/Website Update Instructions.docx,1. Instructions - Onboarding/Website Update Instructions.docx,docs,,,current,8006
+juliawang/__pycache__/project3_horse_race.cpython-314.pyc,,other,,,archive,25341
 juliawang/analyze.py,,other,,,archive,7367
+juliawang/data/.gitignore,,other,,,archive,27
+juliawang/data/derived/country_window_audit.csv,,other,,,archive,68743
+juliawang/data/derived/data_manifest.json,,other,,,archive,1523
+juliawang/data/derived/growth_windows_preliminary.csv,,other,,,archive,39472
+juliawang/data/derived/hs92_hs4_selected_years.csv.gz,,other,,,archive,6815172
+juliawang/data/derived/network_countries.csv,,other,,,archive,845
+juliawang/data/derived/sample_flow.csv,,other,,,archive,423
+juliawang/data/derived/trade_coverage.csv,,other,,,archive,254
+juliawang/data/raw/atlas_dataset_metadata.json,,other,,,archive,18328
+juliawang/data/raw/atlas_hs92_country_product_year_4.csv,,other,,,archive,451749132
+juliawang/eci_growth_3.ipynb,,other,,,archive,393996
 juliawang/exploration.ipynb,,other,,,archive,7626
 juliawang/outputs/2019_available_metrics.csv,,other,,,archive,20969
 juliawang/outputs/2019_common_metrics.csv,,other,,,archive,15396
@@ -963,8 +975,39 @@ juliawang/outputs/2023_common_metrics.csv,,other,,,archive,15398
 juliawang/outputs/correlations.csv,,other,,,archive,2034
 juliawang/outputs/model_comparison.csv,,other,,,archive,712
 juliawang/outputs/models_2019.png,,other,,,archive,180900
+juliawang/outputs/project3/country_year_measures.csv,,other,,,archive,51021
+juliawang/outputs/project3/eci_rank_disagreements.csv,,other,,,archive,1709
+juliawang/outputs/project3/eci_validation.csv,,other,,,archive,999
+juliawang/outputs/project3/eci_validation.png,,other,,,archive,63872
+juliawang/outputs/project3/eci_vs_diversity_interval.csv,,other,,,archive,170
+juliawang/outputs/project3/full/aggregation_coverage.csv,,other,,,archive,4410
+juliawang/outputs/project3/full/all_measures.csv,,other,,,archive,670087
+juliawang/outputs/project3/full/fitness_diagnostics.csv,,other,,,archive,2243
+juliawang/outputs/project3/full/granularity_comparison.png,,other,,,archive,42833
+juliawang/outputs/project3/full/horse_race.csv,,other,,,archive,19170
+juliawang/outputs/project3/full/largest_baseline_misses.csv,,other,,,archive,1168
+juliawang/outputs/project3/full/largest_gain_contributions.csv,,other,,,archive,11348
+juliawang/outputs/project3/full/paired_intervals.csv,,other,,,archive,9684
+juliawang/outputs/project3/full/period_robustness.png,,other,,,archive,86112
+juliawang/outputs/project3/full/predictions.csv,,other,,,archive,1375445
+juliawang/outputs/project3/full/primary_summary_with_stability.csv,,other,,,archive,3002
+juliawang/outputs/project3/full/spectral_diagnostics.csv,,other,,,archive,6572
+juliawang/outputs/project3/full/stability.csv,,other,,,archive,11630
+juliawang/outputs/project3/full/trimmed_error_diagnostic.csv,,other,,,archive,8059
+juliawang/outputs/project3/initial_forecast_comparison.png,,other,,,archive,67910
+juliawang/outputs/project3/initial_model_comparison.csv,,other,,,archive,1167
+juliawang/outputs/project3/model_country_windows.csv,,other,,,archive,53761
+juliawang/outputs/project3/model_sample_exclusions.csv,,other,,,archive,93
+juliawang/outputs/project3/network_diagnostics.csv,,other,,,archive,1771
+juliawang/outputs/project3/network_sensitivity.csv,,other,,,archive,441
+juliawang/outputs/project3/paired_test_error_intervals.csv,,other,,,archive,505
+juliawang/outputs/project3/rank_stability.csv,,other,,,archive,669
+juliawang/outputs/project3/test_predictions.csv,,other,,,archive,64726
+juliawang/outputs/project3/training_coefficients_hc1.csv,,other,,,archive,3510
 juliawang/outputs/robustness_and_ranks.png,,other,,,archive,175602
 juliawang/plot_models.py,,other,,,archive,4622
+juliawang/prepare_growth_data.py,,other,,,archive,7631
+juliawang/project3_horse_race.py,,other,,,archive,13221
 literature/Literature Review.docx,7. Literature Review/Literature Review.docx,literature-review,,,current,401189
 literature/Member Submissions/ECI Lit Review - Aishani.docx,7. Literature Review/Member Submissions/ECI Lit Review - Aishani.docx,literature-review,,,current,10496
 literature/Member Submissions/ECI Lit Review - Allison.docx,7. Literature Review/Member Submissions/ECI Lit Review - Allison.docx,literature-review,,,current,10710
@@ -1216,19 +1259,19 @@ reports/2024-spring/Australia/Australia Positive Shocking.png,3. Country Reports
 reports/2024-spring/Australia/Australia.docx,3. Country Reports/8. 2024 - Spring/Australia/Australia.docx,country-report,2024-spring,Australia,archive,2150069
 reports/2024-spring/Australia/Australia_RID.xlsx,3. Country Reports/8. 2024 - Spring/Australia/Australia_RID.xlsx,country-report,2024-spring,Australia,archive,5653
 reports/2024-spring/Australia/Australia_eci_19to22_dict.xlsx,3. Country Reports/8. 2024 - Spring/Australia/Australia_eci_19to22_dict.xlsx,country-report,2024-spring,Australia,archive,5247
-reports/2024-spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Singapore,archive,34363
-reports/2024-spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Singapore,archive,43716
+reports/2024-spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Australia,archive,34363
+reports/2024-spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Singapore.png,country-report,2024-spring,Australia,archive,43716
 reports/2024-spring/Australia/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Australia.png,3. Country Reports/8. 2024 - Spring/Australia/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Australia.png,country-report,2024-spring,Australia,archive,35430
 reports/2024-spring/Australia/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Australia/more_countries_RID3.xlsx,country-report,2024-spring,Australia,archive,10242
 reports/2024-spring/Australia/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Australia/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Australia,archive,9646
 reports/2024-spring/Australia/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Australia/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Australia,archive,6470
 reports/2024-spring/Australia/sequential strategy of Australia.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Australia.xls,country-report,2024-spring,Australia,archive,17920
 reports/2024-spring/Australia/sequential strategy of Canada.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Canada.xls,country-report,2024-spring,Australia,archive,17920
-reports/2024-spring/Australia/sequential strategy of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Singapore.xls,country-report,2024-spring,Singapore,archive,9728
+reports/2024-spring/Australia/sequential strategy of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential strategy of Singapore.xls,country-report,2024-spring,Australia,archive,9728
 reports/2024-spring/Australia/sequential vector of Australia.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Australia.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Australia/sequential vector of Canada.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Canada.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Australia/sequential vector of New Zealand.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of New Zealand.xls,country-report,2024-spring,New Zealand,archive,5632
-reports/2024-spring/Australia/sequential vector of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Singapore.xls,country-report,2024-spring,Singapore,archive,5632
+reports/2024-spring/Australia/sequential vector of Singapore.xls,3. Country Reports/8. 2024 - Spring/Australia/sequential vector of Singapore.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Australia/tableau Australia 2022.xls,3. Country Reports/8. 2024 - Spring/Australia/tableau Australia 2022.xls,country-report,2024-spring,Australia,archive,5632
 reports/2024-spring/Belgium/2019-2022 ECI of main country and comparable countries.png,3. Country Reports/8. 2024 - Spring/Belgium/2019-2022 ECI of main country and comparable countries.png,country-report,2024-spring,Belgium,archive,57478
 reports/2024-spring/Belgium/Aggregate of GDP for main country and comparable countries.png,3. Country Reports/8. 2024 - Spring/Belgium/Aggregate of GDP for main country and comparable countries.png,country-report,2024-spring,Belgium,archive,18816
@@ -1252,8 +1295,8 @@ reports/2024-spring/Belgium/output files/Belgium Positive Shocking.png,3. Countr
 reports/2024-spring/Belgium/output files/Belgium_RID.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_RID.xlsx,country-report,2024-spring,Belgium,archive,5656
 reports/2024-spring/Belgium/output files/Belgium_eci_19to22_dict.txt,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_eci_19to22_dict.txt,country-report,2024-spring,Belgium,archive,284
 reports/2024-spring/Belgium/output files/Belgium_eci_19to22_dict.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/Belgium_eci_19to22_dict.xlsx,country-report,2024-spring,Belgium,archive,5245
-reports/2024-spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Belgium,archive,31726
-reports/2024-spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Belgium,archive,44341
+reports/2024-spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 1b. GDP Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Austria,archive,31726
+reports/2024-spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 2b. ECI Comparison Among Peer Countries (2019-2022) For Austria.png,country-report,2024-spring,Austria,archive,44341
 reports/2024-spring/Belgium/output files/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Belgium.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Figure 3b. GDP Growth and ECI Trend for (2019-2021) for Belgium.png,country-report,2024-spring,Belgium,archive,37054
 reports/2024-spring/Belgium/output files/Regression of GDP over SOI.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/Regression of GDP over SOI.png,country-report,2024-spring,Belgium,archive,87944
 reports/2024-spring/Belgium/output files/SOI of Belgium.png,3. Country Reports/8. 2024 - Spring/Belgium/output files/SOI of Belgium.png,country-report,2024-spring,Belgium,archive,163913
@@ -1262,11 +1305,11 @@ reports/2024-spring/Belgium/output files/comparable_countries_gdp.txt,3. Country
 reports/2024-spring/Belgium/output files/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/more_countries_RID3.xlsx,country-report,2024-spring,Belgium,archive,10245
 reports/2024-spring/Belgium/output files/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Belgium,archive,5922
 reports/2024-spring/Belgium/output files/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Belgium/output files/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Belgium,archive,6470
-reports/2024-spring/Belgium/output files/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Austria.xls,country-report,2024-spring,Belgium,archive,5632
+reports/2024-spring/Belgium/output files/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Austria.xls,country-report,2024-spring,Austria,archive,5632
 reports/2024-spring/Belgium/output files/sequential strategy of Belgium.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Belgium.xls,country-report,2024-spring,Belgium,archive,13824
 reports/2024-spring/Belgium/output files/sequential strategy of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Netherlands.xls,country-report,2024-spring,Netherlands,archive,17920
 reports/2024-spring/Belgium/output files/sequential strategy of Sweden.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential strategy of Sweden.xls,country-report,2024-spring,Belgium,archive,5632
-reports/2024-spring/Belgium/output files/sequential vector of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Austria.xls,country-report,2024-spring,Belgium,archive,5632
+reports/2024-spring/Belgium/output files/sequential vector of Austria.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Austria.xls,country-report,2024-spring,Austria,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Belgium.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Belgium.xls,country-report,2024-spring,Belgium,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Netherlands.xls,country-report,2024-spring,Netherlands,archive,5632
 reports/2024-spring/Belgium/output files/sequential vector of Sweden.xls,3. Country Reports/8. 2024 - Spring/Belgium/output files/sequential vector of Sweden.xls,country-report,2024-spring,Belgium,archive,5632
@@ -1300,14 +1343,14 @@ reports/2024-spring/Netherlands/sdv_and_sidsAustria.txt,3. Country Reports/8. 20
 reports/2024-spring/Netherlands/sdv_and_sidsBelgium.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsBelgium.txt,country-report,2024-spring,Netherlands,archive,4793
 reports/2024-spring/Netherlands/sdv_and_sidsNetherlands.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsNetherlands.txt,country-report,2024-spring,Netherlands,archive,6554
 reports/2024-spring/Netherlands/sdv_and_sidsSweden.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsSweden.txt,country-report,2024-spring,Netherlands,archive,644
-reports/2024-spring/Netherlands/sdv_and_sidsTimor-Leste.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsTimor-Leste.txt,country-report,2024-spring,Timor-Leste,archive,6508
+reports/2024-spring/Netherlands/sdv_and_sidsTimor-Leste.txt,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_and_sidsTimor-Leste.txt,country-report,2024-spring,Netherlands,archive,6508
 reports/2024-spring/Netherlands/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Netherlands,archive,9619
 reports/2024-spring/Netherlands/sdv_leading_countries_RID1.xlsx,3. Country Reports/8. 2024 - Spring/Netherlands/sdv_leading_countries_RID1.xlsx,country-report,2024-spring,Netherlands,archive,10231
 reports/2024-spring/Netherlands/sequential strategy of Austria.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Austria.xls,country-report,2024-spring,Netherlands,archive,5632
 reports/2024-spring/Netherlands/sequential strategy of Belgium.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Belgium.xls,country-report,2024-spring,Netherlands,archive,13824
 reports/2024-spring/Netherlands/sequential strategy of Netherlands.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Netherlands.xls,country-report,2024-spring,Netherlands,archive,17920
 reports/2024-spring/Netherlands/sequential strategy of Sweden.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Sweden.xls,country-report,2024-spring,Netherlands,archive,5632
-reports/2024-spring/Netherlands/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,17920
+reports/2024-spring/Netherlands/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Netherlands,archive,17920
 reports/2024-spring/Netherlands/sequential vector (netherlands+comps).xls,3. Country Reports/8. 2024 - Spring/Netherlands/sequential vector (netherlands+comps).xls,country-report,2024-spring,Netherlands,archive,28672
 reports/2024-spring/Netherlands/tableau Netherlands 2022.pdf,3. Country Reports/8. 2024 - Spring/Netherlands/tableau Netherlands 2022.pdf,country-report,2024-spring,Netherlands,archive,12975
 reports/2024-spring/Netherlands/tableau Netherlands 2022.xls,3. Country Reports/8. 2024 - Spring/Netherlands/tableau Netherlands 2022.xls,country-report,2024-spring,Netherlands,archive,9728
@@ -1379,12 +1422,12 @@ reports/2024-spring/Sri Lanka/comparable_countries_gdp.txt,3. Country Reports/8.
 reports/2024-spring/Sri Lanka/more_countries_RID3.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/more_countries_RID3.xlsx,country-report,2024-spring,Sri Lanka,archive,6459
 reports/2024-spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_emerging_countries_RID2-2.xlsx,country-report,2024-spring,Sri Lanka,archive,5923
 reports/2024-spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,3. Country Reports/8. 2024 - Spring/Sri Lanka/sdv_leading_countries_RID1-2.xlsx,country-report,2024-spring,Sri Lanka,archive,6471
-reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,26112
+reports/2024-spring/Sri Lanka/sequential strategy of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Argentina.xls,country-report,2024-spring,Argentina,archive,26112
 reports/2024-spring/Sri Lanka/sequential strategy of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Chile.xls,country-report,2024-spring,Sri Lanka,archive,17920
 reports/2024-spring/Sri Lanka/sequential strategy of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,22016
 reports/2024-spring/Sri Lanka/sequential strategy of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential strategy of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,17920
-reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Sri Lanka,archive,5632
+reports/2024-spring/Sri Lanka/sequential vector of Argentina.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Argentina.xls,country-report,2024-spring,Argentina,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Bolivia.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Bolivia.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Chile.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Chile.xls,country-report,2024-spring,Sri Lanka,archive,5632
 reports/2024-spring/Sri Lanka/sequential vector of Sri Lanka.xls,3. Country Reports/8. 2024 - Spring/Sri Lanka/sequential vector of Sri Lanka.xls,country-report,2024-spring,Sri Lanka,archive,5632
@@ -1444,7 +1487,7 @@ reports/2024-spring/Tunisia/newplot-2.png,3. Country Reports/8. 2024 - Spring/Tu
 reports/2024-spring/Tunisia/newplot.png,3. Country Reports/8. 2024 - Spring/Tunisia/newplot.png,country-report,2024-spring,Tunisia,archive,85882
 reports/2024-spring/Tunisia/sdv_emerging_countries_RID2.xlsx,3. Country Reports/8. 2024 - Spring/Tunisia/sdv_emerging_countries_RID2.xlsx,country-report,2024-spring,Tunisia,archive,5923
 reports/2024-spring/Tunisia/sequential vector of Morocco.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Morocco.xls,country-report,2024-spring,Morocco,archive,5632
-reports/2024-spring/Tunisia/sequential vector of Senegal.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Senegal.xls,country-report,2024-spring,Senegal,archive,5632
+reports/2024-spring/Tunisia/sequential vector of Senegal.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Senegal.xls,country-report,2024-spring,Tunisia,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Timor-Leste.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Timor-Leste.xls,country-report,2024-spring,Timor-Leste,archive,5632
 reports/2024-spring/Tunisia/sequential vector of Tunisia.xls,3. Country Reports/8. 2024 - Spring/Tunisia/sequential vector of Tunisia.xls,country-report,2024-spring,Tunisia,archive,27648
 reports/2024-spring/Tunisia/tableau Tunisia 2022.xls,3. Country Reports/8. 2024 - Spring/Tunisia/tableau Tunisia 2022.xls,country-report,2024-spring,Tunisia,archive,27648
@@ -1890,7 +1933,28 @@ templates/archive-copies/Copy of Template(8).docx,2. Templates/Copy of Template(
 templates/archive-copies/Copy of Template(9).docx,2. Templates/Copy of Template(9).docx,template,,,current,2479002
 templates/archive-copies/Copy of Template.docx,2. Templates/Copy of Template.docx,template,,,current,2481757
 willbetts/exploration.ipynb,,other,,,archive,98260
-willbetts/nightly/lib/eci.py,,other,,,archive,9974
+willbetts/nightly/external-data/.gitignore,,other,,,archive,98
+willbetts/nightly/external-data/derived/score_panel.csv,,other,,,archive,1842860
+willbetts/nightly/external-data/download.sh,,other,,,archive,968
+willbetts/nightly/external-data/raw/atlas_hs92_country_year.csv,,other,,,archive,363501
+willbetts/nightly/external-data/raw/atlas_hs92_data_dictionary.csv,,other,,,archive,3257
+willbetts/nightly/external-data/raw/atlas_hs92_product_year_4.csv,,other,,,archive,1589755
+willbetts/nightly/external-data/raw/pwt1001.dta,,other,,,archive,3452645
+willbetts/nightly/external-data/raw/wdi_panel.csv,,other,,,archive,1357164
+willbetts/nightly/external-data/raw/wgi_panel.csv,,other,,,archive,433295
+willbetts/nightly/external-data/scripts/build_score_panel.py,,other,,,archive,2374
+willbetts/nightly/external-data/scripts/compact_atlas.py,,other,,,archive,722
+willbetts/nightly/external-data/scripts/extract_wdi.py,,other,,,archive,1440
+willbetts/nightly/external-data/scripts/extract_wgi.py,,other,,,archive,1138
+willbetts/nightly/external-data/scripts/fetch_wdi.py,,other,,,archive,2128
+willbetts/nightly/lib/__pycache__/eci.cpython-314.pyc,,other,,,archive,17882
+willbetts/nightly/lib/__pycache__/research.cpython-314.pyc,,other,,,archive,30987
+willbetts/nightly/lib/eci.py,,other,,,archive,10077
+willbetts/nightly/lib/research.py,,other,,,archive,14057
+willbetts/nightly/paper/.gitignore,,other,,,archive,24
+willbetts/nightly/paper/eci_fourteen_tests.pdf,,other,,,archive,373225
+willbetts/nightly/paper/eci_fourteen_tests.tex,,other,,,archive,39728
+willbetts/nightly/run_all.sh,,other,,,archive,748
 willbetts/nightly/runs/2026-11-11_Q01-eci-library-repro/figures/spring2026_eci_paths.png,,other,,,archive,100808
 willbetts/nightly/runs/2026-11-11_Q01-eci-library-repro/notebook.ipynb,,other,,,archive,33852
 willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/spring2026_focus_eci.csv,,other,,,archive,4098
@@ -1898,3 +1962,76 @@ willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/spring20
 willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/with_vs_without_2019.png,,other,,,archive,45115
 willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/figures/with_without_summary.csv,,other,,,archive,1335
 willbetts/nightly/runs/2026-11-12_Q02-high-complexity-aggregate/notebook.ipynb,,other,,,archive,112107
+willbetts/nightly/runs/2026-11-12_Q03-fixed-panel/figures/report_country_paths.png,,other,,,archive,104141
+willbetts/nightly/runs/2026-11-12_Q03-fixed-panel/figures/stability.csv,,other,,,archive,615
+willbetts/nightly/runs/2026-11-12_Q03-fixed-panel/results.json,,other,,,archive,4669
+willbetts/nightly/runs/2026-11-12_Q03-fixed-panel/run.py,,other,,,archive,5184
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/figures/ladder_2019.csv,,other,,,archive,814
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/figures/ladder_2019.png,,other,,,archive,35427
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/figures/ladder_2021.csv,,other,,,archive,809
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/figures/random_partitions_2019.csv,,other,,,archive,682
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/figures/random_partitions_2021.csv,,other,,,archive,678
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/results.json,,other,,,archive,7272
+willbetts/nightly/runs/2026-11-12_Q04-granularity-ladder/run.py,,other,,,archive,4949
+willbetts/nightly/runs/2026-11-12_Q05-hs-mapping-fix/figures/report_country_ranks_2019.csv,,other,,,archive,218
+willbetts/nightly/runs/2026-11-12_Q05-hs-mapping-fix/figures/variants_by_year.csv,,other,,,archive,2916
+willbetts/nightly/runs/2026-11-12_Q05-hs-mapping-fix/results.json,,other,,,archive,17836
+willbetts/nightly/runs/2026-11-12_Q05-hs-mapping-fix/run.py,,other,,,archive,4403
+willbetts/nightly/runs/2026-11-12_Q06-2023-reconciliation/figures/top_chapter_increases_2022_2023.csv,,other,,,archive,563
+willbetts/nightly/runs/2026-11-12_Q06-2023-reconciliation/figures/top_reporter_increases_2022_2023.csv,,other,,,archive,1343
+willbetts/nightly/runs/2026-11-12_Q06-2023-reconciliation/figures/totals_trillions.csv,,other,,,archive,1293
+willbetts/nightly/runs/2026-11-12_Q06-2023-reconciliation/results.json,,other,,,archive,8920
+willbetts/nightly/runs/2026-11-12_Q06-2023-reconciliation/run.py,,other,,,archive,5465
+willbetts/nightly/runs/2026-11-12_Q07-continuous-rca/figures/variants_growth.csv,,other,,,archive,467
+willbetts/nightly/runs/2026-11-12_Q07-continuous-rca/figures/variants_repo.csv,,other,,,archive,467
+willbetts/nightly/runs/2026-11-12_Q07-continuous-rca/results.json,,other,,,archive,2100
+willbetts/nightly/runs/2026-11-12_Q07-continuous-rca/run.py,,other,,,archive,1850
+willbetts/nightly/runs/2026-11-12_Q08-fitness-complexity/figures/fitness_vs_eci_2019.png,,other,,,archive,20798
+willbetts/nightly/runs/2026-11-12_Q08-fitness-complexity/figures/largest_disagreements_2019.csv,,other,,,archive,270
+willbetts/nightly/runs/2026-11-12_Q08-fitness-complexity/results.json,,other,,,archive,3253
+willbetts/nightly/runs/2026-11-12_Q08-fitness-complexity/run.py,,other,,,archive,3199
+willbetts/nightly/runs/2026-11-12_Q09-rank-fragility/figures/rank_ci_grouped_2019.csv,,other,,,archive,5890
+willbetts/nightly/runs/2026-11-12_Q09-rank-fragility/figures/rank_ci_hs4_2019.csv,,other,,,archive,5723
+willbetts/nightly/runs/2026-11-12_Q09-rank-fragility/figures/rank_intervals_2019.png,,other,,,archive,32148
+willbetts/nightly/runs/2026-11-12_Q09-rank-fragility/results.json,,other,,,archive,6305
+willbetts/nightly/runs/2026-11-12_Q09-rank-fragility/run.py,,other,,,archive,3949
+willbetts/nightly/runs/2026-11-12_Q10-short-window-growth/figures/growth_models_const.csv,,other,,,archive,1322
+willbetts/nightly/runs/2026-11-12_Q10-short-window-growth/figures/growth_models_ppp.csv,,other,,,archive,1319
+willbetts/nightly/runs/2026-11-12_Q10-short-window-growth/results.json,,other,,,archive,6027
+willbetts/nightly/runs/2026-11-12_Q10-short-window-growth/run.py,,other,,,archive,3893
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/figures/gains_2019.csv,,other,,,archive,9561
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/figures/gains_2022.csv,,other,,,archive,9458
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/figures/summary_2019.csv,,other,,,archive,1061
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/figures/summary_2022.csv,,other,,,archive,1051
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/results.json,,other,,,archive,6852
+willbetts/nightly/runs/2026-11-12_Q11-greedy-target-hs4/run.py,,other,,,archive,4912
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/figures/added_variable.png,,other,,,archive,41890
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/figures/main_const_usd.csv,,other,,,archive,959
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/figures/ppp.csv,,other,,,archive,956
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/figures/pwt.csv,,other,,,archive,948
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/results.json,,other,,,archive,7866
+willbetts/nightly/runs/2026-11-12_Q12-atlas-growth-regression/run.py,,other,,,archive,5484
+willbetts/nightly/runs/2026-11-12_Q13-vs-atlas-eci/figures/agreement.csv,,other,,,archive,1762
+willbetts/nightly/runs/2026-11-12_Q13-vs-atlas-eci/figures/largest_disagreements_2019.csv,,other,,,archive,226
+willbetts/nightly/runs/2026-11-12_Q13-vs-atlas-eci/figures/repo_vs_atlas_2019.png,,other,,,archive,22140
+willbetts/nightly/runs/2026-11-12_Q13-vs-atlas-eci/results.json,,other,,,archive,6697
+willbetts/nightly/runs/2026-11-12_Q13-vs-atlas-eci/run.py,,other,,,archive,3401
+willbetts/nightly/runs/2026-11-12_Q14-mediation/figures/mediation_atlas_eci.csv,,other,,,archive,887
+willbetts/nightly/runs/2026-11-12_Q14-mediation/figures/mediation_infra.csv,,other,,,archive,719
+willbetts/nightly/runs/2026-11-12_Q14-mediation/figures/mediation_our_eci.csv,,other,,,archive,895
+willbetts/nightly/runs/2026-11-12_Q14-mediation/figures/mediation_rnd.csv,,other,,,archive,570
+willbetts/nightly/runs/2026-11-12_Q14-mediation/results.json,,other,,,archive,10170
+willbetts/nightly/runs/2026-11-12_Q14-mediation/run.py,,other,,,archive,4811
+willbetts/nightly/runs/2026-11-12_Q15-population-adjusted-rca/figures/largest_movers_2019.csv,,other,,,archive,349
+willbetts/nightly/runs/2026-11-12_Q15-population-adjusted-rca/results.json,,other,,,archive,2911
+willbetts/nightly/runs/2026-11-12_Q15-population-adjusted-rca/run.py,,other,,,archive,3957
+willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/figures/folds.csv,,other,,,archive,2684
+willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/figures/rolling_r2oos.png,,other,,,archive,28308
+willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/figures/rolling_summary.csv,,other,,,archive,709
+willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/results.json,,other,,,archive,5595
+willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/run.py,,other,,,archive,5540
+willbetts/nightly/runs/2026-11-13_P-2026-11-13-1-hs6-localization/figures/r2_sweeps_2019.png,,other,,,archive,80240
+willbetts/nightly/runs/2026-11-13_P-2026-11-13-1-hs6-localization/figures/regularization_sweep_2019.csv,,other,,,archive,1798
+willbetts/nightly/runs/2026-11-13_P-2026-11-13-1-hs6-localization/figures/ubiquity_sweep_2019.csv,,other,,,archive,1772
+willbetts/nightly/runs/2026-11-13_P-2026-11-13-1-hs6-localization/figures/variants_by_year.csv,,other,,,archive,4657
+willbetts/nightly/runs/2026-11-13_P-2026-11-13-1-hs6-localization/notebook.ipynb,,other,,,archive,40809
