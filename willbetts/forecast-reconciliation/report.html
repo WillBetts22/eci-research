@@ -1,0 +1,216 @@
+<title>ECI Forecast Reconciliation</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: single reading column (~720px) with wide tables allowed to scroll; Will = blue, Julia = teal throughout */
+:root{
+  --bg:#f6f7f9; --surface:#ffffff; --fg:#1b1f27; --muted:#5b6474; --rule:#dde1e8;
+  --will:#2f55c8; --julia:#0b7d84; --neg:#b4432f; --pos:#2c7a3f; --hl:#eef2fb;
+  --display:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11141a; --surface:#181c24; --fg:#e4e7ee; --muted:#9aa3b3; --rule:#2b313c;
+  --will:#7d9cf2; --julia:#4cc3c9; --neg:#ef8a74; --pos:#79c98c; --hl:#1d2433; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11141a; --surface:#181c24; --fg:#e4e7ee; --muted:#9aa3b3; --rule:#2b313c;
+  --will:#7d9cf2; --julia:#4cc3c9; --neg:#ef8a74; --pos:#79c98c; --hl:#1d2433; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.6}
+.wrap{max-width:760px;margin:0 auto;padding-block:40px 64px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:flex;flex-direction:column;gap:40px}
+header{display:flex;flex-direction:column;gap:10px}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(28px,5vw,38px);line-height:1.15;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:600;font-size:23px;margin:0;text-wrap:balance}
+h3{font-family:var(--display);font-weight:600;font-size:17px;margin:0}
+p{margin:0;max-width:68ch}
+section{display:flex;flex-direction:column;gap:14px}
+.meta{color:var(--muted);font-size:14px}
+.answer{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:20px 22px;display:flex;flex-direction:column;gap:12px}
+.answer p{font-size:17px}
+ul,ol{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:6px;max-width:68ch}
+.who{font-weight:600}
+.w{color:var(--will)} .j{color:var(--julia)}
+code,.num{font-family:var(--mono);font-size:.88em}
+.tbl{overflow-x:auto;border:1px solid var(--rule);border-radius:6px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;font-size:14px;font-variant-numeric:tabular-nums}
+th,td{padding:8px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--rule)}
+tr:last-child td{border-bottom:none}
+th{font-weight:600;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:var(--bg)}
+td.n,th.n{text-align:right;font-family:var(--mono);white-space:nowrap}
+.neg{color:var(--neg)} .pos{color:var(--pos)}
+tr.key td{background:var(--hl)}
+.diff{font-weight:600}
+.cap{font-size:13px;color:var(--muted)}
+.chart{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:14px 10px 6px;overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:560px;height:auto}
+.legend{display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--muted);padding:0 6px 8px}
+.sw{display:inline-block;width:11px;height:11px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.grid2>div{min-width:0;background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+@media (max-width:620px){.grid2{grid-template-columns:1fr}}
+.quote{border-left:3px solid var(--rule);padding:4px 0 4px 14px;color:var(--fg);font-size:15.5px}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">ECI Research Lab · ECI and growth · Reconciliation memo</div>
+  <h1>Does ECI improve out-of-time growth forecasts? Reconciling Will's Q16 and Julia's Project 3</h1>
+  <p class="meta">Prepared 13 Nov 2026 for Will Betts and Julia Wang. Sources: <code>willbetts/nightly/paper/eci_fourteen_tests.tex</code> (Q16), <code>juliawang/eci_growth_3.ipynb</code> and <code>juliawang/project3_horse_race.py</code>. Reconciliation code: <code>willbetts/forecast-reconciliation/</code>.</p>
+</header>
+
+<section class="answer">
+  <h2>Bottom line</h2>
+  <p>The two results disagree because the specifications differ, and neither contains a coding error. Rerunning each person's code reproduces their published numbers exactly. Changing one specification choice at a time moves Will's result to Julia's.</p>
+  <ul>
+    <li><b>The biggest driver is Will's extra control.</b> His baseline includes the share of exports in ores, fuels and precious metals at the start year. Adding that control to Julia's designs cuts ECI's average gain from +4.3% to +1.2%. Removing it from Will's design turns −1.8% into +0.7%.</li>
+    <li><b>The second driver is which years are tested.</b> ECI does worse than the baseline for forecasts starting 2009–2012 under either specification. Julia's three 10-year tests start in 2005, 2008 and 2014, so they skip those years.</li>
+    <li><b>Outcome units matter a little.</b> PPP (Julia) favours ECI slightly over constant US$ (Will), but only once the resource-share control is gone.</li>
+  </ul>
+  <p><b>Consolidated finding:</b> adding ECI changes 10-year growth forecast error by a few percent at most, in either direction. Whether that change is positive depends on whether the resource composition of exports is already controlled for, and on which years are tested. Neither result supports a strong claim. Julia's "small, not established gain" and Will's "no improvement" are both fair readings of the same weak signal. Will's "every variant makes forecasts worse" is too strong.</p>
+</section>
+
+<section>
+  <h2>What each person did</h2>
+  <p>Both ask the same question: fit a growth regression on past decades, predict a later decade the model has not seen, and check whether adding a complexity score lowers forecast error relative to a baseline. The setups differ in these ways:</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Choice</th><th class="w">Will · Q16</th><th class="j">Julia · Project 3</th><th>Matters?</th></tr></thead>
+    <tbody>
+      <tr class="key"><td>Baseline controls</td><td>log income + resource rents + <b>resource export share</b> (HS 26/27/71), start year</td><td>log income + resource rents, start year</td><td class="diff">Most</td></tr>
+      <tr class="key"><td>Forecast origins scored (10-yr)</td><td>Every year 2005–2014 (10 origins), errors pooled</td><td>1998→2008 primary; rolling 2005, 2008, 2014; plus four 5-yr designs</td><td class="diff">Yes</td></tr>
+      <tr class="key"><td>Growth outcome</td><td>Real GDPpc, WDI constant 2015 US$</td><td>Real GDPpc, constant PPP</td><td class="diff">Some</td></tr>
+      <tr><td>Training rule</td><td>All origins t ≤ T−10 (outcome known at T)</td><td>All windows ending by the origin (same rule)</td><td>Same</td></tr>
+      <tr><td>Period effects</td><td>None</td><td>Centred start-year dummies, future set to training average</td><td>No</td></tr>
+      <tr><td>Scaling</td><td>Scores z-scored within each start year</td><td>All regressors standardized on training data only</td><td>No</td></tr>
+      <tr><td>Sample</td><td>Exports ≥ $1B, pop ≥ 1M; rows complete on all 11 variants</td><td>Exports ≥ $1B, pop ≥ 1M; common complete-case sample per design</td><td>Minor</td></tr>
+      <tr><td>Scores</td><td>Will's <code>lib/eci.py</code> on Growth Lab HS4, 1995–2024</td><td>Julia's own spectral ECI on Growth Lab HS4 (checksum-verified), 1995–2019</td><td>Minor (both match Harvard at ρ ≈ 0.97–0.98)</td></tr>
+      <tr><td>Uncertainty</td><td>Share of origins where the variant beats the baseline</td><td>Paired-country bootstrap 95% intervals per design</td><td>Reporting only</td></tr>
+      <tr><td>Metric</td><td>Out-of-sample R² vs baseline: 1 − SSE<sub>variant</sub>/SSE<sub>base</sub></td><td>MSE improvement % vs baseline (same quantity)</td><td>Same</td></tr>
+    </tbody>
+  </table></div>
+  <div class="grid2">
+    <div><h3 class="w">Will reported</h3><p>No complexity variant beats income plus resources. HS4 ECI −1.8%, Harvard published ECI −7.0%, diversity −2.3%, entropy −6.3%, Fitness −0.6%, log(1+RCA) ECI −5.7%. He called this "the strongest evidence against using ECI as an optimization target."</p></div>
+    <div><h3 class="j">Julia reported</h3><p>HS4 ECI beats the baseline in 7 of 8 designs (+3.5% to +9.6%, with one at −2.6%). Harvard ECI ranges from −5.9% to +20.4%. Her 95% intervals all include zero, so she calls the advantage over baseline and over diversity "not established."</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Step 1: Move Will's design toward Julia's, one change at a time</h2>
+  <p>This uses Will's Q16 panel and sample. Row 0 reproduces his published numbers exactly. Each later row changes one setting. Values are the percentage reduction in forecast MSE from adding the score; positive means the score helps.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Specification</th><th class="n">Test obs</th><th class="n">HS4 ECI</th><th class="n">Harvard ECI</th><th class="n">Diversity</th><th class="n">Entropy</th><th class="n">Fitness</th></tr></thead>
+    <tbody>
+      <tr><td>0 · Will Q16 as published</td><td class="n">1,324</td><td class="n neg">−1.8</td><td class="n neg">−7.0</td><td class="n neg">−2.3</td><td class="n neg">−6.3</td><td class="n neg">−0.6</td></tr>
+      <tr class="key"><td>1 · Drop resource export share</td><td class="n">1,324</td><td class="n pos">+0.7</td><td class="n neg">−4.3</td><td class="n neg">−0.3</td><td class="n neg">−0.1</td><td class="n neg">−0.4</td></tr>
+      <tr><td>2 · PPP outcome only (keep resource share)</td><td class="n">1,300</td><td class="n neg">−0.9</td><td class="n neg">−7.6</td><td class="n neg">−3.5</td><td class="n neg">−11.7</td><td class="n neg">−0.9</td></tr>
+      <tr class="key"><td>3 · Drop resource share and use PPP (Julia's baseline and outcome)</td><td class="n">1,300</td><td class="n pos">+2.0</td><td class="n neg">−4.4</td><td class="n neg">−1.2</td><td class="n neg">−3.2</td><td class="n neg">−0.6</td></tr>
+      <tr><td>4 · Row 3 + Julia's period effects and train-only scaling</td><td class="n">1,300</td><td class="n pos">+1.8</td><td class="n neg">−4.8</td><td class="n neg">−1.3</td><td class="n neg">−3.5</td><td class="n neg">−0.6</td></tr>
+      <tr class="key"><td>5 · Row 4 scored only on Julia's origins (2005, 2008, 2014)</td><td class="n">382</td><td class="n pos">+4.8</td><td class="n pos">+2.4</td><td class="n pos">+0.9</td><td class="n pos">+1.8</td><td class="n neg">−1.8</td></tr>
+      <tr><td>6 · Will's original spec on Julia's origins</td><td class="n">390</td><td class="n pos">+0.1</td><td class="n neg">−2.5</td><td class="n neg">−1.5</td><td class="n neg">−3.4</td><td class="n neg">−1.3</td></tr>
+    </tbody>
+  </table></div>
+  <p class="cap">Source: <code>willbetts/forecast-reconciliation/outputs/steps_will_to_julia.csv</code>. Row 5's HS4 ECI gain (+4.8%) is close to Julia's own +3.5%, +4.2% and +4.8% for those three origins.</p>
+</section>
+
+<section>
+  <h2>Step 2: Add Will's control to Julia's design</h2>
+  <p>This uses Julia's scores, samples and all 8 designs, unchanged except that the start-year resource export share is added to the baseline. The "Julia" columns reproduce her <code>horse_race.csv</code> exactly.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Design</th><th class="n">HS4 ECI · Julia</th><th class="n">+ resource share</th><th class="n">Harvard · Julia</th><th class="n">+ resource share</th></tr></thead>
+    <tbody>
+      <tr><td>Primary 1998 → 2008</td><td class="n pos">+4.5</td><td class="n pos">+3.4</td><td class="n pos">+2.6</td><td class="n pos">+7.6</td></tr>
+      <tr><td>10-yr, origin 2005</td><td class="n pos">+3.5</td><td class="n pos">+3.0</td><td class="n pos">+3.3</td><td class="n pos">+5.9</td></tr>
+      <tr><td>10-yr, origin 2008</td><td class="n pos">+4.2</td><td class="n pos">+1.8</td><td class="n pos">+1.4</td><td class="n pos">+1.4</td></tr>
+      <tr><td>10-yr, origin 2014</td><td class="n pos">+4.8</td><td class="n neg">−1.6</td><td class="n pos">+19.9</td><td class="n pos">+12.6</td></tr>
+      <tr><td>5-yr, origin 2005</td><td class="n pos">+6.5</td><td class="n pos">+5.1</td><td class="n pos">+5.4</td><td class="n pos">+4.0</td></tr>
+      <tr><td>5-yr, origin 2010</td><td class="n neg">−2.6</td><td class="n neg">−4.3</td><td class="n neg">−5.9</td><td class="n neg">−8.3</td></tr>
+      <tr><td>5-yr, origin 2015</td><td class="n pos">+9.6</td><td class="n pos">+3.1</td><td class="n pos">+20.4</td><td class="n pos">+13.5</td></tr>
+      <tr><td>5-yr, origin 2019</td><td class="n pos">+4.1</td><td class="n neg">−0.5</td><td class="n pos">+10.9</td><td class="n pos">+5.9</td></tr>
+      <tr class="key"><td><b>Mean of 8 · designs ECI beats baseline</b></td><td class="n"><b>+4.3 · 7/8</b></td><td class="n"><b>+1.2 · 5/8</b></td><td class="n"><b>+7.3 · 7/8</b></td><td class="n"><b>+5.3 · 7/8</b></td></tr>
+    </tbody>
+  </table></div>
+  <p>The control removes most of HS4 ECI's gain. Harvard ECI keeps more of its gain in Julia's designs, but under Will's ten-origin scoring it does worse than the baseline whatever the specification (rows 0–4 above). That gap comes from the choice of years tested, which is the next point.</p>
+  <p class="cap">Source: <code>willbetts/forecast-reconciliation/outputs/julia_plus_resource_share.csv</code>.</p>
+</section>
+
+<section>
+  <h2>Step 3: Results depend on the forecast start year</h2>
+  <p>This is HS4 ECI's forecast gain for each 10-year origin under both specifications, with all other settings held fixed. Under both, ECI helps for forecasts starting 2005–2008 and 2013–2014 and hurts for forecasts starting 2009–2012. Those decades start near the commodity-price peak. We have not tested that as the cause, but it fits Will's Project 1 finding that windows starting 2010–2012 are the weakest for ECI.</p>
+  <div class="chart" role="img" aria-label="Bar chart of HS4 ECI forecast MSE gain by origin year 2005 to 2014 under Will's and Julia's specifications">
+    <div class="legend"><span><span class="sw" style="background:var(--will)"></span>Will's spec (row 0)</span><span><span class="sw" style="background:var(--julia)"></span>Julia-like spec (row 4)</span><span>Dashed outline: origins Julia scored</span></div>
+    <svg id="perOrigin" viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg"></svg>
+  </div>
+  <p>Will averages over all ten origins, so the four weak years pull his total below zero. Julia's three 10-year origins are all good years for ECI, although they were chosen in advance and not by looking at the results. Neither choice is wrong. They show that a single "ECI helps / doesn't help" verdict hides large swings from one decade to the next.</p>
+</section>
+
+<section>
+  <h2>Which specification is right?</h2>
+  <p>Both answer legitimate questions, but different ones.</p>
+  <ul>
+    <li><span class="who j">Julia:</span> "Does ECI add forecasting information beyond income and resource rents?" Answer: a little, about +2% to +5%, and not distinguishable from zero.</li>
+    <li><span class="who w">Will:</span> "Does ECI add information beyond income, rents <i>and</i> how commodity-heavy the export basket is?" Answer: no. The resource share is computed from the same export data and correlates −0.32 to −0.66 with ECI (by start year), so it already carries much of what ECI knows.</li>
+  </ul>
+  <p>Will's own Project 1 follow-up (<code>willbetts/project1/README.md</code>) already found that this control "is largely a second measure of low complexity" and corrected the Q12 "fading effect" claim because of it. Q16 uses the same control and was never corrected. The Atlas instead controls for the <i>change</i> in resource exports during the decade. That control is not available at forecast time, so it cannot be used in an honest out-of-time test.</p>
+</section>
+
+<section>
+  <h2>Where the two projects agree</h2>
+  <p>The other tests both people ran point in the same direction:</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Test</th><th class="w">Will</th><th class="j">Julia</th></tr></thead>
+    <tbody>
+      <tr><td>Our HS4 ECI vs Harvard's published ECI</td><td>Spearman 0.975–0.985 (2019–23)</td><td>Spearman 0.966–0.985 (1997–2009)</td></tr>
+      <tr><td>18 groups vs HS2 vs HS4</td><td>Income R² 0.16 / 0.33 / 0.58</td><td>Forecast gain −0.6% / +3.7% / +4.5% (primary)</td></tr>
+      <tr><td>Rank stability, HS4 vs grouped</td><td>0.972 vs 0.931</td><td>0.982 vs 0.92–0.94</td></tr>
+      <tr><td>Continuous RCA</td><td>Not an upgrade (−5.7% out of time)</td><td>Unstable (−11.7% to +18%)</td></tr>
+      <tr><td>Fitness</td><td>Log values never settle; never beats baseline</td><td>Fails convergence check; never reliably beats baseline</td></tr>
+      <tr><td>Causality</td><td colspan="2">Neither claims it. Will's Q14 adds that about half of ECI's in-sample signal is shared with human capital.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section>
+  <h2>Suggested wording for the lab</h2>
+  <p class="quote">ECI computed at HS4 is a sound measure of export complexity. In honest out-of-time tests it improves 10-year growth forecasts by at most a few percent, and only in some decades. The improvement disappears once the commodity share of exports is controlled for. The evidence supports describing ECI as a summary of a country's export capabilities. It does not support treating higher ECI as a reliable growth lever.</p>
+</section>
+
+<section>
+  <h2>Next steps</h2>
+  <ol>
+    <li><span class="who w">Will:</span> revise the Q16 section and the abstract of <code>eci_fourteen_tests.tex</code>. Report Q16 with and without the resource export share, and replace "every variant makes forecasts worse" with the specification-dependent result. This matches the correction he already made for Q12.</li>
+    <li><span class="who j">Julia:</span> add a resource-share robustness row to the horse race, and add a pooled 2005–2014 rolling design alongside the three single origins, so her headline isn't driven by which years were scored.</li>
+    <li><span class="who">Both:</span> agree on one shared out-of-time protocol before any further variants are run: PPP outcome, all 10-year origins 2005–2014, results reported with and without resource share, and Julia's paired bootstrap intervals.</li>
+  </ol>
+</section>
+
+<section>
+  <h2>Reproduce</h2>
+  <p>From the repo root: <code>python3 willbetts/forecast-reconciliation/step_will_to_julia.py</code> and <code>python3 willbetts/forecast-reconciliation/julia_plus_resource_share.py</code>. The checks are that row 0 matches <code>willbetts/nightly/runs/2026-11-12_Q16-rolling-origin/results.json</code> and the "Julia" columns match <code>juliawang/outputs/project3/full/horse_race.csv</code>. Both match to one decimal place.</p>
+</section>
+</div>
+
+<script>
+(function(){
+  var data=[[2005,1.2,3.4],[2006,-1.6,3.1],[2007,-2.5,2.9],[2008,-3.2,3.9],[2009,-2.2,1.4],[2010,-4.4,-1.3],[2011,-4.8,-2.4],[2012,-1.4,-1.0],[2013,-0.6,2.9],[2014,2.1,6.3]];
+  var julia={2005:1,2008:1,2014:1};
+  var svg=document.getElementById('perOrigin'),NS='http://www.w3.org/2000/svg';
+  var L=46,R=630,T=14,B=222,vmin=-6,vmax=8;
+  function y(v){return T+(vmax-v)/(vmax-vmin)*(B-T);}
+  function el(n,a,t){var e=document.createElementNS(NS,n);for(var k in a)e.setAttribute(k,a[k]);if(t!=null)e.textContent=t;svg.appendChild(e);return e;}
+  for(var v=vmin;v<=vmax;v+=2){
+    el('line',{x1:L,x2:R,y1:y(v),y2:y(v),stroke:'var(--rule)','stroke-width':v===0?1.4:1,'stroke-dasharray':v===0?'':'2 3'});
+    el('text',{x:L-8,y:y(v)+4,'text-anchor':'end','font-size':11,'font-family':'IBM Plex Mono, monospace',fill:'var(--muted)'},(v>0?'+':'')+v+'%');
+  }
+  var gw=(R-L)/data.length,bw=18;
+  data.forEach(function(d,i){
+    var cx=L+gw*i+gw/2;
+    if(julia[d[0]]) el('rect',{x:cx-bw-5,y:T,width:2*bw+10,height:B-T,fill:'none',stroke:'var(--julia)','stroke-dasharray':'4 3','stroke-width':1,rx:3});
+    [[d[1],'var(--will)',cx-bw-1],[d[2],'var(--julia)',cx+1]].forEach(function(b){
+      var y0=y(0),y1=y(b[0]);
+      el('rect',{x:b[2],y:Math.min(y0,y1),width:bw,height:Math.max(1,Math.abs(y1-y0)),fill:b[1],rx:1.5});
+    });
+    el('text',{x:cx,y:B+18,'text-anchor':'middle','font-size':12,'font-family':'IBM Plex Mono, monospace',fill:'var(--fg)'},d[0]);
+  });
+  el('text',{x:(L+R)/2,y:B+36,'text-anchor':'middle','font-size':11,fill:'var(--muted)','font-family':'IBM Plex Sans, sans-serif'},'Forecast origin (10-year growth, origin → origin+10)');
+})();
+</script>
