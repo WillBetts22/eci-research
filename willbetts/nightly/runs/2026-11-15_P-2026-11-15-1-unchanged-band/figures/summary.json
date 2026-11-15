@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "panel_countries": 112,
+    "products": 1222,
+    "B": 500,
+    "median_abs_delta_2019_2022": 0.092,
+    "median_se_boot_paired": 0.159,
+    "median_se_boot_indep": 0.299,
+    "share_p_sign_ge_0.90_paired": 0.098,
+    "tau_star_paired_2019_2022": NaN,
+    "tau_star_indep_2019_2022": NaN,
+    "share_countries_below_tau_star": 0.0,
+    "atlas_agree_above_tau": NaN,
+    "atlas_agree_below_tau": 0.634,
+    "atlas_n_above": 0,
+    "atlas_n_below": 112,
+    "z_rule_calls_2019_2022": 7,
+    "z_rule_atlas_agree": 1.0,
+    "band_0.071_atlas_agree_above": 0.686,
+    "band_0.071_atlas_agree_below": 0.548
+  },
+  "tau_star": {
+    "paired:2019-2022": NaN,
+    "paired:2019-2021": NaN,
+    "paired:2019-2023": NaN,
+    "paired:2021-2022": NaN,
+    "indep:2019-2022": NaN,
+    "indep:2019-2021": NaN,
+    "indep:2019-2023": NaN,
+    "indep:2021-2022": NaN
+  }
+}
