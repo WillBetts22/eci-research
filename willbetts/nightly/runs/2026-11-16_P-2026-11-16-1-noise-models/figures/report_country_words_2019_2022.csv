@@ -1,0 +1,8 @@
+iso3,delta,atlas_delta,SE V0,p V0,z-word V0,SE V1a,p V1a,z-word V1a,SE V1b,p V1b,z-word V1b,SE V2_sigma_cal,p V2_sigma_cal,z-word V2_sigma_cal,SE V2_sigma=0.25,p V2_sigma=0.25,z-word V2_sigma=0.25
+CAN,0.0810,-0.0490,0.1000,0.5980,unchanged,0.0585,0.8100,unchanged,0.1167,0.7660,unchanged,0.0270,0.9960,increased,0.0871,0.6340,unchanged
+DEU,-0.0261,-0.0240,0.1218,0.7400,unchanged,0.0413,0.8080,unchanged,0.0824,0.6460,unchanged,0.0176,0.9720,unchanged,0.0645,0.8600,unchanged
+POL,-0.1241,-0.0300,0.0789,0.9260,unchanged,0.0388,1.0000,decreased,0.0774,0.9380,unchanged,0.0190,1.0000,decreased,0.0513,0.9600,decreased
+SGP,0.0253,-0.0310,0.2020,0.5640,unchanged,0.0972,0.5920,unchanged,0.1940,0.5500,unchanged,0.0390,0.8040,unchanged,0.1081,0.5900,unchanged
+ARE,-0.0440,-0.0150,0.2271,0.4240,unchanged,0.1231,0.4580,unchanged,0.2459,0.5680,unchanged,0.0621,0.7320,unchanged,0.1348,0.4400,unchanged
+GBR,0.2052,0.0880,0.1236,0.9260,increased,0.0565,1.0000,increased,0.1128,0.9720,increased,0.0251,1.0000,increased,0.0705,0.9960,increased
+VNM,0.0693,0.0740,0.1267,0.7880,unchanged,0.0733,0.9060,unchanged,0.1464,0.7040,unchanged,0.0274,1.0000,increased,0.0816,0.9380,unchanged
