@@ -38,7 +38,7 @@ Question (from `willbetts/ECI_growth_prediction.md`, Project 3): *Is ECI the bes
 6. **The lab index we actually use**, including Will's Q05 HS84 fix, tested in the same horse race.
 7. **A literature frame.** Albeaik et al. (2017, ECI+) and Hidalgo & Stojkoski (2025) are in `literature/`, and earlier forecasting horse races need to be summarized.
 
-**Important design note for Monday.** The Atlas resource control that made Will's Project 1 replicate (`willbetts/project1/README.md`) is the *increase* in resource exports over the decade. That is future information, so it is valid in-sample but cannot be used in a true forecast. The paper should say this explicitly. It is probably why in-sample and out-of-time results disagree.
+**Important design note (now in SPEC §3).** The Atlas resource control that made Will's Project 1 replicate (`willbetts/project1/README.md`) is the *increase* in resource exports over the decade. That is future information, so it is valid in-sample but cannot be used in a true forecast. The paper should say this explicitly. It is probably why in-sample and out-of-time results disagree.
 
 ---
 
@@ -61,74 +61,37 @@ Working title: *Does the Eigenvector Earn Its Keep? A Horse Race of Economic Com
 
 ---
 
-## 3. This week's assignments
+## 3. This week's to-dos (rewritten 2026-11-18): one each
 
-### Critical path, by Monday 11/16 evening: freeze the spec (Julia + Will, 1 hour)
-Agree on a one-page `willbetts/project3/SPEC.md` covering:
-- outcome: real GDP per capita (PPP), annualized over 10 years;
-- baseline: log income, resource rents, and whether resource share is in the primary spec or a robustness arm;
-- sample rule: population at least 1M and exports at least $1B, merged on ISO3;
-- the list of measures;
-- the scored origins;
-- the metric: out-of-sample R² vs baseline, Clark–West, paired bootstrap.
+**The spec is frozen:** [`willbetts/project3/SPEC.md`](project3/SPEC.md). Everyone runs on it. Its §7 decision rule decides the headline, so nobody picks a winner on Friday.
 
-**Everyone else runs on this spec**, so it has to come first. Suggested default: Julia's pipeline and samples, scoring *all* rolling origins 2005–2014 (Will's design), with resource share as a pre-specified second arm reported alongside.
+Each to-do ends in a **section packet**: `findings.md` in your folder with 3–5 findings (each number traced to a saved output file), the table or figure files, one "what this does not show" line, and the command that reproduces it.
 
-### Julia: primary out-of-time horse race (§3, §5, §10)
-- Starts from: `juliawang/project3_horse_race.py`, `outputs/project3/full/`
-- Rerun every measure under the frozen spec.
-- Add **Clark–West** tests vs baseline and vs diversity, plus a **model confidence set** (or a Holm correction) across measures.
-- Deliver one master table, one row per measure: in-sample ΔR², out-of-sample R², folds won, CW p-value, rank stability.
-- Write §3 from the existing data README and validation outputs.
+| Who | The one to-do | Done when | Due |
+|---|---|---|---|
+| **Julia** | **Run the primary horse race under SPEC.md** (Arms A and B, all 10 origins 2005–2014, Clark–West with cluster bootstrap, Holm correction, ECI vs diversity CI) and apply the §7 decision rule. Start from `juliawang/project3_horse_race.py`; the Arm B merge is in `willbetts/forecast-reconciliation/julia_plus_resource_share.py`. | `juliawang/outputs/project3/spec/master_table.csv` (one row per measure × arm) + `findings.md` stating which §7 verdict holds | Thu 11/19, 18:00 |
+| **Will** | **Build the specification curve** (SPEC §8: 96 specs × {eci_hs4, diversity}) and plot it with Arms A and B highlighted. Start from `willbetts/forecast-reconciliation/step_will_to_julia.py`. | `willbetts/project3/spec_curve.csv` + `spec_curve.png` + `findings.md` (share of specs where ECI > baseline and where ECI > diversity) | Thu 11/19, 18:00 |
+| **Maitree** | **Run the in-sample horse race:** the Project 1 regression with each SPEC §4 measure swapped in, **plus** ECI and diversity together **plus** ECI residualized on diversity. Use Arm A controls; the Atlas decade-change control goes in a separate column labelled "in-sample only". | `maitreemody/project3/in_sample_table.csv` (coef, SE, ΔR², N per measure) + `findings.md` | Thu 11/19, 18:00 |
+| **Towa** | **Write the "previous horse races" table:** Hausmann et al. 2013, Tacchella et al. 2012 and 2018, Albeaik et al. 2017, Mealy, Farmer & Teytelboym 2019, Hidalgo & Stojkoski 2025. Columns: measures compared, sample and years, horizon, in- vs out-of-sample, resource control used, winner. Check each one against the source; `/lit-review` can draft entries. | `literature/project3_horse_races.md` with the table + ~1.5-page §2 draft | Thu 11/19, 18:00 |
+| **Aiden** | **Make Fitness converge:** normalize each iteration, stop when ranks are stable, and record per year whether it converged. Output in the `all_measures.csv` format (`iso3, year, log_fitness_conv`). Start from `willbetts/nightly/lib/eci.py` and `juliawang/outputs/project3/full/fitness_diagnostics.csv`. | `aiden/project3/fitness_converged.csv` (new folder) + per-year convergence log, **handed to Julia** | **Thu 11/19, 12:00** (Julia needs it for her run. If it's late, Fitness is reported as "unresolved") |
 
-### Will: specification curve and extended history (§1, §6, §9)
-- Starts from: `willbetts/forecast-reconciliation/`, nightly Q16
-- Turn the step-by-step reconciliation into a full **specification curve** for HS4 ECI and for diversity. Vary resource control (none / share / rents / both), units (const US$ / PPP), origins (all / Julia's 3 / excluding the commodity peak), sample (all / non-commodity) and horizon (5 / 10 years). Plot the ECI gain across every combination.
-- Stretch: extend the out-of-time test with **SITC ECI from 1962** (Maitree's panel) to get more test decades.
-- Draft §1 and §9 and own paper assembly (the LaTeX skeleton from `nightly/paper/`).
-
-### Maitree: in-sample horse race and the lab's index (§4, §8)
-- Starts from: `maitreemody/eci_growth/` panel, `willbetts/project1/` (Atlas resource control)
-- Run the Project 1 regression swapping in each measure: diversity, entropy, HHI, HS4 / HS2 / Harvard ECI, Fitness, the 18 and 17 groups, and the **18 groups with the Q05 HS84 fix**. Report coefficient, R² gain and N, with the Atlas control and with resource rents.
-- **Network vs diversity:** ECI and diversity in the same regression, plus ECI residualized on diversity.
-- Build a forecast-setting granularity figure (out-of-sample R² vs number of products: 18 → HS2 → HS4), extending Julia's `granularity_comparison.png` and Will's Q04 ladder.
-
-### Towa: literature and framing (§2, §1 support)
-- Starts from: `literature/README.md`; the `/lit-review` workflow can draft entries in the lab's 3-question format.
-- Write a **"previous horse races" table**: paper, measures compared, sample and years, outcome horizon, in-sample vs out-of-sample, who won. Must-cover: Hausmann et al. 2013 (Atlas), Tacchella et al. 2012/2018 (Fitness and forecasting), Albeaik et al. 2017 (ECI+), Mealy, Farmer & Teytelboym 2019, and Hidalgo & Stojkoski 2025. Verify each citation from the source.
-- Identify which specs earlier papers used for the resource control and the forecast origins. That directly supports the Monday spec decision, so send early notes to Julia and Will by Monday.
-- Draft §2 (about 1.5 pages).
-
-### Aiden: alternative measures and stability (§7)
-- Starts from: `willbetts/nightly/lib/eci.py`, nightly Q08/Q09 runs, `juliawang/outputs/project3/full/fitness_diagnostics.csv`. Pair with Will for a 30-minute code walkthrough on Sunday or Monday.
-- **Fitness done properly:** implement a convergence-based stopping rule (ranks stable, values normalized each iteration) and report whether it converges per year. Feed the converged scores into Julia's horse race.
-- **ECI+** (Albeaik et al. 2017) at HS4, if time allows. Coordinate with Towa on the exact formula.
-- **Rank stability for every measure:** extend Will's Q09 bootstrap (90% rank intervals) to all measures, giving the "policy-target quality" column of the master table.
+**Cut from this week** (moved to future work): SITC 1962 extension, ECI+, model confidence set, new granularity figure (reuse Julia's `granularity_comparison.png`), extended rank-stability bootstrap (reuse Julia's `stability.csv`).
 
 ---
 
-## 4. Calendar
+## 4. Calendar (revised 2026-11-18)
 
-| Day | Milestone | Who |
+| When | Milestone | Who |
 |---|---|---|
-| Sun 11/15 | Everyone reads this plan, `ECI_growth_prediction.md` §Project 3, and the reconciliation README. Aiden + Will code walkthrough | all |
-| **Mon 11/16** | **Spec frozen** (`SPEC.md`). Towa's early notes on earlier specs | Julia, Will, Towa |
-| Wed 11/18 | Mid-week check-in (15 min): each person shows one first result. Flag surprises early | all |
-| Thu 11/19 (evening) | **Code and numbers freeze.** Each person commits code, outputs and a **section packet** | all |
-| **Fri 11/20** | **Writing session.** Merge packets into §1–10, reconcile any number conflicts, agree on the headline and abstract | all |
-
-**What a section packet is:** a short `findings.md` in your folder containing:
-- 3–5 bullet findings, with every number copied from saved output (lab rule: no number without an output file behind it);
-- the table and figure files;
-- a "what this does not show" line;
-- the exact command to reproduce it.
-
-Friday then becomes assembly and argument, not analysis.
-
----
+| ~~Mon 11/16~~ | ~~Spec frozen~~ (slipped two days) | — |
+| **Wed 11/18 (today)** | Check-in: **Julia signs off on SPEC.md** (or the two of you change it now and log it). Each person confirms their to-do and start file | all |
+| **Thu 11/19, 12:00** | Aiden's converged Fitness goes to Julia | Aiden → Julia |
+| **Thu 11/19, 18:00** | **Code and numbers freeze.** Packets committed | all |
+| **Fri 11/20** | **Writing session.** Apply SPEC §7 to Julia's table; §5 numbers come only from Julia's master table, §6 only from Will's curve | all |
 
 ## 5. Risks to watch
-- **The spec slips past Monday.** Then everyone runs on different specs and we rebuild the Julia/Will disagreement five times over. Protect Monday.
+- **Someone drifts from SPEC.md.** Any result not on the frozen spec goes in the robustness section, not the headline. Spec changes need Julia + Will and a change-log line.
+- **Aiden's Fitness is late.** Julia runs without it at 12:00 Thursday. Don't hold the freeze for it.
 - **Resource-control leakage.** Don't use the decade-change Atlas control in any out-of-time model.
 - **Number conflicts on Friday.** Each number should have one owner: §5's numbers come from Julia's master table, and §6's from Will's curve.
 - **Scope creep.** Causality and fixed effects belong to Project 4, not here. GENEPY and other measures go in "future work".
