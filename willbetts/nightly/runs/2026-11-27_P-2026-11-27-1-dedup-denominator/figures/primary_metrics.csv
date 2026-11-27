@@ -1,0 +1,31 @@
+base,year,variant,n,M1 rho ATLAS,M2 rho lnGDPpc,M1 diff,M2 diff,rho w/ D0,M3 rho HS4 (report only)
+C,2019,D0 lab denominator (18 cols),105,0.6631,0.425,0.0,0.0,1.0,0.7286
+C,2019,DD de-duplicated denominator (primary),105,0.7141,0.4481,0.0511,0.0231,0.933,0.7364
+C,2019,A17 aggregate dropped (ref.),105,0.7082,0.4214,0.0452,-0.0036,0.9217,0.7287
+C,2020,D0 lab denominator (18 cols),105,0.7623,0.4903,0.0,0.0,1.0,0.7763
+C,2020,DD de-duplicated denominator (primary),105,0.7689,0.5179,0.0067,0.0276,0.9535,0.7781
+C,2020,A17 aggregate dropped (ref.),105,0.7641,0.4838,0.0019,-0.0065,0.9468,0.7669
+C,2021,D0 lab denominator (18 cols),94,0.7821,0.4743,0.0,0.0,1.0,0.8101
+C,2021,DD de-duplicated denominator (primary),94,0.8133,0.5338,0.0312,0.0595,0.965,0.8436
+C,2021,A17 aggregate dropped (ref.),94,0.8201,0.4981,0.0379,0.0238,0.9639,0.8522
+C,2022,D0 lab denominator (18 cols),105,0.7516,0.4978,0.0,0.0,1.0,0.769
+C,2022,DD de-duplicated denominator (primary),105,0.7491,0.5088,-0.0025,0.011,0.9839,0.7668
+C,2022,A17 aggregate dropped (ref.),105,0.7338,0.4036,-0.0179,-0.0942,0.9382,0.7307
+C,2023,D0 lab denominator (18 cols),109,0.7331,0.4797,0.0,0.0,1.0,0.7298
+C,2023,DD de-duplicated denominator (primary),109,0.7335,0.4567,0.0004,-0.023,0.9531,0.7282
+C,2023,A17 aggregate dropped (ref.),109,0.7205,0.4005,-0.0126,-0.0792,0.933,0.7108
+R,2019,D0 lab denominator (18 cols),105,0.689,0.4527,0.0,0.0,1.0,0.7499
+R,2019,DD de-duplicated denominator (primary),105,0.7163,0.4471,0.0273,-0.0057,0.9309,0.7385
+R,2019,A17 aggregate dropped (ref.),105,0.7082,0.4152,0.0191,-0.0376,0.9198,0.7267
+R,2020,D0 lab denominator (18 cols),105,0.7603,0.5078,0.0,0.0,1.0,0.7816
+R,2020,DD de-duplicated denominator (primary),105,0.7652,0.5151,0.0049,0.0074,0.9486,0.7784
+R,2020,A17 aggregate dropped (ref.),105,0.7588,0.4804,-0.0015,-0.0274,0.9326,0.767
+R,2021,D0 lab denominator (18 cols),94,0.7893,0.4653,0.0,0.0,1.0,0.8018
+R,2021,DD de-duplicated denominator (primary),94,0.818,0.5264,0.0286,0.0611,0.9697,0.8388
+R,2021,A17 aggregate dropped (ref.),94,0.8106,0.4743,0.0213,0.009,0.9555,0.8358
+R,2022,D0 lab denominator (18 cols),105,0.7516,0.4978,0.0,0.0,1.0,0.769
+R,2022,DD de-duplicated denominator (primary),105,0.7491,0.5088,-0.0025,0.011,0.9839,0.7668
+R,2022,A17 aggregate dropped (ref.),105,0.7338,0.4036,-0.0179,-0.0942,0.9382,0.7307
+R,2023,D0 lab denominator (18 cols),109,0.7331,0.4797,0.0,0.0,1.0,0.7298
+R,2023,DD de-duplicated denominator (primary),109,0.7335,0.4567,0.0004,-0.023,0.9531,0.7282
+R,2023,A17 aggregate dropped (ref.),109,0.7205,0.4005,-0.0126,-0.0792,0.933,0.7108
